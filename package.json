@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "kittitas-jail-roster",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
