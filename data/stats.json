@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T11:19:12",
+  "generatedAt": "2026-10-11T12:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 133,
     "bookingsObserved": 19,
-    "releasesObserved": 18,
-    "inCustody": 115,
+    "releasesObserved": 19,
+    "inCustody": 114,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-11",
       "booked": 2,
-      "released": 0
+      "released": 1
     }
   ],
   "topCharges": [
@@ -283,21 +283,21 @@
     },
     {
       "name": "UDC",
-      "count": 20,
-      "pct": 5.5,
+      "count": 19,
+      "pct": 5.3,
       "label": "Upper Kittitas District Court"
+    },
+    {
+      "name": "CEMU",
+      "count": 4,
+      "pct": 1.1,
+      "label": "CEMU"
     },
     {
       "name": "OS",
       "count": 3,
       "pct": 0.8,
       "label": "OS"
-    },
-    {
-      "name": "CEMU",
-      "count": 3,
-      "pct": 0.8,
-      "label": "CEMU"
     },
     {
       "name": "OCC",
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 18,
+    "official": 19,
     "observed": 0,
     "releasedListOnly": 17
   },
   "stay": {
-    "releasedCount": 18,
-    "medianDays": 14.8,
-    "meanDays": 32,
+    "releasedCount": 19,
+    "medianDays": 11,
+    "meanDays": 30.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -421,7 +421,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 2
+        "count": 3
       },
       {
         "label": "3–7 days",
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 43.8,
+    "currentMedianDaysHeld": 45,
     "currentLongestDaysHeld": 912.8
   },
   "bond": {
-    "withBond": 59,
-    "noBond": 56,
-    "medianBond": 60000,
+    "withBond": 60,
+    "noBond": 54,
+    "medianBond": 55000,
     "maxBond": 2000000,
-    "totalBond": 12064400
+    "totalBond": 12089400
   },
   "chargesPerBooking": 2.7
 }
