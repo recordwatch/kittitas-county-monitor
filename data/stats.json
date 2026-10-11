@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-11T03:19:16",
+  "generatedAt": "2026-10-11T04:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 131,
-    "bookingsObserved": 17,
+    "bookingsTracked": 132,
+    "bookingsObserved": 18,
     "releasesObserved": 18,
-    "inCustody": 113,
+    "inCustody": 114,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-11",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -189,7 +189,12 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 12,
-      "pct": 3.4
+      "pct": 3.3
+    },
+    {
+      "name": "HARASSMENT",
+      "count": 9,
+      "pct": 2.5
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -207,32 +212,27 @@
       "pct": 2.2
     },
     {
-      "name": "HARASSMENT",
-      "count": 8,
-      "pct": 2.2
-    },
-    {
       "name": "Violation of DV NCO",
       "count": 8,
       "pct": 2.2
     },
     {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 7,
+      "pct": 1.9
+    },
+    {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 7,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "RAPE OF A CHILD",
       "count": 7,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 6,
-      "pct": 1.7
-    },
-    {
-      "name": "ASSAULT 4TH DEGREE",
       "count": 6,
       "pct": 1.7
     },
@@ -265,20 +265,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 208,
-      "pct": 58.1,
+      "count": 210,
+      "pct": 58.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 75,
-      "pct": 20.9,
+      "pct": 20.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 13.4,
+      "pct": 13.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 117,
-      "pct": 89.3
+      "count": 118,
+      "pct": 89.4
     },
     {
       "name": "Female",
       "count": 14,
-      "pct": 10.7
+      "pct": 10.6
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 20
+        "count": 21
       },
       {
         "label": "25–34",
@@ -346,18 +346,18 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 35,
-      "pct": 27.3
+      "count": 36,
+      "pct": 27.9
     },
     {
       "name": "CLE ELUM, WA",
       "count": 12,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "YAKIMA, WA",
@@ -440,12 +440,12 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 45.8,
-    "currentLongestDaysHeld": 912.4
+    "currentMedianDaysHeld": 44.7,
+    "currentLongestDaysHeld": 912.5
   },
   "bond": {
     "withBond": 59,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 60000,
     "maxBond": 2000000,
     "totalBond": 12064400
