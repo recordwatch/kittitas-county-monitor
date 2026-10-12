@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-12T09:23:13",
+  "generatedAt": "2026-10-12T10:19:26",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 133,
-    "bookingsObserved": 19,
+    "bookingsTracked": 134,
+    "bookingsObserved": 20,
     "releasesObserved": 19,
-    "inCustody": 114,
+    "inCustody": 115,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-12",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 24,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -197,6 +197,11 @@
       "pct": 2.7
     },
     {
+      "name": "Violation of DV NCO",
+      "count": 9,
+      "pct": 2.5
+    },
+    {
       "name": "HARASSMENT",
       "count": 9,
       "pct": 2.5
@@ -208,11 +213,6 @@
     },
     {
       "name": "CRIM TRESPASS 1ST",
-      "count": 8,
-      "pct": 2.2
-    },
-    {
-      "name": "Violation of DV NCO",
       "count": 8,
       "pct": 2.2
     },
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 215,
-      "pct": 58.7,
+      "pct": 58.6,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 75,
-      "pct": 20.5,
+      "count": 76,
+      "pct": 20.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 118,
-      "pct": 88.7
+      "count": 119,
+      "pct": 88.8
     },
     {
       "name": "Female",
       "count": 15,
-      "pct": 11.3
+      "pct": 11.2
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 48
+        "count": 49
       },
       {
         "label": "45–54",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 36,
-      "pct": 27.7
+      "count": 37,
+      "pct": 28.2
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "SPOKANE, WA",
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 45.9,
+    "currentMedianDaysHeld": 44.8,
     "currentLongestDaysHeld": 913.7
   },
   "bond": {
     "withBond": 60,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 55000,
     "maxBond": 2000000,
     "totalBond": 12089400
   },
-  "chargesPerBooking": 2.8
+  "chargesPerBooking": 2.7
 }
