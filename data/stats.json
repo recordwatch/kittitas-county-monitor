@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:50:48",
+  "generatedAt": "2026-10-12T00:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 133,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-12",
-      "booked": 0,
-      "released": 0
-    },
     {
       "date": "2026-09-13",
       "booked": 0,
@@ -158,13 +153,18 @@
       "date": "2026-10-11",
       "booked": 2,
       "released": 1
+    },
+    {
+      "date": "2026-10-12",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 32,
-      "pct": 8.9
+      "pct": 8.7
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -174,17 +174,17 @@
     {
       "name": "DWLS THIRD DEGREE",
       "count": 17,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 15,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -192,12 +192,12 @@
       "pct": 3.3
     },
     {
-      "name": "HARASSMENT",
-      "count": 9,
-      "pct": 2.5
+      "name": "ASSAULT 2ND DEGREE",
+      "count": 10,
+      "pct": 2.7
     },
     {
-      "name": "ASSAULT 2ND DEGREE",
+      "name": "HARASSMENT",
       "count": 9,
       "pct": 2.5
     },
@@ -234,7 +234,7 @@
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 6,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "RESISTING ARREST",
@@ -265,26 +265,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 210,
-      "pct": 58.2,
+      "count": 215,
+      "pct": 58.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 75,
-      "pct": 20.8,
+      "pct": 20.5,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 13.3,
+      "pct": 13.1,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 19,
-      "pct": 5.3,
+      "pct": 5.2,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "OCC",
       "count": 2,
-      "pct": 0.6,
+      "pct": 0.5,
       "label": "OCC"
     }
   ],
@@ -450,5 +450,5 @@
     "maxBond": 2000000,
     "totalBond": 12089400
   },
-  "chargesPerBooking": 2.7
+  "chargesPerBooking": 2.8
 }
