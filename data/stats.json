@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T04:19:59",
+  "generatedAt": "2026-10-13T05:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 137,
-    "bookingsObserved": 23,
+    "bookingsTracked": 138,
+    "bookingsObserved": 24,
     "releasesObserved": 24,
-    "inCustody": 113,
+    "inCustody": 114,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -212,14 +212,14 @@
       "pct": 2.4
     },
     {
-      "name": "CRIM TRESPASS 1ST",
+      "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 8,
       "pct": 2.1
     },
     {
-      "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 7,
-      "pct": 1.9
+      "name": "CRIM TRESPASS 1ST",
+      "count": 8,
+      "pct": 2.1
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,25 +266,25 @@
     {
       "name": "SUP",
       "count": 215,
-      "pct": 57.6,
+      "pct": 57.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 81,
-      "pct": 21.7,
+      "count": 82,
+      "pct": 21.9,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.9,
+      "pct": 12.8,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 20,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 122,
+      "count": 123,
       "pct": 89.1
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 50
+        "count": 51
       },
       {
         "label": "45–54",
@@ -347,17 +347,17 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 38,
-      "pct": 28.4
+      "pct": 28.1
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "YAKIMA, WA",
@@ -371,8 +371,8 @@
     },
     {
       "name": "NESPELEM, WA",
-      "count": 3,
-      "pct": 2.2
+      "count": 4,
+      "pct": 3
     },
     {
       "name": "EVERETT, WA",
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 47.8,
+    "currentMedianDaysHeld": 46.7,
     "currentLongestDaysHeld": 914.5
   },
   "bond": {
-    "withBond": 61,
+    "withBond": 62,
     "noBond": 52,
-    "medianBond": 60000,
+    "medianBond": 55000,
     "maxBond": 2000000,
-    "totalBond": 12165900
+    "totalBond": 12166900
   },
   "chargesPerBooking": 2.7
 }
