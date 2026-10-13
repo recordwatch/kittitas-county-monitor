@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-13T12:19:15",
+  "generatedAt": "2026-10-13T13:19:20",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 141,
-    "bookingsObserved": 27,
-    "releasesObserved": 25,
+    "bookingsTracked": 142,
+    "bookingsObserved": 28,
+    "releasesObserved": 26,
     "inCustody": 116,
     "uniquePeople": 1
   },
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 4,
-      "released": 1
+      "booked": 5,
+      "released": 2
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 32,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 19,
-      "pct": 5
+      "count": 20,
+      "pct": 5.3
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -234,7 +234,7 @@
     {
       "name": "RAPE OF A CHILD",
       "count": 7,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 215,
-      "pct": 56.9,
+      "pct": 56.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 86,
-      "pct": 22.8,
+      "count": 87,
+      "pct": 23,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 126,
+      "count": 127,
       "pct": 89.4
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 52
+        "count": 53
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 38,
-      "pct": 27.5
+      "pct": 27.3
     },
     {
       "name": "CLE ELUM, WA",
@@ -357,7 +357,7 @@
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "YAKIMA, WA",
@@ -390,6 +390,11 @@
       "pct": 2.2
     },
     {
+      "name": "AUBURN, WA",
+      "count": 2,
+      "pct": 1.4
+    },
+    {
       "name": "SNOHOMISH, WA",
       "count": 2,
       "pct": 1.4
@@ -398,22 +403,17 @@
       "name": "OMAK, WA",
       "count": 2,
       "pct": 1.4
-    },
-    {
-      "name": "TACOMA, WA",
-      "count": 2,
-      "pct": 1.4
     }
   ],
   "releaseSources": {
-    "official": 25,
+    "official": 26,
     "observed": 0,
     "releasedListOnly": 18
   },
   "stay": {
-    "releasedCount": 25,
-    "medianDays": 3.9,
-    "meanDays": 26.2,
+    "releasedCount": 26,
+    "medianDays": 5.5,
+    "meanDays": 25.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -429,7 +429,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 2
+        "count": 3
       },
       {
         "label": "1–3 months",
@@ -441,14 +441,14 @@
       }
     ],
     "currentMedianDaysHeld": 42.2,
-    "currentLongestDaysHeld": 914.8
+    "currentLongestDaysHeld": 914.9
   },
   "bond": {
     "withBond": 64,
     "noBond": 52,
     "medianBond": 35000,
     "maxBond": 2000000,
-    "totalBond": 12101500
+    "totalBond": 12087500
   },
   "chargesPerBooking": 2.7
 }
