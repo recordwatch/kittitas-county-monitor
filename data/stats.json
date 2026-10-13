@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T13:19:20",
+  "generatedAt": "2026-10-13T14:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 142,
-    "bookingsObserved": 28,
+    "bookingsTracked": 144,
+    "bookingsObserved": 30,
     "releasesObserved": 26,
-    "inCustody": 116,
+    "inCustody": 118,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 5,
+      "booked": 7,
       "released": 2
     }
   ],
@@ -164,22 +164,22 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 32,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 25,
-      "pct": 6.6
+      "count": 26,
+      "pct": 6.8
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 20,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -189,7 +189,7 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 12,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -199,17 +199,17 @@
     {
       "name": "Violation of DV NCO",
       "count": 9,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "HARASSMENT",
       "count": 9,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "BURGLARY 2ND DEGREE",
       "count": 9,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -232,14 +232,14 @@
       "pct": 2.1
     },
     {
-      "name": "RAPE OF A CHILD",
+      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 7,
       "pct": 1.8
     },
     {
-      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
-      "count": 6,
-      "pct": 1.6
+      "name": "RAPE OF A CHILD",
+      "count": 7,
+      "pct": 1.8
     },
     {
       "name": "RESISTING ARREST",
@@ -265,32 +265,32 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 215,
-      "pct": 56.7,
+      "count": 220,
+      "pct": 57.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 87,
-      "pct": 23,
+      "count": 88,
+      "pct": 22.9,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.7,
+      "pct": 12.5,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 20,
-      "pct": 5.3,
+      "pct": 5.2,
       "label": "Upper Kittitas District Court"
     },
     {
       "name": "CEMU",
       "count": 4,
-      "pct": 1.1,
+      "pct": 1,
       "label": "CEMU"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 127,
-      "pct": 89.4
+      "count": 129,
+      "pct": 89.6
     },
     {
       "name": "Female",
       "count": 15,
-      "pct": 10.6
+      "pct": 10.4
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 53
+        "count": 55
       },
       {
         "label": "45–54",
@@ -347,47 +347,47 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 38,
-      "pct": 27.3
+      "pct": 27
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 9.4
+      "pct": 9.2
     },
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "YAKIMA, WA",
-      "count": 5,
-      "pct": 3.6
+      "count": 7,
+      "pct": 5
     },
     {
       "name": "MOSES LAKE, WA",
       "count": 5,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "NESPELEM, WA",
       "count": 4,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "EVERETT, WA",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "KITTITAS, WA",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "RENTON, WA",
       "count": 3,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "AUBURN, WA",
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 42.2,
+    "currentMedianDaysHeld": 41.1,
     "currentLongestDaysHeld": 914.9
   },
   "bond": {
-    "withBond": 64,
-    "noBond": 52,
-    "medianBond": 35000,
+    "withBond": 65,
+    "noBond": 53,
+    "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 12087500
+    "totalBond": 12112500
   },
   "chargesPerBooking": 2.7
 }
