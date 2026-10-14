@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-13T21:19:13",
+  "generatedAt": "2026-10-13T22:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 146,
-    "bookingsObserved": 32,
+    "bookingsTracked": 147,
+    "bookingsObserved": 33,
     "releasesObserved": 26,
-    "inCustody": 120,
+    "inCustody": 121,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-13",
-      "booked": 9,
+      "booked": 10,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 32,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -174,7 +174,7 @@
     {
       "name": "DWLS THIRD DEGREE",
       "count": 20,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -193,8 +193,8 @@
     },
     {
       "name": "ASSAULT 2ND DEGREE",
-      "count": 10,
-      "pct": 2.6
+      "count": 11,
+      "pct": 2.8
     },
     {
       "name": "Violation of DV NCO",
@@ -265,26 +265,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 222,
-      "pct": 57.4,
+      "count": 224,
+      "pct": 57.6,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 88,
-      "pct": 22.7,
+      "pct": 22.6,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 20,
-      "pct": 5.2,
+      "pct": 5.1,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 130,
-      "pct": 89
+      "count": 131,
+      "pct": 89.1
     },
     {
       "name": "Female",
       "count": 16,
-      "pct": 11
+      "pct": 10.9
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 23
+        "count": 24
       },
       {
         "label": "25–34",
@@ -347,17 +347,17 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 38,
-      "pct": 26.6
+      "pct": 26.4
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "YAKIMA, WA",
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 39.8,
+    "currentMedianDaysHeld": 39.4,
     "currentLongestDaysHeld": 915.2
   },
   "bond": {
     "withBond": 65,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 30000,
     "maxBond": 2000000,
     "totalBond": 12126000
   },
-  "chargesPerBooking": 2.7
+  "chargesPerBooking": 2.6
 }
