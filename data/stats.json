@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T02:19:13",
+  "generatedAt": "2026-10-14T03:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 148,
-    "bookingsObserved": 34,
+    "bookingsTracked": 149,
+    "bookingsObserved": 35,
     "releasesObserved": 27,
-    "inCustody": 121,
+    "inCustody": 122,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-14",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 26,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -179,7 +179,7 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "THEFT 3RD DEG",
@@ -219,17 +219,17 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 8,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 8,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 8,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -242,17 +242,17 @@
       "pct": 1.8
     },
     {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 6,
+      "pct": 1.5
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 5,
       "pct": 1.3
     },
     {
       "name": "ASSAULT 1ST DEGREE",
-      "count": 5,
-      "pct": 1.3
-    },
-    {
-      "name": "Assault 4th-Domestic Violence",
       "count": 5,
       "pct": 1.3
     },
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 224,
-      "pct": 57.4,
+      "pct": 57.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 89,
-      "pct": 22.8,
+      "count": 90,
+      "pct": 23,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 131,
-      "pct": 88.5
+      "count": 132,
+      "pct": 88.6
     },
     {
       "name": "Female",
       "count": 17,
-      "pct": 11.5
+      "pct": 11.4
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 35
+        "count": 36
       },
       {
         "label": "35–44",
@@ -346,18 +346,18 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 38,
-      "pct": 26.2
+      "count": 39,
+      "pct": 26.7
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 8.3
+      "pct": 8.2
     },
     {
       "name": "YAKIMA, WA",
@@ -372,17 +372,17 @@
     {
       "name": "KITTITAS, WA",
       "count": 4,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "RENTON, WA",
       "count": 4,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "NESPELEM, WA",
       "count": 4,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "EVERETT, WA",
@@ -445,7 +445,7 @@
   },
   "bond": {
     "withBond": 64,
-    "noBond": 57,
+    "noBond": 58,
     "medianBond": 35000,
     "maxBond": 2000000,
     "totalBond": 12125900
