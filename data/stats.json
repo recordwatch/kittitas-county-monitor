@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T07:19:17",
+  "generatedAt": "2026-10-14T09:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 149,
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 224,
-      "pct": 57.3,
+      "pct": 57.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 90,
-      "pct": 23,
+      "count": 91,
+      "pct": 23.2,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "U.S. Marshals hold"
     },
     {
@@ -440,15 +440,15 @@
         "count": 2
       }
     ],
-    "currentMedianDaysHeld": 39.8,
-    "currentLongestDaysHeld": 915.6
+    "currentMedianDaysHeld": 39.9,
+    "currentLongestDaysHeld": 915.7
   },
   "bond": {
-    "withBond": 64,
-    "noBond": 58,
-    "medianBond": 35000,
+    "withBond": 65,
+    "noBond": 57,
+    "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 12125900
+    "totalBond": 12126900
   },
   "chargesPerBooking": 2.6
 }
