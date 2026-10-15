@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T11:28:04",
+  "generatedAt": "2026-10-15T12:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 152,
-    "bookingsObserved": 38,
+    "bookingsTracked": 153,
+    "bookingsObserved": 39,
     "releasesObserved": 36,
-    "inCustody": 116,
+    "inCustody": 117,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 2,
+      "booked": 3,
       "released": 1
     }
   ],
@@ -184,7 +184,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 16,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -198,8 +198,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 9,
-      "pct": 2.3
+      "count": 10,
+      "pct": 2.5
     },
     {
       "name": "Violation of DV NCO",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 224,
-      "pct": 56.7,
+      "pct": 56.6,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 93,
-      "pct": 23.5,
+      "count": 94,
+      "pct": 23.7,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.2,
+      "pct": 12.1,
       "label": "U.S. Marshals hold"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 135,
-      "pct": 88.8
+      "pct": 88.2
     },
     {
       "name": "Female",
-      "count": 17,
-      "pct": 11.2
+      "count": 18,
+      "pct": 11.8
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 24
+        "count": 25
       },
       {
         "label": "55+",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 40,
-      "pct": 26.8
+      "pct": 26.7
     },
     {
       "name": "CLE ELUM, WA",
@@ -357,7 +357,7 @@
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "YAKIMA, WA",
@@ -367,12 +367,12 @@
     {
       "name": "KITTITAS, WA",
       "count": 5,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "MOSES LAKE, WA",
       "count": 5,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "RENTON, WA",
@@ -440,15 +440,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 43,
+    "currentMedianDaysHeld": 41.9,
     "currentLongestDaysHeld": 916.8
   },
   "bond": {
-    "withBond": 64,
+    "withBond": 65,
     "noBond": 52,
-    "medianBond": 35000,
+    "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 11861400
+    "totalBond": 11876400
   },
   "chargesPerBooking": 2.6
 }
