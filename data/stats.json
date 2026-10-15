@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T15:19:15",
+  "generatedAt": "2026-10-15T16:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 154,
-    "bookingsObserved": 40,
+    "bookingsTracked": 155,
+    "bookingsObserved": 41,
     "releasesObserved": 38,
-    "inCustody": 116,
+    "inCustody": 117,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-15",
-      "booked": 4,
+      "booked": 5,
       "released": 3
     }
   ],
@@ -177,14 +177,14 @@
       "pct": 5.5
     },
     {
-      "name": "HOLD FOR USM, FBI, MP",
+      "name": "THEFT 3RD DEG",
       "count": 17,
       "pct": 4.3
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 16,
-      "pct": 4
+      "name": "HOLD FOR USM, FBI, MP",
+      "count": 17,
+      "pct": 4.3
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -265,8 +265,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 226,
-      "pct": 56.8,
+      "count": 227,
+      "pct": 56.9,
       "label": "Superior Court"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "USM",
       "count": 48,
-      "pct": 12.1,
+      "pct": 12,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 136,
-      "pct": 88.3
+      "count": 137,
+      "pct": 88.4
     },
     {
       "name": "Female",
       "count": 18,
-      "pct": 11.7
+      "pct": 11.6
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 57
+        "count": 58
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 40,
-      "pct": 26.5
+      "pct": 26.3
     },
     {
       "name": "CLE ELUM, WA",
@@ -366,8 +366,8 @@
     },
     {
       "name": "KITTITAS, WA",
-      "count": 5,
-      "pct": 3.3
+      "count": 6,
+      "pct": 3.9
     },
     {
       "name": "MOSES LAKE, WA",
@@ -440,15 +440,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 43.1,
-    "currentLongestDaysHeld": 916.9
+    "currentMedianDaysHeld": 42.1,
+    "currentLongestDaysHeld": 917
   },
   "bond": {
     "withBond": 64,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 35000,
     "maxBond": 2000000,
-    "totalBond": 11868900
+    "totalBond": 11468900
   },
   "chargesPerBooking": 2.6
 }
