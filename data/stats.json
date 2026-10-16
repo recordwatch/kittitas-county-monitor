@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T03:19:14",
+  "generatedAt": "2026-10-16T04:19:23",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 157,
-    "bookingsObserved": 43,
+    "bookingsTracked": 159,
+    "bookingsObserved": 45,
     "releasesObserved": 38,
-    "inCustody": 119,
+    "inCustody": 121,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 0,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 27,
-      "pct": 6.7
+      "count": 28,
+      "pct": 6.9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 230,
-      "pct": 57.1,
+      "pct": 56.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 95,
-      "pct": 23.6,
+      "count": 97,
+      "pct": 24,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 139,
-      "pct": 88.5
+      "count": 141,
+      "pct": 88.7
     },
     {
       "name": "Female",
       "count": 18,
-      "pct": 11.5
+      "pct": 11.3
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 38
+        "count": 40
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 41,
-      "pct": 26.6
+      "pct": 26.5
     },
     {
       "name": "CLE ELUM, WA",
@@ -357,7 +357,7 @@
     {
       "name": "SPOKANE, WA",
       "count": 12,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "KITTITAS, WA",
@@ -441,14 +441,14 @@
       }
     ],
     "currentMedianDaysHeld": 41.6,
-    "currentLongestDaysHeld": 917.4
+    "currentLongestDaysHeld": 917.5
   },
   "bond": {
-    "withBond": 65,
+    "withBond": 67,
     "noBond": 54,
     "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 11469000
+    "totalBond": 11471000
   },
-  "chargesPerBooking": 2.6
+  "chargesPerBooking": 2.5
 }
