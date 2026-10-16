@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T13:19:13",
+  "generatedAt": "2026-10-16T14:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 162,
-    "bookingsObserved": 48,
-    "releasesObserved": 45,
+    "bookingsTracked": 163,
+    "bookingsObserved": 49,
+    "releasesObserved": 46,
     "inCustody": 117,
     "uniquePeople": 1
   },
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 5,
-      "released": 7
+      "booked": 6,
+      "released": 8
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 34,
-      "pct": 8.3
+      "count": 35,
+      "pct": 8.6
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 28,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -199,7 +199,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 10,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "Violation of DV NCO",
@@ -266,7 +266,7 @@
     {
       "name": "SUP",
       "count": 230,
-      "pct": 56.4,
+      "pct": 56.2,
       "label": "Superior Court"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "USM",
-      "count": 50,
-      "pct": 12.3,
+      "count": 51,
+      "pct": 12.5,
       "label": "U.S. Marshals hold"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 144,
-      "pct": 88.9
+      "pct": 88.3
     },
     {
       "name": "Female",
-      "count": 18,
-      "pct": 11.1
+      "count": 19,
+      "pct": 11.7
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 41
+        "count": 42
       },
       {
         "label": "35–44",
@@ -347,37 +347,37 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 41,
-      "pct": 26.1
+      "pct": 25.8
+    },
+    {
+      "name": "SPOKANE, WA",
+      "count": 14,
+      "pct": 8.8
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 8.3
-    },
-    {
-      "name": "SPOKANE, WA",
-      "count": 12,
-      "pct": 7.6
+      "pct": 8.2
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "YAKIMA, WA",
       "count": 7,
-      "pct": 4.5
+      "pct": 4.4
     },
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "MOSES LAKE, WA",
       "count": 5,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "RENTON, WA",
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 45,
+    "official": 46,
     "observed": 0,
     "releasedListOnly": 18
   },
   "stay": {
-    "releasedCount": 45,
-    "medianDays": 3,
-    "meanDays": 23.3,
+    "releasedCount": 46,
+    "medianDays": 2.8,
+    "meanDays": 22.8,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 14
+        "count": 15
       },
       {
         "label": "1–3 days",
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 42,
+    "currentMedianDaysHeld": 42.1,
     "currentLongestDaysHeld": 917.9
   },
   "bond": {
-    "withBond": 68,
-    "noBond": 49,
+    "withBond": 67,
+    "noBond": 50,
     "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 11472000
+    "totalBond": 11471900
   },
   "chargesPerBooking": 2.5
 }
