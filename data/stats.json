@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T08:19:16",
+  "generatedAt": "2026-10-16T09:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 159,
-    "bookingsObserved": 45,
+    "bookingsTracked": 160,
+    "bookingsObserved": 46,
     "releasesObserved": 38,
-    "inCustody": 121,
+    "inCustody": 122,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 2,
+      "booked": 3,
       "released": 0
     }
   ],
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 230,
-      "pct": 56.8,
+      "pct": 56.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 97,
-      "pct": 24,
+      "count": 98,
+      "pct": 24.1,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 48,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,8 +309,8 @@
   "sex": [
     {
       "name": "Male",
-      "count": 141,
-      "pct": 88.7
+      "count": 142,
+      "pct": 88.8
     },
     {
       "name": "Female",
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 26
+        "count": 27
       },
       {
         "label": "25–34",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 41,
-      "pct": 26.5
+      "pct": 26.3
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "SPOKANE, WA",
@@ -440,15 +440,15 @@
         "count": 3
       }
     ],
-    "currentMedianDaysHeld": 41.8,
+    "currentMedianDaysHeld": 41.9,
     "currentLongestDaysHeld": 917.7
   },
   "bond": {
-    "withBond": 67,
+    "withBond": 68,
     "noBond": 54,
     "medianBond": 30000,
     "maxBond": 2000000,
-    "totalBond": 11471000
+    "totalBond": 11472000
   },
   "chargesPerBooking": 2.5
 }
