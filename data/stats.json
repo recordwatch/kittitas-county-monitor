@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T19:19:13",
+  "generatedAt": "2026-10-16T19:29:56",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 163,
-    "bookingsObserved": 49,
+    "bookingsTracked": 165,
+    "bookingsObserved": 51,
     "releasesObserved": 50,
-    "inCustody": 113,
+    "inCustody": 115,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 6,
+      "booked": 8,
       "released": 12
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 35,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -179,12 +179,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 17,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -219,17 +219,17 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 8,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 8,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 8,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -252,12 +252,12 @@
       "pct": 1.5
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "ASSAULT 3RD",
       "count": 5,
       "pct": 1.2
     },
     {
-      "name": "DWLS 2ND DEGREE",
+      "name": "ATTEMPT TO ELUDE",
       "count": 5,
       "pct": 1.2
     }
@@ -265,20 +265,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 230,
-      "pct": 56.2,
+      "count": 233,
+      "pct": 56.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 98,
+      "count": 99,
       "pct": 24,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 51,
-      "pct": 12.5,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 144,
-      "pct": 88.3
+      "count": 145,
+      "pct": 87.9
     },
     {
       "name": "Female",
-      "count": 19,
-      "pct": 11.7
+      "count": 20,
+      "pct": 12.1
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 42
+        "count": 43
       },
       {
         "label": "35–44",
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 26
+        "count": 27
       },
       {
         "label": "55+",
@@ -346,28 +346,28 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 41,
-      "pct": 25.8
+      "count": 43,
+      "pct": 26.7
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "YAKIMA, WA",
       "count": 7,
-      "pct": 4.4
+      "pct": 4.3
     },
     {
       "name": "NESPELEM, WA",
@@ -397,12 +397,12 @@
     {
       "name": "KENT, WA",
       "count": 2,
-      "pct": 1.3
+      "pct": 1.2
     },
     {
       "name": "AUBURN, WA",
       "count": 2,
-      "pct": 1.3
+      "pct": 1.2
     }
   ],
   "releaseSources": {
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 45.4,
+    "currentMedianDaysHeld": 43.2,
     "currentLongestDaysHeld": 918.1
   },
   "bond": {
-    "withBond": 63,
-    "noBond": 50,
-    "medianBond": 50000,
+    "withBond": 64,
+    "noBond": 51,
+    "medianBond": 45000,
     "maxBond": 2000000,
-    "totalBond": 11479000
+    "totalBond": 11480000
   },
   "chargesPerBooking": 2.5
 }
