@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T02:19:16",
+  "generatedAt": "2026-10-17T03:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 166,
-    "bookingsObserved": 52,
+    "bookingsTracked": 167,
+    "bookingsObserved": 53,
     "releasesObserved": 51,
-    "inCustody": 115,
+    "inCustody": 116,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-17",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -194,7 +194,7 @@
     {
       "name": "ASSAULT 2ND DEGREE",
       "count": 11,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 234,
-      "pct": 56.4,
+      "pct": 56.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 99,
-      "pct": 23.9,
+      "count": 100,
+      "pct": 24,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 146,
+      "count": 147,
       "pct": 88
     },
     {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 27
+        "count": 28
       },
       {
         "label": "25–34",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 43,
-      "pct": 26.5
+      "pct": 26.4
     },
     {
       "name": "SPOKANE, WA",
@@ -360,12 +360,12 @@
       "pct": 8
     },
     {
-      "name": "KITTITAS, WA",
-      "count": 7,
-      "pct": 4.3
+      "name": "YAKIMA, WA",
+      "count": 8,
+      "pct": 4.9
     },
     {
-      "name": "YAKIMA, WA",
+      "name": "KITTITAS, WA",
       "count": 7,
       "pct": 4.3
     },
@@ -387,12 +387,12 @@
     {
       "name": "TACOMA, WA",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "EVERETT, WA",
       "count": 3,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "KENT, WA",
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 43.5,
+    "currentMedianDaysHeld": 43.1,
     "currentLongestDaysHeld": 918.4
   },
   "bond": {
-    "withBond": 64,
+    "withBond": 65,
     "noBond": 51,
-    "medianBond": 45000,
+    "medianBond": 40000,
     "maxBond": 2000000,
-    "totalBond": 11480000
+    "totalBond": 11480500
   },
   "chargesPerBooking": 2.5
 }
