@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:19:13",
+  "generatedAt": "2026-10-17T00:08:59",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 166,
@@ -9,11 +9,6 @@
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-17",
-      "booked": 0,
-      "released": 0
-    },
     {
       "date": "2026-09-18",
       "booked": 3,
@@ -158,23 +153,28 @@
       "date": "2026-10-16",
       "booked": 9,
       "released": 13
+    },
+    {
+      "date": "2026-10-17",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 35,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 28,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 23,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -257,7 +257,7 @@
       "pct": 1.2
     },
     {
-      "name": "ATTEMPT TO ELUDE",
+      "name": "MAL MIS 2ND",
       "count": 5,
       "pct": 1.2
     }
@@ -265,8 +265,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 233,
-      "pct": 56.3,
+      "count": 234,
+      "pct": 56.4,
       "label": "Superior Court"
     },
     {
