@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:41:07",
+  "generatedAt": "2026-10-17T11:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 167,
@@ -232,6 +232,11 @@
       "pct": 1.9
     },
     {
+      "name": "RESISTING ARREST",
+      "count": 7,
+      "pct": 1.7
+    },
+    {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 7,
       "pct": 1.7
@@ -240,11 +245,6 @@
       "name": "RAPE OF A CHILD",
       "count": 7,
       "pct": 1.7
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 6,
-      "pct": 1.4
     },
     {
       "name": "Assault 4th-Domestic Violence",
@@ -265,8 +265,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 234,
-      "pct": 56.3,
+      "count": 235,
+      "pct": 56.4,
       "label": "Superior Court"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "USM",
       "count": 51,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "U.S. Marshals hold"
     },
     {
@@ -441,7 +441,7 @@
       }
     ],
     "currentMedianDaysHeld": 43.9,
-    "currentLongestDaysHeld": 918.7
+    "currentLongestDaysHeld": 918.8
   },
   "bond": {
     "withBond": 64,
