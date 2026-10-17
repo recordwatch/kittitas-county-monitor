@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T21:19:16",
+  "generatedAt": "2026-10-16T22:19:12",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 165,
-    "bookingsObserved": 51,
+    "bookingsTracked": 166,
+    "bookingsObserved": 52,
     "releasesObserved": 50,
-    "inCustody": 115,
+    "inCustody": 116,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-16",
-      "booked": 8,
+      "booked": 9,
       "released": 12
     }
   ],
@@ -244,12 +244,12 @@
     {
       "name": "RESISTING ARREST",
       "count": 6,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Assault 4th-Domestic Violence",
       "count": 6,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "ASSAULT 3RD",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 233,
-      "pct": 56.4,
+      "pct": 56.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 99,
-      "pct": 24,
+      "pct": 23.9,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 21,
-      "pct": 5.1,
+      "count": 22,
+      "pct": 5.3,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 145,
-      "pct": 87.9
+      "count": 146,
+      "pct": 88
     },
     {
       "name": "Female",
       "count": 20,
-      "pct": 12.1
+      "pct": 12
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 27
+        "count": 28
       },
       {
         "label": "55+",
@@ -347,17 +347,17 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 43,
-      "pct": 26.7
+      "pct": 26.5
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "KITTITAS, WA",
@@ -370,12 +370,12 @@
       "pct": 4.3
     },
     {
-      "name": "NESPELEM, WA",
-      "count": 5,
-      "pct": 3.1
+      "name": "MOSES LAKE, WA",
+      "count": 6,
+      "pct": 3.7
     },
     {
-      "name": "MOSES LAKE, WA",
+      "name": "NESPELEM, WA",
       "count": 5,
       "pct": 3.1
     },
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 43.3,
+    "currentMedianDaysHeld": 42.9,
     "currentLongestDaysHeld": 918.2
   },
   "bond": {
-    "withBond": 64,
+    "withBond": 65,
     "noBond": 51,
-    "medianBond": 45000,
+    "medianBond": 40000,
     "maxBond": 2000000,
-    "totalBond": 11480000
+    "totalBond": 11481000
   },
   "chargesPerBooking": 2.5
 }
