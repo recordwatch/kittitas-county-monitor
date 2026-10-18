@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T01:19:12",
+  "generatedAt": "2026-10-18T02:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 168,
-    "bookingsObserved": 54,
+    "bookingsTracked": 169,
+    "bookingsObserved": 55,
     "releasesObserved": 53,
-    "inCustody": 115,
+    "inCustody": 116,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 28,
-      "pct": 6.7
+      "count": 29,
+      "pct": 6.9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -204,17 +204,17 @@
     {
       "name": "Violation of DV NCO",
       "count": 9,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "HARASSMENT",
       "count": 9,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "BURGLARY 2ND DEGREE",
       "count": 9,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 235,
-      "pct": 56.2,
+      "pct": 56.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 100,
-      "pct": 23.9,
+      "count": 101,
+      "pct": 24.1,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,21 +309,21 @@
   "sex": [
     {
       "name": "Male",
-      "count": 148,
-      "pct": 88.1
+      "count": 149,
+      "pct": 88.2
     },
     {
       "name": "Female",
       "count": 20,
-      "pct": 11.9
+      "pct": 11.8
     }
   ],
   "ages": {
-    "median": 35.5,
+    "median": 35,
     "groups": [
       {
         "label": "18–24",
-        "count": 28
+        "count": 29
       },
       {
         "label": "25–34",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 43,
-      "pct": 26.2
+      "pct": 26.1
     },
     {
       "name": "SPOKANE, WA",
@@ -362,17 +362,17 @@
     {
       "name": "YAKIMA, WA",
       "count": 8,
-      "pct": 4.9
+      "pct": 4.8
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 4.3
+      "pct": 4.2
     },
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "NESPELEM, WA",
@@ -395,12 +395,12 @@
       "pct": 1.8
     },
     {
-      "name": "SEATTLE, WA",
+      "name": "BELLEVUE, WA",
       "count": 2,
       "pct": 1.2
     },
     {
-      "name": "KENT, WA",
+      "name": "SEATTLE, WA",
       "count": 2,
       "pct": 1.2
     }
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 44.5,
+    "currentMedianDaysHeld": 44,
     "currentLongestDaysHeld": 919.4
   },
   "bond": {
-    "withBond": 64,
+    "withBond": 65,
     "noBond": 51,
-    "medianBond": 45000,
+    "medianBond": 40000,
     "maxBond": 2000000,
-    "totalBond": 11484000
+    "totalBond": 11485000
   },
   "chargesPerBooking": 2.5
 }
