@@ -516,7 +516,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-15T17:00:36",
     "releasedAt": null,
@@ -852,7 +852,7 @@
       }
     ],
     "bondTotal": 30000,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-13T11:19:15",
     "releasedAt": null,
@@ -1195,7 +1195,7 @@
       }
     ],
     "bondTotal": 100000,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-11T04:19:13",
     "releasedAt": null,
@@ -1603,7 +1603,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -1651,7 +1651,7 @@
       }
     ],
     "bondTotal": 15000,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -1971,7 +1971,7 @@
       }
     ],
     "bondTotal": 5000,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -2187,7 +2187,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -2452,7 +2452,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -2476,7 +2476,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -2500,7 +2500,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -4991,20 +4991,20 @@
     "sex": "M",
     "charges": [
       {
-        "description": "KIDNAP 2ND",
-        "statute": "9A.40.030.1",
+        "description": "LURING",
+        "statute": "9A.40.090",
         "caseNumber": "2510028119/WRT",
         "court": "SUP"
       },
       {
-        "description": "LURING",
-        "statute": "9A.40.090",
+        "description": "KIDNAP 2ND",
+        "statute": "9A.40.030.1",
         "caseNumber": "2510028119/WRT",
         "court": "SUP"
       }
     ],
     "bondTotal": 500000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5028,7 +5028,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5045,18 +5045,6 @@
     "sex": "M",
     "charges": [
       {
-        "description": "DWLS 2ND DEGREE",
-        "statute": "46.20.342.1B",
-        "caseNumber": "26CR39448WSP",
-        "court": "LDC"
-      },
-      {
-        "description": "DRIVING UNDER THE INFLUENCE",
-        "statute": "46.61.502",
-        "caseNumber": "26CR39448WSP",
-        "court": "LDC"
-      },
-      {
         "description": "PROTECTION ORDER VIOLATION ASSAULT",
         "statute": "7.105.450.4",
         "caseNumber": "2610009219",
@@ -5067,10 +5055,22 @@
         "statute": "9A.36.041",
         "caseNumber": "2610009219",
         "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR39448WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "26CR39448WSP",
+        "court": "LDC"
       }
     ],
     "bondTotal": 216000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5100,7 +5100,7 @@
       }
     ],
     "bondTotal": 10000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5124,7 +5124,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5141,10 +5141,16 @@
     "sex": "M",
     "charges": [
       {
-        "description": "POSSESION OF A CONTROLLED SUBS",
-        "statute": "69.50.4013",
-        "caseNumber": "26CR99289ELL/REM",
-        "court": "LDC"
+        "description": "ARSON 1ST DEGREE",
+        "statute": "9A.48.020.1",
+        "caseNumber": "2610005719",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "2610005719",
+        "court": "SUP"
       },
       {
         "description": "ASSAULT 4TH DEGREE",
@@ -5153,26 +5159,20 @@
         "court": "LDC"
       },
       {
-        "description": "ARSON 1ST DEGREE",
-        "statute": "9A.48.020.1",
-        "caseNumber": "2610005719",
-        "court": "SUP"
-      },
-      {
         "description": "CRIM TRESPASS 1ST",
         "statute": "9A.52.070",
         "caseNumber": "10216CWU/COMM",
         "court": "LDC"
       },
       {
-        "description": "RESISTING ARREST",
-        "statute": "9A.76.040",
-        "caseNumber": "2610005719",
-        "court": "SUP"
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR99289ELL/REM",
+        "court": "LDC"
       }
     ],
     "bondTotal": 300500,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5189,20 +5189,20 @@
     "sex": "F",
     "charges": [
       {
-        "description": "UNLAW POSS FIREARM",
-        "statute": "9.41.040",
+        "description": "Attempt Murder First Degree",
+        "statute": "9a.32.030-ATT",
         "caseNumber": "2610004519/WRT",
         "court": "SUP"
       },
       {
-        "description": "Attempt Murder First Degree",
-        "statute": "9a.32.030-ATT",
+        "description": "UNLAW POSS FIREARM",
+        "statute": "9.41.040",
         "caseNumber": "2610004519/WRT",
         "court": "SUP"
       }
     ],
     "bondTotal": 1000000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5238,7 +5238,7 @@
       }
     ],
     "bondTotal": 250100,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5255,8 +5255,14 @@
     "sex": "M",
     "charges": [
       {
-        "description": "DWLS THIRD DEGREE",
-        "statute": "46.20.342.1C",
+        "description": "UNLAWFUL IMPRISONMMT",
+        "statute": "9A.40.040",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "OBSTRUCT PUBL SERVANT",
+        "statute": "9A.76.020.3",
         "caseNumber": "2610002919",
         "court": "SUP"
       },
@@ -5273,8 +5279,8 @@
         "court": "SUP"
       },
       {
-        "description": "POSS / DELIVERY VUCSA",
-        "statute": "69.50.401",
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
         "caseNumber": "2610002919",
         "court": "SUP"
       },
@@ -5285,32 +5291,26 @@
         "court": "SUP"
       },
       {
-        "description": "MACHINE GUN PROHIBIT",
-        "statute": "9.41.190",
-        "caseNumber": "2610002919",
-        "court": "SUP"
-      },
-      {
         "description": "UNDECTABLE/UNTRACEABLE FIREARMS",
         "statute": "9.41.325",
         "caseNumber": "2610002919",
         "court": "SUP"
       },
       {
-        "description": "UNLAWFUL IMPRISONMMT",
-        "statute": "9A.40.040",
+        "description": "MACHINE GUN PROHIBIT",
+        "statute": "9.41.190",
         "caseNumber": "2610002919",
         "court": "SUP"
       },
       {
-        "description": "OBSTRUCT PUBL SERVANT",
-        "statute": "9A.76.020.3",
+        "description": "POSS / DELIVERY VUCSA",
+        "statute": "69.50.401",
         "caseNumber": "2610002919",
         "court": "SUP"
       }
     ],
     "bondTotal": 750000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5327,92 +5327,32 @@
     "sex": "M",
     "charges": [
       {
-        "description": "MAL MIS 2ND",
-        "statute": "9A.48.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "MAL MIS 2ND",
-        "statute": "9A.48.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "MAL MISCH 3RD DEG",
-        "statute": "9A.48.090",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "MAL MISCH 3RD DEG",
-        "statute": "9A.48.090",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
         "description": "RESIDENTIAL BURGLARY",
         "statute": "9A.52.025",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
       {
-        "description": "BURGLARY 2ND DEGREE",
-        "statute": "9A.52.030",
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "TRAFFICKING STOLEN PROP 1ST",
+        "statute": "9A.82.050",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
       {
         "description": "BURGLARY 2ND DEGREE",
         "statute": "9A.52.030",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "BURGLARY 2ND DEGREE",
-        "statute": "9A.52.030",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "BURGLARY 2ND DEGREE",
-        "statute": "9A.52.030",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "CRIM TRESPASS 2ND",
-        "statute": "9A.52.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "CRIM TRESPASS 2ND",
-        "statute": "9A.52.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "CRIM TRESPASS 2ND",
-        "statute": "9A.52.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "CRIM TRESPASS 2ND",
-        "statute": "9A.52.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "CRIM TRESPASS 2ND",
-        "statute": "9A.52.080",
-        "caseNumber": "2610001919",
-        "court": "SUP"
-      },
-      {
-        "description": "VEHICLE PROWLING",
-        "statute": "9A.52.100",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
@@ -5423,8 +5363,26 @@
         "court": "SUP"
       },
       {
-        "description": "THEFT 3RD DEG",
-        "statute": "9A.56.050",
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
@@ -5435,8 +5393,14 @@
         "court": "SUP"
       },
       {
-        "description": "THEFT 3RD DEG",
-        "statute": "9A.56.050",
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
@@ -5447,8 +5411,20 @@
         "court": "SUP"
       },
       {
-        "description": "THEFT 3RD DEG",
-        "statute": "9A.56.050",
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
@@ -5459,20 +5435,44 @@
         "court": "SUP"
       },
       {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
         "description": "THEFT 3RD DEG",
         "statute": "9A.56.050",
         "caseNumber": "2610001919",
         "court": "SUP"
       },
       {
-        "description": "TRAFFICKING STOLEN PROP 1ST",
-        "statute": "9A.82.050",
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
         "caseNumber": "2610001919",
         "court": "SUP"
       }
     ],
     "bondTotal": 10000,
-    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "detailsCheckedAt": "2026-10-19T16:50:20",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
