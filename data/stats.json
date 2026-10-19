@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T22:19:15",
+  "generatedAt": "2026-10-18T23:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 171,
-    "bookingsObserved": 57,
+    "bookingsTracked": 172,
+    "bookingsObserved": 58,
     "releasesObserved": 57,
-    "inCustody": 114,
+    "inCustody": 115,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 3,
+      "booked": 4,
       "released": 4
     }
   ],
@@ -189,7 +189,7 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 12,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -232,6 +232,11 @@
       "pct": 1.9
     },
     {
+      "name": "DWLS 2ND DEGREE",
+      "count": 7,
+      "pct": 1.7
+    },
+    {
       "name": "RESISTING ARREST",
       "count": 7,
       "pct": 1.7
@@ -245,11 +250,6 @@
       "name": "RAPE OF A CHILD",
       "count": 7,
       "pct": 1.7
-    },
-    {
-      "name": "DWLS 2ND DEGREE",
-      "count": 6,
-      "pct": 1.4
     },
     {
       "name": "Assault 4th-Domestic Violence",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 235,
-      "pct": 55.8,
+      "pct": 55.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 103,
-      "pct": 24.5,
+      "count": 104,
+      "pct": 24.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "CEMU",
       "count": 4,
-      "pct": 1,
+      "pct": 0.9,
       "label": "CEMU"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 151,
-      "pct": 88.3
+      "count": 152,
+      "pct": 88.4
     },
     {
       "name": "Female",
       "count": 20,
-      "pct": 11.7
+      "pct": 11.6
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 29
+        "count": 30
       },
       {
         "label": "25–34",
@@ -347,17 +347,17 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 44,
-      "pct": 26.3
+      "pct": 26.2
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 7.8
+      "pct": 7.7
     },
     {
       "name": "YAKIMA, WA",
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 46.4,
-    "currentLongestDaysHeld": 920.2
+    "currentMedianDaysHeld": 45.4,
+    "currentLongestDaysHeld": 920.3
   },
   "bond": {
-    "withBond": 64,
+    "withBond": 65,
     "noBond": 50,
-    "medianBond": 45000,
+    "medianBond": 40000,
     "maxBond": 2000000,
-    "totalBond": 11484000
+    "totalBond": 11485000
   },
   "chargesPerBooking": 2.5
 }
