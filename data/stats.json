@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-18T16:26:04",
+  "generatedAt": "2026-10-18T17:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 170,
-    "bookingsObserved": 56,
+    "bookingsTracked": 171,
+    "bookingsObserved": 57,
     "releasesObserved": 57,
-    "inCustody": 113,
+    "inCustody": 114,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-18",
-      "booked": 2,
+      "booked": 3,
       "released": 4
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 29,
-      "pct": 6.9
+      "count": 30,
+      "pct": 7.1
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 235,
-      "pct": 56,
+      "pct": 55.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 102,
-      "pct": 24.3,
+      "count": 103,
+      "pct": 24.5,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,17 +309,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 150,
-      "pct": 88.2
+      "count": 151,
+      "pct": 88.3
     },
     {
       "name": "Female",
       "count": 20,
-      "pct": 11.8
+      "pct": 11.7
     }
   ],
   "ages": {
-    "median": 35.5,
+    "median": 35,
     "groups": [
       {
         "label": "18–24",
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 44
+        "count": 45
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 44,
-      "pct": 26.5
+      "pct": 26.3
     },
     {
       "name": "SPOKANE, WA",
@@ -440,12 +440,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 47.3,
+    "currentMedianDaysHeld": 46.2,
     "currentLongestDaysHeld": 920
   },
   "bond": {
     "withBond": 64,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 45000,
     "maxBond": 2000000,
     "totalBond": 11484000
