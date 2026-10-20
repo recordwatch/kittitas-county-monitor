@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T05:19:13",
+  "generatedAt": "2026-10-20T06:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 176,
-    "bookingsObserved": 62,
+    "bookingsTracked": 177,
+    "bookingsObserved": 63,
     "releasesObserved": 62,
-    "inCustody": 114,
+    "inCustody": 115,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 31,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 12,
-      "pct": 2.8
+      "count": 13,
+      "pct": 3
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 235,
-      "pct": 55,
+      "pct": 54.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 106,
-      "pct": 24.8,
+      "count": 107,
+      "pct": 25,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "UDC",
       "count": 25,
-      "pct": 5.9,
+      "pct": 5.8,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 153,
-      "pct": 86.9
+      "pct": 86.4
     },
     {
       "name": "Female",
-      "count": 23,
-      "pct": 13.1
+      "count": 24,
+      "pct": 13.6
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 46
+        "count": 47
       },
       {
         "label": "35–44",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 47,
-      "pct": 27.3
+      "count": 48,
+      "pct": 27.7
     },
     {
       "name": "SPOKANE, WA",
@@ -357,17 +357,17 @@
     {
       "name": "CLE ELUM, WA",
       "count": 13,
-      "pct": 7.6
+      "pct": 7.5
     },
     {
       "name": "YAKIMA, WA",
       "count": 8,
-      "pct": 4.7
+      "pct": 4.6
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "MOSES LAKE, WA",
@@ -440,12 +440,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 47.7,
-    "currentLongestDaysHeld": 921.5
+    "currentMedianDaysHeld": 46.7,
+    "currentLongestDaysHeld": 921.6
   },
   "bond": {
     "withBond": 62,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11478000
