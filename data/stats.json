@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T10:19:15",
+  "generatedAt": "2026-10-20T11:14:04",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 177,
-    "bookingsObserved": 63,
+    "bookingsTracked": 178,
+    "bookingsObserved": 64,
     "releasesObserved": 62,
-    "inCustody": 115,
+    "inCustody": 116,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-20",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 235,
-      "pct": 54.9,
+      "count": 236,
+      "pct": 55,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 107,
-      "pct": 25,
+      "pct": 24.9,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 153,
-      "pct": 86.4
+      "count": 154,
+      "pct": 86.5
     },
     {
       "name": "Female",
       "count": 24,
-      "pct": 13.6
+      "pct": 13.5
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 47
+        "count": 48
       },
       {
         "label": "35–44",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 48,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "CLE ELUM, WA",
@@ -372,7 +372,7 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 3.5
+      "pct": 3.4
     },
     {
       "name": "NESPELEM, WA",
@@ -397,12 +397,12 @@
     {
       "name": "BELLEVUE, WA",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "SEATTLE, WA",
       "count": 2,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "releaseSources": {
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 46.8,
-    "currentLongestDaysHeld": 921.7
+    "currentMedianDaysHeld": 46.4,
+    "currentLongestDaysHeld": 921.8
   },
   "bond": {
-    "withBond": 62,
+    "withBond": 63,
     "noBond": 53,
     "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11478000
+    "totalBond": 11578000
   },
   "chargesPerBooking": 2.4
 }
