@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-20T00:19:16",
+  "generatedAt": "2026-10-20T01:07:45",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 175,
-    "bookingsObserved": 61,
+    "bookingsTracked": 176,
+    "bookingsObserved": 62,
     "releasesObserved": 62,
-    "inCustody": 113,
+    "inCustody": 114,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-10-19",
-      "booked": 3,
+      "booked": 4,
       "released": 5
     },
     {
@@ -187,14 +187,14 @@
       "pct": 4
     },
     {
-      "name": "POSS DEPICT OF MINOR/SEX EXPLI",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 12,
       "pct": 2.8
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 11,
-      "pct": 2.6
+      "name": "POSS DEPICT OF MINOR/SEX EXPLI",
+      "count": 12,
+      "pct": 2.8
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 235,
-      "pct": 55.2,
+      "pct": 55,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 105,
-      "pct": 24.6,
+      "count": 106,
+      "pct": 24.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 51,
-      "pct": 12,
+      "pct": 11.9,
       "label": "U.S. Marshals hold"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 153,
-      "pct": 87.4
+      "pct": 86.9
     },
     {
       "name": "Female",
-      "count": 22,
-      "pct": 12.6
+      "count": 23,
+      "pct": 13.1
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 45
+        "count": 46
       },
       {
         "label": "35–44",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 46,
-      "pct": 26.9
+      "count": 47,
+      "pct": 27.3
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "CLE ELUM, WA",
@@ -387,12 +387,12 @@
     {
       "name": "TACOMA, WA",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "EVERETT, WA",
       "count": 3,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "BELLEVUE, WA",
@@ -440,12 +440,12 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 48.6,
-    "currentLongestDaysHeld": 921.3
+    "currentMedianDaysHeld": 47.5,
+    "currentLongestDaysHeld": 921.4
   },
   "bond": {
     "withBond": 62,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11478000
