@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-21T14:19:13",
+  "generatedAt": "2026-10-21T15:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 179,
-    "bookingsObserved": 65,
+    "bookingsTracked": 180,
+    "bookingsObserved": 66,
     "releasesObserved": 69,
-    "inCustody": 110,
+    "inCustody": 111,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-21",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 31,
-      "pct": 7.2
+      "count": 32,
+      "pct": 7.4
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -179,12 +179,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 17,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 236,
-      "pct": 54.9,
+      "pct": 54.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 108,
-      "pct": 25.1,
+      "count": 109,
+      "pct": 25.3,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 51,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 155,
-      "pct": 86.6
+      "count": 156,
+      "pct": 86.7
     },
     {
       "name": "Female",
       "count": 24,
-      "pct": 13.4
+      "pct": 13.3
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 61
+        "count": 62
       },
       {
         "label": "45–54",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 48,
-      "pct": 27.4
+      "count": 49,
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 8,
-      "pct": 4.6
+      "pct": 4.5
     },
     {
       "name": "KITTITAS, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "RENTON, WA",
@@ -440,15 +440,15 @@
         "count": 4
       }
     ],
-    "currentMedianDaysHeld": 52.2,
+    "currentMedianDaysHeld": 50.4,
     "currentLongestDaysHeld": 922.9
   },
   "bond": {
-    "withBond": 60,
+    "withBond": 61,
     "noBond": 50,
-    "medianBond": 65000,
+    "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11562700
+    "totalBond": 11502700
   },
   "chargesPerBooking": 2.4
 }
