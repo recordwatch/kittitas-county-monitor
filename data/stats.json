@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T15:19:15",
+  "generatedAt": "2026-10-22T16:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 185,
     "bookingsObserved": 71,
-    "releasesObserved": 74,
-    "inCustody": 111,
+    "releasesObserved": 76,
+    "inCustody": 109,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-10-22",
       "booked": 4,
-      "released": 6
+      "released": 8
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 32,
-      "pct": 7.3
+      "pct": 7.2
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -184,7 +184,7 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -265,20 +265,20 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 244,
-      "pct": 55.5,
+      "count": 246,
+      "pct": 55.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 110,
-      "pct": 25,
+      "pct": 24.9,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 51,
-      "pct": 11.6,
+      "pct": 11.5,
       "label": "U.S. Marshals hold"
     },
     {
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 74,
+    "official": 76,
     "observed": 0,
-    "releasedListOnly": 19
+    "releasedListOnly": 20
   },
   "stay": {
-    "releasedCount": 74,
+    "releasedCount": 76,
     "medianDays": 1.8,
-    "meanDays": 18.6,
+    "meanDays": 18.4,
     "buckets": [
       {
         "label": "< 1 day",
@@ -421,7 +421,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 13
+        "count": 14
       },
       {
         "label": "3–7 days",
@@ -429,7 +429,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 13
+        "count": 14
       },
       {
         "label": "1–3 months",
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 48.1,
-    "currentLongestDaysHeld": 923.9
+    "currentMedianDaysHeld": 49.1,
+    "currentLongestDaysHeld": 924
   },
   "bond": {
-    "withBond": 62,
-    "noBond": 49,
+    "withBond": 61,
+    "noBond": 48,
     "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11549900
+    "totalBond": 11534900
   },
   "chargesPerBooking": 2.4
 }
