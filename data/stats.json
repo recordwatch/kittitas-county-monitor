@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T11:19:15",
+  "generatedAt": "2026-10-22T12:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 182,
-    "bookingsObserved": 68,
+    "bookingsTracked": 183,
+    "bookingsObserved": 69,
     "releasesObserved": 71,
-    "inCustody": 111,
+    "inCustody": 112,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 1,
+      "booked": 2,
       "released": 3
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 35,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -193,8 +193,8 @@
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
-      "count": 12,
-      "pct": 2.8
+      "count": 13,
+      "pct": 3
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -259,7 +259,7 @@
     {
       "name": "ASSAULT 3RD",
       "count": 5,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "courts": [
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 157,
+      "count": 158,
       "pct": 86.3
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 62
+        "count": 63
       },
       {
         "label": "45–54",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 51,
-      "pct": 28.7
+      "count": 52,
+      "pct": 29.1
     },
     {
       "name": "SPOKANE, WA",
       "count": 14,
-      "pct": 7.9
+      "pct": 7.8
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 47.9,
+    "currentMedianDaysHeld": 48,
     "currentLongestDaysHeld": 923.8
   },
   "bond": {
     "withBond": 60,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 55000,
     "maxBond": 2000000,
     "totalBond": 11447900
