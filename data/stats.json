@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T13:19:13",
+  "generatedAt": "2026-10-23T14:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 191,
-    "bookingsObserved": 77,
+    "bookingsTracked": 192,
+    "bookingsObserved": 78,
     "releasesObserved": 83,
-    "inCustody": 108,
+    "inCustody": 109,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 4,
+      "booked": 5,
       "released": 7
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 37,
-      "pct": 8.2
+      "count": 38,
+      "pct": 8.4
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -266,7 +266,7 @@
     {
       "name": "SUP",
       "count": 248,
-      "pct": 55.2,
+      "pct": 55.1,
       "label": "Superior Court"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "USM",
-      "count": 55,
-      "pct": 12.2,
+      "count": 56,
+      "pct": 12.4,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,17 +309,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 165,
-      "pct": 86.4
+      "count": 166,
+      "pct": 86.5
     },
     {
       "name": "Female",
       "count": 26,
-      "pct": 13.6
+      "pct": 13.5
     }
   ],
   "ages": {
-    "median": 36,
+    "median": 35.5,
     "groups": [
       {
         "label": "18–24",
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 49
+        "count": 50
       },
       {
         "label": "35–44",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 53,
-      "pct": 28.3
+      "pct": 28.2
     },
     {
       "name": "SPOKANE, WA",
       "count": 17,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 49,
+    "currentMedianDaysHeld": 49.1,
     "currentLongestDaysHeld": 924.9
   },
   "bond": {
     "withBond": 60,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11271900
   },
-  "chargesPerBooking": 2.4
+  "chargesPerBooking": 2.3
 }
