@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T17:19:13",
+  "generatedAt": "2026-10-22T18:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 185,
-    "bookingsObserved": 71,
+    "bookingsTracked": 186,
+    "bookingsObserved": 72,
     "releasesObserved": 76,
-    "inCustody": 109,
+    "inCustody": 110,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 4,
+      "booked": 5,
       "released": 8
     }
   ],
@@ -217,6 +217,11 @@
       "pct": 2
     },
     {
+      "name": "RAPE OF A CHILD",
+      "count": 8,
+      "pct": 1.8
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 8,
       "pct": 1.8
@@ -247,11 +252,6 @@
       "pct": 1.6
     },
     {
-      "name": "RAPE OF A CHILD",
-      "count": 7,
-      "pct": 1.6
-    },
-    {
       "name": "THEFT 2ND DEGREE",
       "count": 6,
       "pct": 1.4
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 246,
-      "pct": 55.7,
+      "count": 248,
+      "pct": 55.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 110,
-      "pct": 24.9,
+      "pct": 24.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "UDC",
       "count": 25,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 160,
-      "pct": 86.5
+      "count": 161,
+      "pct": 86.6
     },
     {
       "name": "Female",
       "count": 25,
-      "pct": 13.5
+      "pct": 13.4
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 48
+        "count": 49
       },
       {
         "label": "35–44",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 52,
-      "pct": 28.7
+      "pct": 28.6
     },
     {
       "name": "SPOKANE, WA",
-      "count": 14,
-      "pct": 7.7
+      "count": 15,
+      "pct": 8.2
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,12 +362,12 @@
     {
       "name": "YAKIMA, WA",
       "count": 9,
-      "pct": 5
+      "pct": 4.9
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "MOSES LAKE, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "RENTON, WA",
@@ -387,12 +387,12 @@
     {
       "name": "TACOMA, WA",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "EVERETT, WA",
       "count": 3,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "PASCO, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 49.1,
-    "currentLongestDaysHeld": 924
+    "currentMedianDaysHeld": 48.7,
+    "currentLongestDaysHeld": 924.1
   },
   "bond": {
     "withBond": 61,
-    "noBond": 48,
+    "noBond": 49,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11534900
