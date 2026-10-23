@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-22T18:19:13",
+  "generatedAt": "2026-10-22T19:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 186,
-    "bookingsObserved": 72,
+    "bookingsTracked": 187,
+    "bookingsObserved": 73,
     "releasesObserved": 76,
-    "inCustody": 110,
+    "inCustody": 111,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-22",
-      "booked": 5,
+      "booked": 6,
       "released": 8
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 18,
-      "pct": 4.1
+      "count": 19,
+      "pct": 4.3
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -189,7 +189,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 14,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -204,7 +204,7 @@
     {
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "Violation of DV NCO",
@@ -254,25 +254,25 @@
     {
       "name": "THEFT 2ND DEGREE",
       "count": 6,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "MAL MIS 2ND",
       "count": 6,
-      "pct": 1.4
+      "pct": 1.3
     }
   ],
   "courts": [
     {
       "name": "SUP",
       "count": 248,
-      "pct": 55.9,
+      "pct": 55.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 110,
-      "pct": 24.8,
+      "count": 111,
+      "pct": 24.9,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 161,
+      "count": 162,
       "pct": 86.6
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 65
+        "count": 66
       },
       {
         "label": "45–54",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 52,
-      "pct": 28.6
+      "count": 53,
+      "pct": 29
     },
     {
       "name": "SPOKANE, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 48.7,
+    "currentMedianDaysHeld": 48.3,
     "currentLongestDaysHeld": 924.1
   },
   "bond": {
     "withBond": 61,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11534900
