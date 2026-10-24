@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:19:14",
+  "generatedAt": "2026-10-24T14:43:03",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 197,
@@ -164,27 +164,27 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 40,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 33,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 24,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 19,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -199,17 +199,27 @@
     {
       "name": "ASSAULT 2ND DEGREE",
       "count": 11,
-      "pct": 2.4
+      "pct": 2.3
+    },
+    {
+      "name": "HARASSMENT",
+      "count": 10,
+      "pct": 2.1
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 10,
-      "pct": 2.2
+      "pct": 2.1
     },
     {
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
-      "pct": 2.2
+      "pct": 2.1
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 9,
+      "pct": 1.9
     },
     {
       "name": "DWLS 2ND DEGREE",
@@ -220,16 +230,6 @@
       "name": "Violation of DV NCO",
       "count": 9,
       "pct": 1.9
-    },
-    {
-      "name": "HARASSMENT",
-      "count": 9,
-      "pct": 1.9
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 8,
-      "pct": 1.7
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -252,12 +252,12 @@
       "pct": 1.7
     },
     {
-      "name": "MAL MISCH 3RD DEG",
-      "count": 6,
-      "pct": 1.3
+      "name": "MAL MIS 2ND",
+      "count": 7,
+      "pct": 1.5
     },
     {
-      "name": "THEFT 2ND DEGREE",
+      "name": "ASSAULT 3RD",
       "count": 6,
       "pct": 1.3
     }
@@ -265,26 +265,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 255,
-      "pct": 55,
+      "count": 261,
+      "pct": 55.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 118,
-      "pct": 25.4,
+      "pct": 25.1,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 56,
-      "pct": 12.1,
+      "pct": 11.9,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 25,
-      "pct": 5.4,
+      "pct": 5.3,
       "label": "Upper Kittitas District Court"
     },
     {
