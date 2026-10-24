@@ -1,0 +1,6352 @@
+[
+  {
+    "id": "47884",
+    "localId": "113422",
+    "name": "RANDAZZO, BLAKE MICHAEL",
+    "age": 30,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-24T03:20:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00889276WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T04:19:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47883",
+    "localId": "113421",
+    "name": "KINNEY, HUDSON CLIFFORD",
+    "age": 19,
+    "city": "LAKE STEVENS, WA",
+    "bookedAt": "2026-10-24T01:42:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "statute": "9A.52.025",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "FURNISH/CONSUME ALCOH TO MINOR",
+        "statute": "66.44.270",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "OBS PUB SER",
+        "statute": "9A.76.020",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 1ST",
+        "statute": "9A.52.020",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "HOLD",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-24T03:19:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47882",
+    "localId": "113420",
+    "name": "CABRERA, ADRIAN JIMENEZ",
+    "age": 27,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-24T00:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "T00918400WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "T00918400WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "released",
+    "firstSeen": "2026-10-24T02:14:37",
+    "releasedAt": "2026-10-24T09:25:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "11415",
+    "localId": "99763",
+    "name": "HANSBROUGH, CASSANDRA RAYAL",
+    "age": 56,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-10-23T18:51:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "C18430KCS",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-23T20:19:16",
+    "releasedAt": "2026-10-24T10:05:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "44050",
+    "localId": "107185",
+    "name": "SHOPBELL, ALEXANDRA JEANE",
+    "age": 31,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-23T15:00:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "5A0413585ELL/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "44455ELL/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "26CR125157/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T17:10:21",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "45986",
+    "localId": "110019",
+    "name": "ANDREWS, MICHAEL JAMES",
+    "age": 41,
+    "city": "WELLPINIT, WA",
+    "bookedAt": "2026-10-23T12:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47881",
+    "localId": "113417",
+    "name": "ELLER, SHEENA KATHLEEN",
+    "age": 43,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-23T12:00:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47217",
+    "localId": "112217",
+    "name": "OLNEY, NATHON PAUL",
+    "age": 40,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-23T12:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47879",
+    "localId": "113414",
+    "name": "STPETER, STEVEN RAY",
+    "age": 35,
+    "city": "OMAK, WA",
+    "bookedAt": "2026-10-23T12:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47880",
+    "localId": "113416",
+    "name": "ABBOT, DAVID JONATHAN",
+    "age": 26,
+    "city": "EAST WENATCHEE, WA",
+    "bookedAt": "2026-10-23T12:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-23T14:19:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "25226",
+    "localId": "95373",
+    "name": "VAUGHN, MARCUS JEFFREY",
+    "age": 38,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-22T17:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "44089ELL/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T10:19:16",
+    "status": "released",
+    "firstSeen": "2026-10-22T19:19:15",
+    "releasedAt": "2026-10-23T09:14:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "30299",
+    "localId": "86015",
+    "name": "WARD, DAKOTA JOE",
+    "age": 32,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-22T16:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610013619/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "statute": "9A.44.083",
+        "caseNumber": "2610013619/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T18:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "46646",
+    "localId": "111192",
+    "name": "HENDRICKSON, RICHARD DEAN",
+    "age": 40,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-22T11:03:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "TRIP PERMIT VIOLATION",
+        "statute": "46.16A.320.6",
+        "caseNumber": "5A0757017KCS/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T14:33:28",
+    "status": "released",
+    "firstSeen": "2026-10-22T13:19:15",
+    "releasedAt": "2026-10-23T13:57:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47877",
+    "localId": "113408",
+    "name": "JANTZER, ZEBULON ISAAC",
+    "age": 43,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-22T10:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610023119",
+        "court": "SUP"
+      },
+      {
+        "description": "DEAL DEPICT MINOR SEX 1ST",
+        "statute": "9.68A.050(1)(B)",
+        "caseNumber": "2610023119",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T13:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-22T12:19:15",
+    "releasedAt": "2026-10-23T11:52:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "46620",
+    "localId": "111153",
+    "name": "MARTINEZ, ALEJANDRO",
+    "age": 49,
+    "city": "PASCO, WA",
+    "bookedAt": "2026-10-22T09:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "5A0112103WSP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T14:33:28",
+    "status": "released",
+    "firstSeen": "2026-10-22T11:19:15",
+    "releasedAt": "2026-10-23T13:40:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47878",
+    "localId": "113409",
+    "name": "THORN, TIMOTHY JAMES",
+    "age": 43,
+    "city": "PARKLAND, WA",
+    "bookedAt": "2026-10-22T09:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610022719KCS/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2610022719KCS/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610022719KCS/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610022719KCS/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "ATTEMPTED BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030.A",
+        "caseNumber": "2610022719KCS/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 2000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-22T13:19:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "43332",
+    "localId": "113405",
+    "name": "JONES, PAYTEN ROSE",
+    "age": 22,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-21T18:30:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "BURGLARY 1ST",
+        "statute": "9A.52.020",
+        "caseNumber": "2610023019",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "2610023019",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "2610023019",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T13:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-21T20:19:16",
+    "releasedAt": "2026-10-22T11:29:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "42562",
+    "localId": "104297",
+    "name": "MCQUESTEN, MATTHEW MICHAEL",
+    "age": 42,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-21T13:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "44228ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T16:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-21T15:19:14",
+    "releasedAt": "2026-10-22T14:32:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47874",
+    "localId": "113402",
+    "name": "ORTEGAVELEZ, PABLO FABIAN",
+    "age": 36,
+    "city": "LYNNWOOD, WA",
+    "bookedAt": "2026-10-20T16:37:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "T00800482WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T19:19:12",
+    "status": "released",
+    "firstSeen": "2026-10-20T18:19:13",
+    "releasedAt": "2026-10-20T18:10:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47873",
+    "localId": "113401",
+    "name": "DEMING, DOMINIC TYREE",
+    "age": 28,
+    "city": "MONROE, WA",
+    "bookedAt": "2026-10-20T09:36:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTI",
+        "statute": "7.105.450.5",
+        "caseNumber": "2510015419/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-20T11:14:04",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "45728",
+    "localId": "109527",
+    "name": "HANDERSON, SAMANTHA NICOLE",
+    "age": 30,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-20T05:15:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "26CR193232ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T14:46:36",
+    "status": "released",
+    "firstSeen": "2026-10-20T06:19:13",
+    "releasedAt": "2026-10-20T14:01:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47872",
+    "localId": "113399",
+    "name": "MURRIN, TRINITY JADE",
+    "age": 25,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-19T23:30:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "T00887515ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T14:46:36",
+    "status": "released",
+    "firstSeen": "2026-10-20T01:07:45",
+    "releasedAt": "2026-10-20T13:33:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47871",
+    "name": "BROWN, KRISALYN T",
+    "age": 21,
+    "city": "TIETON, WA",
+    "bookedAt": "2026-10-19T13:35:00",
+    "releasedAt": "2026-10-19T14:03:09",
+    "localId": null,
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR192463KCS/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-19T15:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-19T15:19:14",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47869",
+    "localId": "113397",
+    "name": "CURRY, MCKAYLA ELLEN",
+    "age": 23,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-19T10:25:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "26CR193300KCS",
+        "court": "UDC"
+      },
+      {
+        "description": "RECKLESS ENDANGERMNT-DV",
+        "statute": "9A.36.050-DV",
+        "caseNumber": "26CR193300KCS",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T12:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-19T12:19:13",
+    "releasedAt": "2026-10-20T10:38:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "41127",
+    "name": "COLBURN, NOLAN JAMES",
+    "age": 38,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-19T10:00:00",
+    "releasedAt": "2026-10-19T11:21:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ANTIHARASSMENT PROTECTION ORDER VIO",
+        "statute": "7.105.455.2",
+        "caseNumber": "3A0495404/WRT",
+        "court": "OCC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-19T12:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-19T12:19:13",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47865",
+    "localId": "113395",
+    "name": "FLORES, ANGEL",
+    "age": 21,
+    "city": "ROYAL CITY, WA",
+    "bookedAt": "2026-10-18T22:11:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "T00775885WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-19T02:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-18T23:19:15",
+    "releasedAt": "2026-10-19T00:32:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "46152",
+    "localId": "110338",
+    "name": "WEATHERFORD, KYLER L",
+    "age": 25,
+    "city": "ANACORTES, WA",
+    "bookedAt": "2026-10-18T15:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "5A0252053WSP/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-18T17:19:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47864",
+    "localId": "113393",
+    "name": "HASS, JACOB RYANN",
+    "age": 43,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-18T01:46:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "statute": "9.41.270",
+        "caseNumber": "C17216KCS",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-18T09:02:12",
+    "status": "released",
+    "firstSeen": "2026-10-18T03:19:15",
+    "releasedAt": "2026-10-18T08:27:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "43294",
+    "localId": "113329",
+    "name": "HERNANDEZESTRADA, MAYNOR JOSUE",
+    "age": 22,
+    "city": "BELLEVUE, WA",
+    "bookedAt": "2026-10-18T01:24:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00775874WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-18T03:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-18T02:19:16",
+    "releasedAt": "2026-10-18T02:25:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "27857",
+    "localId": "92819",
+    "name": "RIACH, MASON JAMES",
+    "age": 29,
+    "city": "SEATTLE, WA",
+    "bookedAt": "2026-10-17T21:37:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "T00918374WSP",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-18T00:39:19",
+    "status": "released",
+    "firstSeen": "2026-10-18T00:19:13",
+    "releasedAt": "2026-10-17T23:59:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47863",
+    "localId": "113390",
+    "name": "SCHMIDT, LANDON",
+    "age": 20,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-17T02:02:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVER <21 CONSUMING ALCOHOL",
+        "statute": "46.61.503",
+        "caseNumber": "T00600051WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-19T13:02:15",
+    "status": "released",
+    "firstSeen": "2026-10-17T03:19:13",
+    "releasedAt": "2026-10-19T11:58:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "43774",
+    "localId": "105721",
+    "name": "MITCHELL, GLENNIS CALVIN",
+    "age": 45,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-10-16T20:53:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS IN FIRST DEGREE",
+        "statute": "46.20.342.1A",
+        "caseNumber": "T00775847WSP",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T23:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-16T22:19:12",
+    "releasedAt": "2026-10-16T21:44:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47062",
+    "localId": "111976",
+    "name": "WOODCOCK, OTIS EUGENE",
+    "age": 49,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-16T18:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ANTIHARASSMENT PROTECTION ORDER VIO",
+        "statute": "7.105.455.2",
+        "caseNumber": "T00906018ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-17T10:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-16T19:29:56",
+    "releasedAt": "2026-10-17T09:19:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "39915",
+    "localId": "99245",
+    "name": "MISCHENKO, ANASTASIA V",
+    "age": 28,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-16T17:32:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "statute": "9A.36.031.1",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "OBS PUB SER",
+        "statute": "9A.76.020",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-18T14:12:20",
+    "status": "released",
+    "firstSeen": "2026-10-16T19:29:56",
+    "releasedAt": "2026-10-18T12:31:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47861",
+    "localId": "113384",
+    "name": "RIZKALLA, GABRIELLA SHERIF",
+    "age": 27,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-16T11:20:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T14:19:15",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47423",
+    "localId": "112607",
+    "name": "SANCHEZ, RICARDO LUIS",
+    "age": 29,
+    "city": "NESPELEM, WA",
+    "bookedAt": "2026-10-16T11:15:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47862",
+    "localId": "113386",
+    "name": "MATLOCK, JEFFREY FRANCIS",
+    "age": 52,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-16T11:06:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-16T13:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47859",
+    "localId": "113382",
+    "name": "GENTLE, JAVARIE TYRECUS",
+    "age": 20,
+    "city": "OAK HARBOR, WA",
+    "bookedAt": "2026-10-16T03:08:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RACING",
+        "statute": "46.61.530",
+        "caseNumber": "26CR189265WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T15:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-16T09:19:15",
+    "releasedAt": "2026-10-16T14:18:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47858",
+    "localId": "113381",
+    "name": "SANCHEZ, JORGE ANTHONY",
+    "age": 27,
+    "city": "PASCO, WA",
+    "bookedAt": "2026-10-16T03:07:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RACING",
+        "statute": "46.61.530",
+        "caseNumber": "T00918364WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T15:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-16T04:19:23",
+    "releasedAt": "2026-10-16T14:05:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47860",
+    "localId": "113383",
+    "name": "DELOSSANTOS, LUIS A",
+    "age": 33,
+    "city": null,
+    "bookedAt": "2026-10-16T03:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR188782ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T15:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-16T04:19:23",
+    "releasedAt": "2026-10-16T13:39:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47533",
+    "localId": "113380",
+    "name": "WESTBROOK, THOMAS JOHN",
+    "age": 56,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-15T15:58:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR94785ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T14:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-15T17:00:36",
+    "releasedAt": "2026-10-16T12:29:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47857",
+    "localId": "113379",
+    "name": "JARAMILLO, SAWYER REDWOLFCRAY",
+    "age": 18,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-10-15T13:42:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "2580004719/COMM",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 3RD",
+        "statute": "9A.36.031.1",
+        "caseNumber": "2580004719/COMM",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "2580004719/COMM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T13:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-15T17:00:36",
+    "releasedAt": "2026-10-22T11:59:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "32431",
+    "localId": "100814",
+    "name": "COOPER, AARON EUGENE",
+    "age": 37,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-10-15T12:07:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2510005419/COMM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T13:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-15T16:19:13",
+    "releasedAt": "2026-10-22T11:52:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "46415",
+    "localId": "110786",
+    "name": "MCGRUE, EARNEST LEE",
+    "age": 49,
+    "city": "TACOMA, WA",
+    "bookedAt": "2026-10-15T09:53:31",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "3Z0005616WSP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T14:19:12",
+    "status": "released",
+    "firstSeen": "2026-10-15T11:19:21",
+    "releasedAt": "2026-10-20T13:25:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47609",
+    "localId": "112941",
+    "name": "WELCH, ADONIS RICHARD LORRENCE",
+    "age": 21,
+    "city": "ENUMCLAW, WA",
+    "bookedAt": "2026-10-15T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "statute": "46.61.024",
+        "caseNumber": "2610011519/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "RECKLESS ENDANGER",
+        "statute": "9A.36.050",
+        "caseNumber": "2610011519/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 50000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-15T14:38:27",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "39480",
+    "localId": "98449",
+    "name": "JARAMILLO, CRYSTAL GAYLE",
+    "age": 45,
+    "city": "CHEHALIS, WA",
+    "bookedAt": "2026-10-15T09:25:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "CC2024028ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T16:46:19",
+    "status": "released",
+    "firstSeen": "2026-10-15T12:19:15",
+    "releasedAt": "2026-10-16T15:57:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "44940",
+    "localId": "107985",
+    "name": "CARTER, MARKELL DEON",
+    "age": 26,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-15T07:53:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR97724KCS/WRT",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-15T14:38:27",
+    "status": "released",
+    "firstSeen": "2026-10-15T09:19:15",
+    "releasedAt": "2026-10-15T13:48:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47855",
+    "localId": "113373",
+    "name": "PLEMEL, DEVIN",
+    "age": 28,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-10-14T10:20:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "T00853013WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T12:19:19",
+    "status": "released",
+    "firstSeen": "2026-10-14T10:43:22",
+    "releasedAt": "2026-10-14T11:10:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47853",
+    "localId": "113372",
+    "name": "NIKULA, PRYCE JACOB",
+    "age": 32,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-14T01:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "26CR185721KCS",
+        "court": "LDC"
+      },
+      {
+        "description": "OBS PUB SER",
+        "statute": "9A.76.020",
+        "caseNumber": "26CR185770KCS",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T16:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-14T03:19:15",
+    "releasedAt": "2026-10-14T14:50:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47081",
+    "localId": "111995",
+    "name": "VROOMAN, KEATON CHASE",
+    "age": 22,
+    "city": "EASTON, WA",
+    "bookedAt": "2026-10-13T21:18:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RAPE 3RD",
+        "statute": "9A.44.060",
+        "caseNumber": "2610022619",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610022619",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T22:19:14",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47852",
+    "localId": "113371",
+    "name": "DELEGANS, KARIE A",
+    "age": 49,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-10-13T21:00:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "26CR184276KTP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T15:19:18",
+    "status": "released",
+    "firstSeen": "2026-10-13T23:58:25",
+    "releasedAt": "2026-10-14T14:16:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47851",
+    "localId": "113369",
+    "name": "SINGH, HARKIRAT",
+    "age": 35,
+    "city": "KENT, WA",
+    "bookedAt": "2026-10-13T17:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT 1ST DEGREE",
+        "statute": "9A.56.030.1",
+        "caseNumber": "2610022419",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 200000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T18:42:38",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47850",
+    "localId": "113368",
+    "name": "KAUSHIK, KRITIKA",
+    "age": 28,
+    "city": "RENTON, WA",
+    "bookedAt": "2026-10-13T17:00:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "THEFT WELFARE FRAUD",
+        "statute": "9A.56.030.1A",
+        "caseNumber": "2610022519",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T16:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T18:19:16",
+    "releasedAt": "2026-10-14T14:29:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47848",
+    "localId": "113367",
+    "name": "NAGELFRAGA, CORY GENE",
+    "age": 38,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-13T10:05:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASLT 4TH DOMESTIC VIOLENCE",
+        "statute": "9A.36.041.DV",
+        "caseNumber": "26CR185605ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T16:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T14:19:16",
+    "releasedAt": "2026-10-14T14:49:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "45532",
+    "localId": "110416",
+    "name": "STIMSON, JOSHUA JAMES",
+    "age": 36,
+    "city": "GRANGER, WA",
+    "bookedAt": "2026-10-13T09:41:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "43751ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "CC2025070ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T10:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T11:19:15",
+    "releasedAt": "2026-10-22T08:39:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47847",
+    "localId": "113366",
+    "name": "PADILLA-ORNELAS, ALEJANDRO",
+    "age": 35,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-13T09:41:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "statute": "46.61.024",
+        "caseNumber": "2610016419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "2610016419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "DWLS IN FIRST DEGREE",
+        "statute": "46.20.342.1A",
+        "caseNumber": "2610016419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "2610016419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "statute": "46.61.500",
+        "caseNumber": "2610016419/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-13T14:19:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47846",
+    "localId": "113362",
+    "name": "KEBE, CHEIKH MARAME",
+    "age": 22,
+    "city": "SEA TAC, WA",
+    "bookedAt": "2026-10-13T09:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR162886/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-13T23:58:25",
+    "status": "released",
+    "firstSeen": "2026-10-13T11:19:15",
+    "releasedAt": "2026-10-13T22:28:27",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "46576",
+    "localId": "111070",
+    "name": "IRBY, NATHAN J",
+    "age": 36,
+    "city": "AUBURN, WA",
+    "bookedAt": "2026-10-13T09:24:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "3A0305715WSP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T16:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T13:19:20",
+    "releasedAt": "2026-10-14T15:14:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47074",
+    "localId": "111980",
+    "name": "FERRER, SERGIO",
+    "age": 52,
+    "city": "SUNNYSIDE, WA",
+    "bookedAt": "2026-10-13T09:21:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "16213KCS/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-14T16:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T12:19:15",
+    "releasedAt": "2026-10-14T15:14:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47845",
+    "localId": "113361",
+    "name": "RANDALL, CHRISTIAN LITTLEWOLF",
+    "age": 35,
+    "city": "NESPELEM, WA",
+    "bookedAt": "2026-10-13T03:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR183676KCS",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-15T01:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-13T05:19:14",
+    "releasedAt": "2026-10-14T23:54:54",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47844",
+    "localId": "113360",
+    "name": "GEORGE, ANTHONY RYAN",
+    "age": 44,
+    "city": "LONGVIEW, WA",
+    "bookedAt": "2026-10-12T23:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR182748ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR182748ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "26CR182748ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-15T14:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-13T00:19:14",
+    "releasedAt": "2026-10-15T13:05:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "42623",
+    "localId": "103796",
+    "name": "POGUE, NICKOLAS RAY",
+    "age": 48,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-12T10:31:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "26CR143188/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "POSS STOLEN PROPERTY",
+        "statute": "9A.56.170",
+        "caseNumber": "26CR143188/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-12T13:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-12T12:19:13",
+    "releasedAt": "2026-10-12T11:28:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47247",
+    "localId": "112268",
+    "name": "DENNIS, JASON RAY",
+    "age": 40,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-12T09:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "26CR143220ELL/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-12T11:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-12T10:19:26",
+    "releasedAt": "2026-10-12T09:28:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "47837",
+    "name": "ARSENIY, MIKHAIL",
+    "age": 43,
+    "city": "KENT, WA",
+    "bookedAt": "2026-10-12T01:49:00",
+    "releasedAt": "2026-10-12T10:24:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR180278KCS",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-12T11:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-12T11:19:13",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "41067",
+    "localId": "113356",
+    "name": "SHEAHAN, SADIE ANN",
+    "age": 24,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-10-11T06:27:07",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASLT 4TH DOMESTIC VIOLENCE",
+        "statute": "9A.36.041.DV",
+        "caseNumber": "26CR179884CPL",
+        "court": "CEMU"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-12T13:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-11T08:19:13",
+    "releasedAt": "2026-10-12T11:28:00",
+    "releaseSource": "official",
+    "baseline": false
+  },
+  {
+    "id": "46782",
+    "localId": "111444",
+    "name": "JONES, JULIEN CARSTEN",
+    "age": 19,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-11T02:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "CARRY CONCEAL PISTOL W/O PERMT",
+        "statute": "9.41.050.1A",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "statute": "9.41.270",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "DELIVERY TO INELIGIBLE PERSON",
+        "statute": "9.41.080",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN FIREARM",
+        "statute": "9A.56.310",
+        "caseNumber": "2610022319",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 100000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-11T04:19:13",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
+    "id": "47836",
+    "localId": "113354",
+    "name": "LONG, TRAVIS MATTHEW",
+    "age": 37,
+    "city": "SNOHOMISH, WA",
+    "bookedAt": "2026-10-10T22:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00858436WSP",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-11T00:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-10T22:51:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "42969",
+    "localId": "104426",
+    "name": "ORR, ANGEL YVONNE",
+    "age": 39,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-10T11:17:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "42632ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "41728ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 30000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47835",
+    "name": "GLOYN, MILEY PAYTON",
+    "age": 18,
+    "city": "BONNEY LAKE, WA",
+    "bookedAt": "2026-10-10T02:36:00",
+    "releasedAt": "2026-10-10T08:06:00",
+    "localId": null,
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00600043WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47834",
+    "name": "KELLEY, KENNETH CARL",
+    "age": 49,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-10-09T23:23:00",
+    "releasedAt": "2026-10-10T01:15:20",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "FLIP LIC PLATE VIO/FALSE REG VIO",
+        "statute": "46.37.685(2)",
+        "caseNumber": "T00858433WSP",
+        "court": "UDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "T00858433WSP",
+        "court": "UDC"
+      },
+      {
+        "description": "OPERATE VEH W/O VAL CERT OF TITLE",
+        "statute": "46.12.550.1",
+        "caseNumber": "T00858433WSP",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "27939",
+    "localId": "103332",
+    "name": "BUTLER, NATHAN DOUGLAS",
+    "age": 32,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-09T17:06:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HARASS TELEPHONE CAL",
+        "statute": "9.61.230",
+        "caseNumber": "26CR39318ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "FALSE OR MSLD STMNT TO PUB SRV",
+        "statute": "9A.76.175",
+        "caseNumber": "26CR39318ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T13:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-23T11:45:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "42303",
+    "localId": "111844",
+    "name": "KRIER, AAREN MATTHEW",
+    "age": 24,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-09T12:39:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "18301KCS/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-11T12:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-11T10:57:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47832",
+    "localId": "113348",
+    "name": "CLEMENTS, DANIEL OWENS",
+    "age": 40,
+    "city": "CASHMERE, WA",
+    "bookedAt": "2026-10-09T11:02:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47070",
+    "localId": "111974",
+    "name": "JONES, TAUREAN D",
+    "age": 39,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-10-09T11:02:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "5601",
+    "localId": "109252",
+    "name": "LEMAN, NICHOLUS JAMES",
+    "age": 47,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-08T20:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "26CR134384ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "26CR106689ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 200,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "2057",
+    "name": "TOWNLEY, DANNY ALLEN",
+    "age": 65,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-08T20:45:00",
+    "releasedAt": "2026-10-09T13:44:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR78362ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "42855",
+    "name": "CRANE, HAYDEN MARK",
+    "age": 22,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-08T17:14:00",
+    "releasedAt": "2026-10-22T14:39:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Mal Misc 3rd-Misd-DV",
+        "statute": "9A.48.090-DV",
+        "caseNumber": "26CR195357",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T16:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "6581",
+    "localId": "101498",
+    "name": "RIDDLE, TENIESHA MARIE",
+    "age": 42,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-08T14:41:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR39377WSP/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-12T14:19:16",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-12T13:17:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47591",
+    "name": "CACERESCASTRO, KLEIBER ESLEITER",
+    "age": 26,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-07T08:15:00",
+    "releasedAt": "2026-10-08T13:58:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR99833CWU/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "26CR73543KCS/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "46975",
+    "name": "RUTLEDGE, SILAS CHRISTIAN",
+    "age": 22,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-06T14:30:00",
+    "releasedAt": "2026-10-09T14:16:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00095328WSP/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47828",
+    "localId": "113336",
+    "name": "CALDERON-RUIZ, POERI",
+    "age": 45,
+    "city": "LOS MOCHIS, MX",
+    "bookedAt": "2026-10-06T11:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47829",
+    "localId": "113337",
+    "name": "RODRIGUEZ, ENRIQUE SANTOS",
+    "age": 53,
+    "city": "COACHELLA, CA",
+    "bookedAt": "2026-10-06T11:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "45213",
+    "localId": "109759",
+    "name": "RODRIGUEZ, STEPHEN RENE",
+    "age": 31,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-10-06T09:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "42903ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 15000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47827",
+    "localId": "113335",
+    "name": "SATTERWHITE, NATHAN",
+    "age": 39,
+    "city": "PORT ORCHARD, WA",
+    "bookedAt": "2026-10-06T09:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "14176KCS/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-13T13:19:20",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-13T12:21:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "45818",
+    "localId": "111601",
+    "name": "CARSON, JESSICA WELKER",
+    "age": 32,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-05T11:36:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610022119",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 75000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "40331",
+    "localId": "105777",
+    "name": "JARQUIN, JADEN JOSE",
+    "age": 22,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-10-03T09:12:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIO PREV CONV ATTE",
+        "statute": "7.105.450.5.A",
+        "caseNumber": "CC2026018ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "CC2026017ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "ANTIHARASSMENT PROTECTION ORDER VIO",
+        "statute": "7.105.455.2",
+        "caseNumber": "43873ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "44151ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 40000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47817",
+    "name": "ESPINOVEJAR, SABAS",
+    "age": 26,
+    "city": "PIXLEY, CA",
+    "bookedAt": "2026-10-02T09:39:48",
+    "releasedAt": "2026-10-09T09:10:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47816",
+    "localId": "113314",
+    "name": "BUCKNUM, PATRICK ALAN",
+    "age": 55,
+    "city": "MAPLE VALLEY, WA",
+    "bookedAt": "2026-10-02T09:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47815",
+    "localId": "113313",
+    "name": "HAYDEN, BRIAN JEREMY",
+    "age": 40,
+    "city": "SAN DIEGO, CA",
+    "bookedAt": "2026-10-02T09:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47818",
+    "localId": "113316",
+    "name": "LARABARRERA, ROMAN",
+    "age": 39,
+    "city": "UNKNOWN, WA",
+    "bookedAt": "2026-10-02T09:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47819",
+    "localId": "113317",
+    "name": "PAAVOLA, WHEELER JOSEPH",
+    "age": 44,
+    "city": "AIRWAY HEIGHTS, WA",
+    "bookedAt": "2026-10-02T09:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47814",
+    "localId": "113311",
+    "name": "MONTOYA, RONEY RODRIGUEZ",
+    "age": 31,
+    "city": "KIRKLAND, WA",
+    "bookedAt": "2026-09-30T16:44:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR166952",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-20T14:46:36",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-20T13:27:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "2910",
+    "localId": "57721",
+    "name": "CONNER, AARON ERIC",
+    "age": 46,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-09-29T09:43:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "C00018286KCS/WRT",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": 5000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "34713",
+    "name": "HOGAN, SHELBY PATRICK",
+    "age": 30,
+    "city": "RIDGEFIELD, WA",
+    "bookedAt": "2026-09-29T09:43:00",
+    "releasedAt": "2026-10-10T08:40:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "7615CWU/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "MINOR INTOX PUBLIC PLACE",
+        "statute": "66.44.270.3B",
+        "caseNumber": "7481CWU/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "40341",
+    "localId": "100114",
+    "name": "BEASON, SKYLER ALLEN",
+    "age": 32,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-29T09:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020",
+        "caseNumber": "10254CWU/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "10254CWU/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 5000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45660",
+    "localId": "109386",
+    "name": "GONZALES, DIANA RODRIGUEZ",
+    "age": 63,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-09-29T09:35:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "43663ELL/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 15000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46943",
+    "localId": "111728",
+    "name": "HERRERA, CLEMENTE ANGEL",
+    "age": 33,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-29T09:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "statute": "9.41.270",
+        "caseNumber": "18006KCS/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-19T09:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-19T08:04:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47351",
+    "localId": "112471",
+    "name": "HUTCHISON, QUENTIN MATTHEW",
+    "age": 20,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-29T09:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45871",
+    "localId": "109805",
+    "name": "YAZZIE, SHILIJAH LEILANI",
+    "age": 25,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-09-28T15:30:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "18074KCS/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45670",
+    "localId": "109411",
+    "name": "WROBLEWSKI, JOHN LEONARD",
+    "age": 21,
+    "city": "EDMONDS, WA",
+    "bookedAt": "2026-09-28T13:20:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION DISTANCE",
+        "statute": "7.105.450.1A3",
+        "caseNumber": "43927ELL/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-18T13:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-18T11:48:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47425",
+    "localId": "112609",
+    "name": "COPELAND, KORY LEE",
+    "age": 46,
+    "city": "WELLPINIT, WA",
+    "bookedAt": "2026-09-25T12:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47786",
+    "localId": "113279",
+    "name": "CRINKLAW, JERRED",
+    "age": 25,
+    "city": "NESPELEM, WA",
+    "bookedAt": "2026-09-25T12:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47409",
+    "localId": "112590",
+    "name": "HARRINGTON-LAMBERT, ROBERT MICHAEL",
+    "age": 22,
+    "city": "GRAND COULEE, WA",
+    "bookedAt": "2026-09-25T12:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47424",
+    "localId": "112608",
+    "name": "JIM, KYLE MARTIN",
+    "age": 36,
+    "city": "NESPELEM, WA",
+    "bookedAt": "2026-09-25T12:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46818",
+    "localId": "111518",
+    "name": "SUMERLIN, LEE ALLEN",
+    "age": 65,
+    "city": "NEWPORT, WA",
+    "bookedAt": "2026-09-25T12:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T11:03:11",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-23T10:18:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "29574",
+    "localId": "100436",
+    "name": "ANTHONY, GEORGE DAVID",
+    "age": 36,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-24T19:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610021719",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610021719",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 5000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "42180",
+    "localId": "103178",
+    "name": "GOODYEAR, MEGAN DENISE",
+    "age": 43,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-24T13:45:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610021819",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610021819",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "2610021819",
+        "court": "SUP"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR156820ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "26CR118701KCS/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 2700,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "41913",
+    "localId": "102963",
+    "name": "JOHNSON, PAUL LELAND",
+    "age": 43,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-22T09:20:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "CYBERSTALKING",
+        "statute": "9.61.260",
+        "caseNumber": "CC2021043KTP/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "NO CONTACT/PROTECTION ORDER VIOL",
+        "statute": "26.50.110.1",
+        "caseNumber": "CC2021043KTP/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020",
+        "caseNumber": "CC2021043KTP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47776",
+    "localId": "113259",
+    "name": "CHAPPLE, CHRISTOPHER DAVID",
+    "age": 45,
+    "city": "OROVILLE, WA",
+    "bookedAt": "2026-09-22T09:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "35986",
+    "localId": "91866",
+    "name": "PENA, JONATHAN EDWARD",
+    "age": 50,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-22T09:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T12:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T10:50:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "46311",
+    "localId": "110602",
+    "name": "SALATA, DANIEL THOMAS",
+    "age": 43,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-22T09:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46984",
+    "name": "CAPPS, KEVYN LEE",
+    "age": 35,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-09-19T18:25:00",
+    "releasedAt": "2026-10-08T11:04:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOL PREV CONVICTI",
+        "statute": "7.105.450.5",
+        "caseNumber": "2610021319",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR150337ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "45448",
+    "localId": "108910",
+    "name": "ORPILLIA, SHARICE KUUIPOLANI",
+    "age": 34,
+    "city": "EVERETT, WA",
+    "bookedAt": "2026-09-18T15:10:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "4A0522400WSP/REM",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47459",
+    "localId": "112682",
+    "name": "WINNIER, AARON",
+    "age": 45,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-09-18T08:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T11:03:11",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-23T10:18:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47766",
+    "localId": "113243",
+    "name": "YAZZIE, LUKE FIREWALKER",
+    "age": 19,
+    "city": "ELMER CITY, WA",
+    "bookedAt": "2026-09-18T08:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47190",
+    "localId": "112175",
+    "name": "GONSOROWSKI, VICTOR DANIEL",
+    "age": 21,
+    "city": null,
+    "bookedAt": "2026-09-15T08:58:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46821",
+    "localId": "111521",
+    "name": "MANCERA-SAUCILLO, JUAN LUIS",
+    "age": 32,
+    "city": "Modesto, CA",
+    "bookedAt": "2026-09-15T08:58:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47120",
+    "localId": "112046",
+    "name": "PIATOTE, MARC ALLEN",
+    "age": 25,
+    "city": "NESPELEM, WA",
+    "bookedAt": "2026-09-15T08:58:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47408",
+    "localId": "112589",
+    "name": "MONTOYA-RODRIGUEZ, JUAN FRANCISCO",
+    "age": 38,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-11T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47177",
+    "localId": "112150",
+    "name": "VALLESANCHEZ, JESUS CHRISTOPHER",
+    "age": 20,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-09-10T09:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "T00192533WSP/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "T00192533WSP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 15000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47328",
+    "localId": "112436",
+    "name": "DICKERSON, JAMAR S",
+    "age": 43,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-09T09:05:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46146",
+    "name": "BECKHAM, CASEY DEAN",
+    "age": 51,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-09-09T09:05:00",
+    "releasedAt": "2026-10-09T09:10:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "20281",
+    "localId": "69035",
+    "name": "VANCLEAVE, ERIK LEE",
+    "age": 52,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-09-09T01:15:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 1ST DEGREE",
+        "statute": "9A.36.011",
+        "caseNumber": "2610020619",
+        "court": "SUP"
+      },
+      {
+        "description": "Interfere with DV Report",
+        "statute": "9A.36.150",
+        "caseNumber": "2610020619",
+        "court": "SUP"
+      },
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "2610020619",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "2610020619",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 500000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46131",
+    "localId": "110294",
+    "name": "NORDBLAD, JACK EARL",
+    "age": 65,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-09-07T18:24:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "5A0067623WSP/WRT",
+        "court": "UDC"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR137646KCS",
+        "court": "UDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "26CR137646KCS",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "14449",
+    "localId": "74350",
+    "name": "VANWEERDHUIZEN, JATHAN LEE",
+    "age": 49,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-06T12:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT OF MOTOR VEH",
+        "statute": "9A.56.065",
+        "caseNumber": "2610001019/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2410018219/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "2410018219/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "statute": "9A.52.025",
+        "caseNumber": "2610016119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "MAIL THEFT",
+        "statute": "9A.56.370",
+        "caseNumber": "2610016119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2610016119/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 70000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "33963",
+    "localId": "88246",
+    "name": "LEE, PATRICK MARTIN",
+    "age": 42,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-05T21:52:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020.2B",
+        "caseNumber": "2610020319",
+        "court": "SUP"
+      },
+      {
+        "description": "MALICIOUS HARASSMENT",
+        "statute": "9A.36.080",
+        "caseNumber": "2610020319",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45782",
+    "name": "RIOS, SAMANTHA KAY",
+    "age": 19,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-05T18:50:00",
+    "releasedAt": "2026-10-09T11:17:00",
+    "localId": null,
+    "sex": "F",
+    "charges": [
+      {
+        "description": "VIO OF DV PROTECTION ORDER",
+        "statute": "26.50.010",
+        "caseNumber": "26CR136022ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "VIO OF DV PROTECTION ORDER",
+        "statute": "26.50.010",
+        "caseNumber": "26CR136023ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47726",
+    "localId": "113166",
+    "name": "ANGULOESTRADA, BRAULIO",
+    "age": 26,
+    "city": "BOULDER CITY, AZ",
+    "bookedAt": "2026-09-04T12:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47728",
+    "localId": "113168",
+    "name": "SALAZARMERCADO, JOSE ANGEL",
+    "age": 23,
+    "city": null,
+    "bookedAt": "2026-09-04T12:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47730",
+    "localId": "113169",
+    "name": "TREVINO, SAHLLY JACKELINNE",
+    "age": 38,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-09-04T12:50:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47169",
+    "localId": "112139",
+    "name": "SVIK, JOSEPH JAMES",
+    "age": 61,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-09-03T14:15:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION ASSAULT",
+        "statute": "7.105.450.4",
+        "caseNumber": "2610020119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "2610020119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "2610020119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAWFUL POSS FRARM 2ND DEGREE",
+        "statute": "9.41.040(2)(a)",
+        "caseNumber": "2610004219/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 50000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "42462",
+    "name": "GRIFFIN, JESSICA CORINNE",
+    "age": 38,
+    "city": "CHENEY, WA",
+    "bookedAt": "2026-09-03T09:26:00",
+    "releasedAt": "2026-10-10T08:25:00",
+    "localId": null,
+    "sex": "F",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "XZ0726475WSP/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "XZ0726475WSP/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "XZ0726475WSP/WRT",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "40727",
+    "localId": "105297",
+    "name": "FLOYD, LESLIE CHARLES",
+    "age": 26,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-09-01T09:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR120783CWU/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR119085ELL/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR116213CWU/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR115034KCS/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR116217KCS/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-21T11:19:14",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-21T09:44:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "25318",
+    "localId": "92887",
+    "name": "PEARSON, SHANE MICHAEL",
+    "age": 42,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-09-01T05:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610020019",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 100000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47183",
+    "localId": "112152",
+    "name": "LUBBEN, MIA ANGELA",
+    "age": 30,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-08-28T15:00:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T13:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-23T12:16:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47703",
+    "localId": "113117",
+    "name": "MAURICIOALVAREZ, JOSE ARAEL",
+    "age": 41,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-08-26T09:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610019319",
+        "court": "SUP"
+      },
+      {
+        "description": "HIT AND RUN",
+        "statute": "46.52.020",
+        "caseNumber": "2610019319",
+        "court": "SUP"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": 150000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "38681",
+    "name": "IBARRIA, PABLO JESUS",
+    "age": 38,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-08-25T16:08:00",
+    "releasedAt": "2026-10-08T14:21:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "NO CONTACT/PROTECTION ORDER VIOL",
+        "statute": "26.50.110.1",
+        "caseNumber": "2610019119",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47130",
+    "localId": "112068",
+    "name": "SANCHEZMARTINEZ, SERGIO",
+    "age": 31,
+    "city": "PHEONIX, AZ",
+    "bookedAt": "2026-08-25T10:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47694",
+    "localId": "113103",
+    "name": "LOWERY, ISAIAH ALLEN WADE",
+    "age": 23,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-08-24T20:02:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "FUGITIVE FRM JUSTICE",
+        "statute": "10.88.320",
+        "caseNumber": "2610019019",
+        "court": "SUP"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "statute": "9.68A.040",
+        "caseNumber": "CPC2612/WRT",
+        "court": "OS"
+      },
+      {
+        "description": "IMMORAL COMM/MINOR",
+        "statute": "9.68A.090",
+        "caseNumber": "CPC2612/WRT",
+        "court": "OS"
+      },
+      {
+        "description": "CRIMINAL SOLICITATION",
+        "statute": "9A.28.030",
+        "caseNumber": "CPC2612/WRT",
+        "court": "OS"
+      },
+      {
+        "description": "IMMORAL COMM/MINOR",
+        "statute": "9.68A.090",
+        "caseNumber": "2610018919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 150000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47348",
+    "localId": "113088",
+    "name": "SHIELDS, BABBOY JOSEPHJIMMY",
+    "age": 23,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-08-22T13:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610018319/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "statute": "9A.44.083",
+        "caseNumber": "2610018319/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610018319/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47680",
+    "localId": "113079",
+    "name": "HALL, CRAIG ALLEN",
+    "age": 45,
+    "city": "OMAK, WA",
+    "bookedAt": "2026-08-21T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47461",
+    "localId": "112684",
+    "name": "HERNANDEZ-ARCINIEGA, MARCOS",
+    "age": 31,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-08-21T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-23T13:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-23T12:16:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47428",
+    "localId": "112612",
+    "name": "PADILLA, JESSE STEVEN",
+    "age": 31,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-08-21T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47072",
+    "localId": "111978",
+    "name": "SIMPSON, DAKOTA BEAR",
+    "age": 27,
+    "city": "OKANOGAN, WA",
+    "bookedAt": "2026-08-21T09:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "41855",
+    "localId": "102718",
+    "name": "MILLER, JOSEPH CHRISTOPHER",
+    "age": 63,
+    "city": "WAPATO, WA",
+    "bookedAt": "2026-08-14T13:27:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "5A0672417KCS/COMM",
+        "court": "UDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "5A0672417KCS/COMM",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46590",
+    "localId": "111093",
+    "name": "MONROE, CASANDRA MARIE",
+    "age": 40,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-08-13T09:30:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "THEFT OF MOTOR VEH",
+        "statute": "9A.56.065",
+        "caseNumber": "2510012119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT OF A FIREARM",
+        "statute": "9A.56.300",
+        "caseNumber": "2510012119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2510012119/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 10000,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "23022",
+    "localId": "70215",
+    "name": "VELASQUEZ, MARCO ANTONIO",
+    "age": 43,
+    "city": "SOAP LAKE, WA",
+    "bookedAt": "2026-08-12T01:58:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION ASSAULT",
+        "statute": "7.105.450.4",
+        "caseNumber": "2610017919",
+        "court": "SUP"
+      },
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "2610017919",
+        "court": "SUP"
+      },
+      {
+        "description": "Interfere with DV Report",
+        "statute": "9A.36.150",
+        "caseNumber": "2610017919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 100000,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47663",
+    "localId": "113037",
+    "name": "STOLTMANN, JOHN GRAY",
+    "age": 30,
+    "city": "GRANITE FALLS, WA",
+    "bookedAt": "2026-08-11T21:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "2610017719",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610017719",
+        "court": "SUP"
+      },
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "2610017719",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 100000,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "43586",
+    "name": "SMITH, TIMOTHY MATTHEW",
+    "age": 46,
+    "city": "ALLOY, WV",
+    "bookedAt": "2026-08-11T08:45:00",
+    "releasedAt": "2026-10-09T09:10:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "36947",
+    "localId": "93730",
+    "name": "SCHENCK, JEREMY WARNER",
+    "age": 43,
+    "city": "SNOHOMISH, WA",
+    "bookedAt": "2026-08-07T11:13:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "BURGLARY 1ST",
+        "statute": "9A.52.020",
+        "caseNumber": "2610006819/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT OF A FIREARM",
+        "statute": "9A.56.300",
+        "caseNumber": "2610006819/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAW POSS FIREARM",
+        "statute": "9.41.040",
+        "caseNumber": "2610006819/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2610006819/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610006819/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 100000,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45945",
+    "localId": "109951",
+    "name": "MCNABB, NICHOLAS ALEXANDER",
+    "age": 33,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-08-06T14:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610010719/COMM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47638",
+    "localId": "112997",
+    "name": "AVERY, CAMERON CHARLES",
+    "age": 19,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-08-05T10:42:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ROBBERY 1ST DEGREE",
+        "statute": "9A.56.200.1",
+        "caseNumber": "2610017519",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 1ST DEGREE",
+        "statute": "9A.36.011",
+        "caseNumber": "2610017519",
+        "court": "SUP"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020",
+        "caseNumber": "2610017519",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 250000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45169",
+    "localId": "108407",
+    "name": "HARR, PAUL GUY",
+    "age": 60,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-08-04T15:47:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "VEHICULAR HOMICIDE",
+        "statute": "46.61.520",
+        "caseNumber": "2410005619/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICULAR ASSAULT",
+        "statute": "46.61.522",
+        "caseNumber": "2410005619/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T11:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-22T09:40:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47631",
+    "localId": "112984",
+    "name": "ARAUJO, DUSTIN MICHAEL",
+    "age": 42,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-08-03T15:37:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "6A0296800WRT",
+        "court": "OCC"
+      },
+      {
+        "description": "FELON IN POSS FRARM 1ST DEGREE",
+        "statute": "9.41.040(1)(a)",
+        "caseNumber": "2610017319",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAWFUL POSS FRARM 2ND DEGREE",
+        "statute": "9.41.040(2)(a)",
+        "caseNumber": "2610017319",
+        "court": "SUP"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "6A0333197ELL",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-13T11:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-13T09:45:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "25821",
+    "localId": "93189",
+    "name": "GERALDON, DUSTIN LEE",
+    "age": 37,
+    "city": "KITTITAS, WA",
+    "bookedAt": "2026-08-01T14:13:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Mal Misc 3rd-Misd-DV",
+        "statute": "9A.48.090-DV",
+        "caseNumber": "26CR110553KCS",
+        "court": "LDC"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "26CR106416KCS/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "26CR106416KCS/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 30000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "24442",
+    "name": "UTTER, DEVON ROVELLE",
+    "age": 34,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-07-30T12:43:00",
+    "releasedAt": "2026-10-08T09:20:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610017019/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610017019/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR102263ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR102263ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "RECKLESS ENDANGER",
+        "statute": "9A.36.050",
+        "caseNumber": "26CR102263ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "POSS STOLEN PROPERTY",
+        "statute": "9A.56.170",
+        "caseNumber": "26CR102273ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "26CR102273ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "26CR102273ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "2610017019/COMM",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "2610017019/COMM",
+        "court": "SUP"
+      },
+      {
+        "description": "RECKLESS ENDANGER",
+        "statute": "9A.36.050",
+        "caseNumber": "2610017019/COMM",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "2610017019/COMM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47275",
+    "localId": "112336",
+    "name": "BOUNDS, BRADY BLAINE",
+    "age": 41,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-07-29T16:32:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610017119",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 50000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "26391",
+    "localId": "108052",
+    "name": "NICOLAI, KEVIN KREMER",
+    "age": 32,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-07-22T10:11:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAWFUL POSS FRARM 2ND DEGREE",
+        "statute": "9.41.040(2)(a)",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "statute": "9.68A.040",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "statute": "9.68A.040",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "statute": "9.68A.040",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "SEXUAL/EXPLOIT MINOR",
+        "statute": "9.68A.040",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2610016719",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 750000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47581",
+    "localId": "112901",
+    "name": "GONZALEZ, FERNANDO",
+    "age": 39,
+    "city": "GRANDVIEW, WA",
+    "bookedAt": "2026-07-17T11:45:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "38698",
+    "localId": "96870",
+    "name": "BICKEL, NATHAN LYNN",
+    "age": 35,
+    "city": "TACOMA, WA",
+    "bookedAt": "2026-07-14T09:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "XZ0648682WSP/WRT",
+        "court": "UDC"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "XZ0648682WSP/WRT",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": 5000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47559",
+    "localId": "112862",
+    "name": "STRANGE, JOHN EDGAR",
+    "age": 46,
+    "city": "GIRDWOOD, AK",
+    "bookedAt": "2026-07-13T00:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "statute": "46.61.024",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "VIOL OCCUP LIC RESTR",
+        "statute": "46.20.410",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR93320WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "26CR93320WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "FTOBEY POLICE OFCR",
+        "statute": "46.61.022",
+        "caseNumber": "26CR93320WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "26CR93320WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 500,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47534",
+    "localId": "112825",
+    "name": "FAVORS, DERELLE LEE",
+    "age": 30,
+    "city": "AUBURN, WA",
+    "bookedAt": "2026-07-09T07:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "COURT HRING- NOT Restitution",
+        "statute": "HOLD HEARING",
+        "caseNumber": "2610001619/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "2610001619/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICULAR ASSAULT",
+        "statute": "46.61.522",
+        "caseNumber": "2610001619/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "2610001619/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-22T11:19:15",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-22T09:40:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "47511",
+    "localId": "112776",
+    "name": "KELSEY, CLIFFORD WILL",
+    "age": 39,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-06-30T09:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "34896",
+    "localId": "90685",
+    "name": "LYON, RYAN ARCHIE",
+    "age": 33,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-06-29T10:00:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Stalking",
+        "statute": "9A.46.110",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 1ST",
+        "statute": "9A.52.020",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION ASSAULT",
+        "statute": "7.105.450.4",
+        "caseNumber": "2610009719",
+        "court": "SUP"
+      },
+      {
+        "description": "Assault 4th-Domestic Violence",
+        "statute": "9a.36.041-DV",
+        "caseNumber": "2510020219/BREV",
+        "court": "SUP"
+      },
+      {
+        "description": "Stalking",
+        "statute": "9A.46.110",
+        "caseNumber": "2510020219/BREV",
+        "court": "SUP"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "43864ELL/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 750000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47473",
+    "localId": "112700",
+    "name": "THOMAS, CORDELL JAMES",
+    "age": 33,
+    "city": "EVERETT, WA",
+    "bookedAt": "2026-06-15T19:55:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "3A0336435/COMM",
+        "court": "OCC"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47460",
+    "localId": "112683",
+    "name": "MORRELL, CHRISTOPHER ROBERT",
+    "age": 45,
+    "city": "SPOKANE, WA",
+    "bookedAt": "2026-06-12T09:15:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "42152",
+    "localId": "103145",
+    "name": "ALCANTARAGONZALEZ, JORGE OMA",
+    "age": 40,
+    "city": "BELLEVUE, WA",
+    "bookedAt": "2026-06-11T11:43:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "MURDER 1ST DEGREE",
+        "statute": "9A.32.030",
+        "caseNumber": "2610011219/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "ROBBERY 1ST DEGREE",
+        "statute": "9A.56.200.1",
+        "caseNumber": "2610011219/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 2000000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47451",
+    "localId": "112667",
+    "name": "HEATH, TYSON JERRED",
+    "age": 36,
+    "city": "RENTON, WA",
+    "bookedAt": "2026-06-11T00:28:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 3RD",
+        "statute": "9A.36.031.1",
+        "caseNumber": "2610013319",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610013319",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "AUTHTOHOLD",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR66587WSP",
+        "court": "UDC"
+      },
+      {
+        "description": "OPER VEH W/OUT IGNITION INTERLOCK",
+        "statute": "46.20.740",
+        "caseNumber": "26CR66587WSP",
+        "court": "UDC"
+      },
+      {
+        "description": "ASSAULT 3RD",
+        "statute": "9A.36.031.1",
+        "caseNumber": "26CR66588WSP/REM",
+        "court": "UDC"
+      },
+      {
+        "description": "MAL MISCH 2ND DEG",
+        "statute": "9A.48.080.1",
+        "caseNumber": "26CR66588WSP/REM",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": 255000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "10660",
+    "localId": "81803",
+    "name": "CARDENAS, ARTHUR FRANK",
+    "age": 47,
+    "city": "PACIFIC, WA",
+    "bookedAt": "2026-06-05T14:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47433",
+    "localId": "112625",
+    "name": "HICKS, JAMES SHERMAN",
+    "age": 45,
+    "city": "EVERETT, WA",
+    "bookedAt": "2026-06-02T20:18:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 1ST DEGREE",
+        "statute": "9A.36.011",
+        "caseNumber": "2610012319",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 25000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47427",
+    "name": "STRAIN, CASEY",
+    "age": 29,
+    "city": "WENATCHEE, WA",
+    "bookedAt": "2026-06-02T09:40:00",
+    "releasedAt": "2026-10-09T11:11:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47417",
+    "name": "VILLALOBOS ANTUNEZ, JOSE LUIS",
+    "age": 37,
+    "city": "SEATTLE, WA",
+    "bookedAt": "2026-05-31T22:12:00",
+    "releasedAt": "2026-10-09T16:28:00",
+    "localId": null,
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ASSAULT 1ST DEGREE",
+        "statute": "9A.36.011",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020.2B",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "INTIMIDATING WITNESS",
+        "statute": "9A.72.110",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "CARY/EXH/DRA DANG WE",
+        "statute": "9.41.270",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020.2B",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020.2B",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "HARASSMENT",
+        "statute": "9A.46.020.2B",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "INTIMIDATING WITNESS",
+        "statute": "9A.72.110",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      },
+      {
+        "description": "INTIMIDATING WITNESS",
+        "statute": "9A.72.110",
+        "caseNumber": "2610012019",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-10T22:28:48",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releaseSource": "official",
+    "fromReleasedList": true,
+    "baseline": false
+  },
+  {
+    "id": "47413",
+    "localId": "112595",
+    "name": "MILLER, ELINTA LORENZO JEROME",
+    "age": 22,
+    "city": "RENTON, WA",
+    "bookedAt": "2026-05-30T12:21:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "statute": "46.61.024",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN VEHICLE",
+        "statute": "9A.56.068",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "OBS PUB SER",
+        "statute": "9A.76.020",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "RECKLESS ENDANGER",
+        "statute": "9A.36.050",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 3RD",
+        "statute": "9A.36.031.1",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "MAKE/HAVE VEH PRWL/THFT TOOLS",
+        "statute": "9A.56.063",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN FIREARM",
+        "statute": "9A.56.310",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS STOLEN PROP 2",
+        "statute": "9A.56.160",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS STOLEN PROPERTY",
+        "statute": "9A.56.170",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "LOADED RIFLE IN M/V",
+        "statute": "77.15.460",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "DISPLAY/CONCEAL DANGEROUS WPN",
+        "statute": "9.41.250",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "MACHINE GUN PROHIBIT",
+        "statute": "9.41.190",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN VEHICLE",
+        "statute": "9A.56.068",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT OF MOTOR VEH",
+        "statute": "9A.56.065",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS STOLEN PROP 2",
+        "statute": "9A.56.160",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "TAKING VEHICLE 2ND DEGREE",
+        "statute": "9A.56.075",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN FIREARM",
+        "statute": "9A.56.310",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      },
+      {
+        "description": "POSSESSION OF STOLEN VEHICLE",
+        "statute": "9A.56.068",
+        "caseNumber": "2610011819",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-15T11:19:21",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-15T09:10:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "25444",
+    "localId": "77842",
+    "name": "BURRIGHT, RICHARD EARL",
+    "age": 35,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-05-29T17:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "26CR52664ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "26CR58983ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "26CR60845ELL",
+        "court": "LDC"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2610012519/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "2610012519/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "2610012519/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "statute": "9A.52.025",
+        "caseNumber": "2610012519/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "ASLT 4TH DOMESTIC VIOLENCE",
+        "statute": "9A.36.041.DV",
+        "caseNumber": "2610012519/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "PROTECTION ORDER VIOLATION",
+        "statute": "7.105.450.1",
+        "caseNumber": "26CR58059ELL/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "DISPLAY/CONCEAL DANGEROUS WPN",
+        "statute": "9.41.250",
+        "caseNumber": "26CR58059ELL/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "26CR52664ELL/COMM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 165200,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47407",
+    "localId": "112588",
+    "name": "WALKER, MICHAEL RAY",
+    "age": 36,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-05-29T09:50:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-16T13:19:13",
+    "status": "released",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": "2026-10-16T11:25:00",
+    "releaseSource": "official",
+    "baseline": true
+  },
+  {
+    "id": "44928",
+    "localId": "108517",
+    "name": "THOMAS, JAY QUENTIN",
+    "age": 21,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-05-29T00:29:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2610011719",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE CHILD 3",
+        "statute": "9A.44.079",
+        "caseNumber": "2610015119/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "IMMORAL COMM/MINOR",
+        "statute": "9.68A.090",
+        "caseNumber": "2610015119/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 22500,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45236",
+    "localId": "108526",
+    "name": "ATAK, JOSEPH N",
+    "age": 46,
+    "city": "TUKWILA, WA",
+    "bookedAt": "2026-05-26T09:32:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "CC2024110KCS/WRT",
+        "court": "LDC"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "statute": "46.61.500",
+        "caseNumber": "4A0343361WSP/WRT",
+        "court": "UDC"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "CCCEM254KIP/WRT",
+        "court": "CEMU"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "CCCEM254KIP/WRT",
+        "court": "CEMU"
+      },
+      {
+        "description": "HIT RUN UNATTENDED",
+        "statute": "46.52.010",
+        "caseNumber": "CCCEM254KIP/WRT",
+        "court": "CEMU"
+      }
+    ],
+    "bondTotal": 60000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "17189",
+    "localId": "92190",
+    "name": "TELLVIK, CLARK ALLEN",
+    "age": 56,
+    "city": "YAKIMA, WA",
+    "bookedAt": "2026-05-21T07:30:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "COURT HRING- NOT Restitution",
+        "statute": "HOLD HEARING",
+        "caseNumber": "161000214/TRPO",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "17781",
+    "localId": "98409",
+    "name": "CARPENTER, TRISTAN LANGE",
+    "age": 37,
+    "city": "SOUTH CLE ELUM, WA",
+    "bookedAt": "2026-05-14T18:54:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Violation of DV NCO",
+        "statute": "7.105.450(1)(a)",
+        "caseNumber": "2610010819",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 75000,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47358",
+    "localId": "112489",
+    "name": "FUNDERBURGH, PRESTON K",
+    "age": 35,
+    "city": "COWICHE, WA",
+    "bookedAt": "2026-05-11T14:14:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T11:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47352",
+    "localId": "112473",
+    "name": "DIVORNE, BO A",
+    "age": 38,
+    "city": "COLVILE, WA",
+    "bookedAt": "2026-05-08T12:10:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47347",
+    "localId": "112465",
+    "name": "SALGADO, EDUARDO",
+    "age": 21,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-05-07T01:17:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "Attempt Murder First Degree",
+        "statute": "9a.32.030-ATT",
+        "caseNumber": "2610009919",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 1ST DEGREE",
+        "statute": "9A.36.011",
+        "caseNumber": "2610009919",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "2610009919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 250000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47331",
+    "localId": "112441",
+    "name": "RAMIREZZAVALA, RAMIRO",
+    "age": 35,
+    "city": "SAN LUIS RIO CO, BA",
+    "bookedAt": "2026-05-01T15:55:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "LURING",
+        "statute": "9A.40.090",
+        "caseNumber": "2510028119/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "KIDNAP 2ND",
+        "statute": "9A.40.030.1",
+        "caseNumber": "2510028119/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 500000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47330",
+    "localId": "112438",
+    "name": "JOSEPH, LEVI JACOB",
+    "age": 32,
+    "city": "COULEE DAM, WA",
+    "bookedAt": "2026-05-01T09:20:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR USM, FBI, MP",
+        "statute": "FEDERAL HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47319",
+    "localId": "112421",
+    "name": "HART, JODON LAMERE",
+    "age": 25,
+    "city": "WHITE SWAN, WA",
+    "bookedAt": "2026-04-29T21:33:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "PROTECTION ORDER VIOLATION ASSAULT",
+        "statute": "7.105.450.4",
+        "caseNumber": "2610009219",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "2610009219",
+        "court": "SUP"
+      },
+      {
+        "description": "DRIVING UNDER THE INFLUENCE",
+        "statute": "46.61.502",
+        "caseNumber": "26CR39448WSP",
+        "court": "LDC"
+      },
+      {
+        "description": "DWLS 2ND DEGREE",
+        "statute": "46.20.342.1B",
+        "caseNumber": "26CR39448WSP",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 216000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "31005",
+    "localId": "100714",
+    "name": "WOOD, DREW HAROLD",
+    "age": 35,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2026-04-09T08:35:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "MAL MISCH 2ND DEG",
+        "statute": "9A.48.080.1",
+        "caseNumber": "2610006919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610006919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 10000,
+    "detailsCheckedAt": "2026-10-24T12:11:29",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "45263",
+    "localId": "108575",
+    "name": "ZACHERLE, LOUIS LEE",
+    "age": 39,
+    "city": "OMAK, WA",
+    "bookedAt": "2026-03-31T09:15:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "33564",
+    "localId": "100294",
+    "name": "JENSEN, JESSIE GREGORIO",
+    "age": 35,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-03-22T03:51:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "ARSON 1ST DEGREE",
+        "statute": "9A.48.020.1",
+        "caseNumber": "2610005719",
+        "court": "SUP"
+      },
+      {
+        "description": "RESISTING ARREST",
+        "statute": "9A.76.040",
+        "caseNumber": "2610005719",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041",
+        "caseNumber": "44267ELL/REM",
+        "court": "LDC"
+      },
+      {
+        "description": "CRIM TRESPASS 1ST",
+        "statute": "9A.52.070",
+        "caseNumber": "10216CWU/COMM",
+        "court": "LDC"
+      },
+      {
+        "description": "POSSESION OF A CONTROLLED SUBS",
+        "statute": "69.50.4013",
+        "caseNumber": "26CR99289ELL/REM",
+        "court": "LDC"
+      }
+    ],
+    "bondTotal": 300500,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47187",
+    "localId": "112228",
+    "name": "MUELLER, AUTUMN ROSE",
+    "age": 25,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-03-19T13:50:00",
+    "sex": "F",
+    "charges": [
+      {
+        "description": "Attempt Murder First Degree",
+        "statute": "9a.32.030-ATT",
+        "caseNumber": "2610004519/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAW POSS FIREARM",
+        "statute": "9.41.040",
+        "caseNumber": "2610004519/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 1000000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47168",
+    "localId": "112138",
+    "name": "MUELLER, ALEXANDER ZIYAD",
+    "age": 28,
+    "city": "MOSES LAKE, WA",
+    "bookedAt": "2026-03-01T16:13:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "MACHINE GUN PROHIBIT",
+        "statute": "9.41.190",
+        "caseNumber": "2610004319",
+        "court": "SUP"
+      },
+      {
+        "description": "Attempt Murder First Degree",
+        "statute": "9a.32.030-ATT",
+        "caseNumber": "2610004319",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 1ST DEG",
+        "statute": "9A.48.070.1",
+        "caseNumber": "2610019219/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 250100,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47125",
+    "localId": "112055",
+    "name": "NEWPORT, JAMES PATRICK",
+    "age": 35,
+    "city": "RENTON, WA",
+    "bookedAt": "2026-02-12T01:18:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "UNLAWFUL IMPRISONMMT",
+        "statute": "9A.40.040",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "OBSTRUCT PUBL SERVANT",
+        "statute": "9A.76.020.3",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "ATTEMPT TO ELUDE",
+        "statute": "46.61.024",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "RECKLESS DRIVING",
+        "statute": "46.61.500",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "DWLS THIRD DEGREE",
+        "statute": "46.20.342.1C",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "UNLAW POSS FIREARM",
+        "statute": "9.41.040",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "UNDECTABLE/UNTRACEABLE FIREARMS",
+        "statute": "9.41.325",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "MACHINE GUN PROHIBIT",
+        "statute": "9.41.190",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS / DELIVERY VUCSA",
+        "statute": "69.50.401",
+        "caseNumber": "2610002919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 750000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "47067",
+    "localId": "111973",
+    "name": "BROTHER, ROBERT THOMAS",
+    "age": 38,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2026-01-26T23:42:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "statute": "9A.52.025",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "TRAFFICKING STOLEN PROP 1ST",
+        "statute": "9A.82.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MIS 2ND",
+        "statute": "9A.48.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "BURGLARY 2ND DEGREE",
+        "statute": "9A.52.030",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 3RD DEG",
+        "statute": "9A.48.090",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "VEHICLE PROWLING",
+        "statute": "9A.52.100",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "CRIM TRESPASS 2ND",
+        "statute": "9A.52.080",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2610001919",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 10000,
+    "detailsCheckedAt": "2026-10-24T12:19:15",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46971",
+    "localId": "111773",
+    "name": "STOUT, TYLER JACK",
+    "age": 35,
+    "city": "TACOMA, WA",
+    "bookedAt": "2025-12-18T09:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "COURT HRING- NOT Restitution",
+        "statute": "HOLD HEARING",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "RESIDENTIAL BURGLARY",
+        "statute": "9A.52.025",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "MAL MISCH 1ST DEG",
+        "statute": "9A.48.070.1",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 2ND DEGREE",
+        "statute": "9A.56.040.1",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "IDENTITY THEFT 2ND",
+        "statute": "9.35.020 (3)",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      },
+      {
+        "description": "THEFT 3RD DEG",
+        "statute": "9A.56.050",
+        "caseNumber": "2510021719/TRPO",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "46521",
+    "localId": "110968",
+    "name": "METEKAI, SAMUEL",
+    "age": 26,
+    "city": null,
+    "bookedAt": "2025-10-17T09:40:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "HOLD FOR OTHER AGNCY",
+        "statute": "HOLD",
+        "caseNumber": "HOLD",
+        "court": "USM"
+      }
+    ],
+    "bondTotal": null,
+    "detailsCheckedAt": "2026-10-24T09:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "40415",
+    "localId": "110767",
+    "name": "BELL, JAMES COOPER",
+    "age": 21,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2025-06-07T06:26:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "MURDER 1ST DEGREE",
+        "statute": "9A.32.030",
+        "caseNumber": "2510012719",
+        "court": "SUP"
+      },
+      {
+        "description": "MURDER 2ND DEGREE",
+        "statute": "9A.32.050",
+        "caseNumber": "2510012719",
+        "court": "SUP"
+      },
+      {
+        "description": "ROBBERY 1ST DEGREE",
+        "statute": "9A.56.200.1",
+        "caseNumber": "2510024719/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 2ND DEGREE",
+        "statute": "9A.36.021.1",
+        "caseNumber": "2510024719/REM",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 705000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "44035",
+    "localId": "106209",
+    "name": "NEIFERT, MELVIN THOMAS",
+    "age": 51,
+    "city": "CLE ELUM, WA",
+    "bookedAt": "2025-01-09T13:13:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "DEAL DEPICT MINOR SEX 1ST",
+        "statute": "9.68A.050(1)(B)",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "ASSAULT 4TH DEGREE",
+        "statute": "9A.36.041.2",
+        "caseNumber": "C00012329CPL/COMM",
+        "court": "UDC"
+      },
+      {
+        "description": "VOYEURISM",
+        "statute": "9A.44.115",
+        "caseNumber": "2610019619/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "VOYEURISM",
+        "statute": "9A.44.115",
+        "caseNumber": "2610019619/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "VOYEURISM",
+        "statute": "9A.44.115",
+        "caseNumber": "2610019619/REM",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2510000719",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 275000,
+    "detailsCheckedAt": "2026-10-24T09:47:18",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  },
+  {
+    "id": "28400",
+    "localId": "108478",
+    "name": "PHELPS, JESSE MICHAEL",
+    "age": 39,
+    "city": "ELLENSBURG, WA",
+    "bookedAt": "2024-04-11T16:43:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RAPE 2",
+        "statute": "9A.44.050(2)",
+        "caseNumber": "2410009419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "RAPE OF A CHILD",
+        "statute": "9A.44.073",
+        "caseNumber": "2410009419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "CHILD MOLEST 1ST",
+        "statute": "9A.44.083",
+        "caseNumber": "2410009419/WRT",
+        "court": "SUP"
+      },
+      {
+        "description": "POSS DEPICT OF MINOR/SEX EXPLI",
+        "statute": "9.68A.070",
+        "caseNumber": "2410009419/WRT",
+        "court": "SUP"
+      }
+    ],
+    "bondTotal": 500000,
+    "detailsCheckedAt": "2026-10-24T10:19:14",
+    "status": "in_custody",
+    "firstSeen": "2026-10-10T22:28:48",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": true
+  }
+]
