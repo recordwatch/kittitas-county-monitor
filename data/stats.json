@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-23T16:19:15",
+  "generatedAt": "2026-10-23T17:10:21",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 192,
-    "bookingsObserved": 78,
+    "bookingsTracked": 193,
+    "bookingsObserved": 79,
     "releasesObserved": 85,
-    "inCustody": 107,
+    "inCustody": 108,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-23",
-      "booked": 5,
+      "booked": 6,
       "released": 9
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 38,
-      "pct": 8.4
+      "count": 40,
+      "pct": 8.8
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -177,14 +177,14 @@
       "pct": 5.3
     },
     {
-      "name": "HOLD FOR USM, FBI, MP",
+      "name": "THEFT 3RD DEG",
       "count": 19,
       "pct": 4.2
     },
     {
-      "name": "THEFT 3RD DEG",
-      "count": 19,
-      "pct": 4.2
+      "name": "HOLD FOR USM, FBI, MP",
+      "count": 17,
+      "pct": 3.8
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -205,6 +205,11 @@
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
       "pct": 2.2
+    },
+    {
+      "name": "POSSESION OF A CONTROLLED SUBS",
+      "count": 9,
+      "pct": 2
     },
     {
       "name": "Violation of DV NCO",
@@ -232,11 +237,6 @@
       "pct": 1.8
     },
     {
-      "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 8,
-      "pct": 1.8
-    },
-    {
       "name": "CRIM TRESPASS 1ST",
       "count": 8,
       "pct": 1.8
@@ -244,20 +244,20 @@
     {
       "name": "RESISTING ARREST",
       "count": 7,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 7,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
-      "name": "THEFT 2ND DEGREE",
+      "name": "MAL MISCH 3RD DEG",
       "count": 6,
       "pct": 1.3
     },
     {
-      "name": "MAL MIS 2ND",
+      "name": "THEFT 2ND DEGREE",
       "count": 6,
       "pct": 1.3
     }
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 248,
-      "pct": 55.1,
+      "pct": 54.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 111,
-      "pct": 24.7,
+      "count": 114,
+      "pct": 25.2,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "UDC",
       "count": 25,
-      "pct": 5.6,
+      "pct": 5.5,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -310,16 +310,16 @@
     {
       "name": "Male",
       "count": 166,
-      "pct": 86.5
+      "pct": 86
     },
     {
       "name": "Female",
-      "count": 26,
-      "pct": 13.5
+      "count": 27,
+      "pct": 14
     }
   ],
   "ages": {
-    "median": 35.5,
+    "median": 35,
     "groups": [
       {
         "label": "18–24",
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 50
+        "count": 51
       },
       {
         "label": "35–44",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 53,
-      "pct": 28.2
+      "count": 54,
+      "pct": 28.6
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 12,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "YAKIMA, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "RENTON, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 49.1,
+    "currentMedianDaysHeld": 49.2,
     "currentLongestDaysHeld": 925
   },
   "bond": {
     "withBond": 58,
-    "noBond": 49,
+    "noBond": 50,
     "medianBond": 55000,
     "maxBond": 2000000,
     "totalBond": 11269700
