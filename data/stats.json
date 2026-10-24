@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T01:19:14",
+  "generatedAt": "2026-10-24T02:14:37",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 194,
-    "bookingsObserved": 80,
+    "bookingsTracked": 195,
+    "bookingsObserved": 81,
     "releasesObserved": 85,
-    "inCustody": 109,
+    "inCustody": 110,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -212,6 +212,11 @@
       "pct": 2.2
     },
     {
+      "name": "DWLS 2ND DEGREE",
+      "count": 9,
+      "pct": 2
+    },
+    {
       "name": "Violation of DV NCO",
       "count": 9,
       "pct": 2
@@ -222,12 +227,12 @@
       "pct": 2
     },
     {
-      "name": "RAPE OF A CHILD",
+      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 8,
       "pct": 1.8
     },
     {
-      "name": "DWLS 2ND DEGREE",
+      "name": "RAPE OF A CHILD",
       "count": 8,
       "pct": 1.8
     },
@@ -247,11 +252,6 @@
       "pct": 1.5
     },
     {
-      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
-      "count": 7,
-      "pct": 1.5
-    },
-    {
       "name": "MAL MISCH 3RD DEG",
       "count": 6,
       "pct": 1.3
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 248,
-      "pct": 54.6,
+      "pct": 54.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 115,
-      "pct": 25.3,
+      "count": 117,
+      "pct": 25.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 166,
+      "count": 167,
       "pct": 85.6
     },
     {
@@ -319,7 +319,7 @@
     }
   ],
   "ages": {
-    "median": 35.5,
+    "median": 35,
     "groups": [
       {
         "label": "18–24",
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 51
+        "count": 52
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 54,
-      "pct": 28.4
+      "pct": 28.3
     },
     {
       "name": "SPOKANE, WA",
@@ -361,8 +361,8 @@
     },
     {
       "name": "YAKIMA, WA",
-      "count": 9,
-      "pct": 4.7
+      "count": 10,
+      "pct": 5.2
     },
     {
       "name": "KITTITAS, WA",
@@ -372,7 +372,7 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "NESPELEM, WA",
@@ -402,7 +402,7 @@
     {
       "name": "WELLPINIT, WA",
       "count": 2,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "releaseSources": {
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 49.5,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 925.4
   },
   "bond": {
-    "withBond": 59,
+    "withBond": 60,
     "noBond": 50,
     "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11270700
+    "totalBond": 11272700
   },
   "chargesPerBooking": 2.3
 }
