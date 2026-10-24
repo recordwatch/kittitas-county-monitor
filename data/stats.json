@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-24T02:19:14",
+  "generatedAt": "2026-10-24T03:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 195,
-    "bookingsObserved": 81,
+    "bookingsTracked": 196,
+    "bookingsObserved": 82,
     "releasesObserved": 85,
-    "inCustody": 110,
+    "inCustody": 111,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-24",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,22 +164,22 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 40,
-      "pct": 8.8
+      "pct": 8.6
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 32,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 24,
-      "pct": 5.3
+      "pct": 5.2
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 19,
-      "pct": 4.2
+      "pct": 4.1
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -188,13 +188,13 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 14,
-      "pct": 3.1
+      "count": 15,
+      "pct": 3.2
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 13,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -214,42 +214,42 @@
     {
       "name": "DWLS 2ND DEGREE",
       "count": 9,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "Violation of DV NCO",
       "count": 9,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "HARASSMENT",
       "count": 9,
-      "pct": 2
+      "pct": 1.9
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 8,
+      "pct": 1.7
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "RAPE OF A CHILD",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 8,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 8,
-      "pct": 1.8
-    },
-    {
-      "name": "RESISTING ARREST",
-      "count": 7,
-      "pct": 1.5
+      "pct": 1.7
     },
     {
       "name": "MAL MISCH 3RD DEG",
@@ -265,26 +265,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 248,
-      "pct": 54.4,
+      "count": 255,
+      "pct": 55.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 117,
-      "pct": 25.7,
+      "pct": 25.3,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 56,
-      "pct": 12.3,
+      "pct": 12.1,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 25,
-      "pct": 5.5,
+      "pct": 5.4,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -296,26 +296,26 @@
     {
       "name": "OCC",
       "count": 3,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "OCC"
     },
     {
       "name": "OS",
       "count": 3,
-      "pct": 0.7,
+      "pct": 0.6,
       "label": "OS"
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 167,
-      "pct": 85.6
+      "count": 168,
+      "pct": 85.7
     },
     {
       "name": "Female",
       "count": 28,
-      "pct": 14.4
+      "pct": 14.3
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 33
+        "count": 34
       },
       {
         "label": "25–34",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 54,
-      "pct": 28.3
+      "pct": 28.1
     },
     {
       "name": "SPOKANE, WA",
@@ -367,7 +367,7 @@
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 3.7
+      "pct": 3.6
     },
     {
       "name": "MOSES LAKE, WA",
@@ -445,10 +445,10 @@
   },
   "bond": {
     "withBond": 60,
-    "noBond": 50,
+    "noBond": 51,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11272700
   },
-  "chargesPerBooking": 2.3
+  "chargesPerBooking": 2.4
 }
