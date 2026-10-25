@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-25T06:19:16",
+  "generatedAt": "2026-10-25T07:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 198,
-    "bookingsObserved": 84,
+    "bookingsTracked": 199,
+    "bookingsObserved": 85,
     "releasesObserved": 87,
-    "inCustody": 111,
+    "inCustody": 112,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 1,
+      "booked": 2,
       "released": 1
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 33,
-      "pct": 7
+      "count": 34,
+      "pct": 7.2
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 19,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 256,
-      "pct": 54.6,
+      "pct": 54.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 122,
-      "pct": 26,
+      "count": 123,
+      "pct": 26.2,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 169,
+      "count": 170,
       "pct": 85.4
     },
     {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 34
+        "count": 35
       },
       {
         "label": "25–34",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 56,
-      "pct": 28.9
+      "pct": 28.7
     },
     {
       "name": "SPOKANE, WA",
       "count": 17,
-      "pct": 8.8
+      "pct": 8.7
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 10,
-      "pct": 5.2
+      "pct": 5.1
     },
     {
       "name": "KITTITAS, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 50.7,
+    "currentMedianDaysHeld": 50.1,
     "currentLongestDaysHeld": 926.6
   },
   "bond": {
     "withBond": 59,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11270700
