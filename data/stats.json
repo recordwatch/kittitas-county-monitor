@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-25T23:19:13",
+  "generatedAt": "2026-10-26T00:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 200,
-    "bookingsObserved": 86,
+    "bookingsTracked": 201,
+    "bookingsObserved": 87,
     "releasesObserved": 89,
-    "inCustody": 111,
+    "inCustody": 112,
     "uniquePeople": 1
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-26",
-      "booked": 0,
-      "released": 0
-    },
     {
       "date": "2026-09-27",
       "booked": 0,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-10-25",
-      "booked": 3,
+      "booked": 4,
       "released": 3
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -194,7 +194,7 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 13,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 258,
-      "pct": 54.7,
+      "pct": 54.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 123,
-      "pct": 26.1,
+      "count": 124,
+      "pct": 26.2,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 56,
-      "pct": 11.9,
+      "pct": 11.8,
       "label": "U.S. Marshals hold"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 171,
-      "pct": 85.5
+      "pct": 85.1
     },
     {
       "name": "Female",
-      "count": 29,
-      "pct": 14.5
+      "count": 30,
+      "pct": 14.9
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 35
+        "count": 36
       },
       {
         "label": "25–34",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 56,
-      "pct": 28.6
+      "count": 57,
+      "pct": 28.9
     },
     {
       "name": "SPOKANE, WA",
       "count": 17,
-      "pct": 8.7
+      "pct": 8.6
     },
     {
       "name": "CLE ELUM, WA",
@@ -372,12 +372,12 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "RENTON, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 51.4,
+    "currentMedianDaysHeld": 50.8,
     "currentLongestDaysHeld": 927.3
   },
   "bond": {
     "withBond": 59,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 50000,
     "maxBond": 2000000,
     "totalBond": 11274700
