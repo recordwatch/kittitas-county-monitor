@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T11:46:15",
+  "generatedAt": "2026-10-26T12:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 202,
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 34,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -252,12 +252,12 @@
       "pct": 1.7
     },
     {
-      "name": "ASSAULT 3RD",
-      "count": 6,
-      "pct": 1.3
+      "name": "MAL MIS 2ND",
+      "count": 7,
+      "pct": 1.5
     },
     {
-      "name": "MAL MISCH 3RD DEG",
+      "name": "ASSAULT 3RD",
       "count": 6,
       "pct": 1.3
     }
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 258,
-      "pct": 54.4,
+      "pct": 54.2,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 124,
-      "pct": 26.2,
+      "pct": 26.1,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -288,16 +288,16 @@
       "label": "Upper Kittitas District Court"
     },
     {
+      "name": "OCC",
+      "count": 5,
+      "pct": 1.1,
+      "label": "OCC"
+    },
+    {
       "name": "CEMU",
       "count": 4,
       "pct": 0.8,
       "label": "CEMU"
-    },
-    {
-      "name": "OCC",
-      "count": 3,
-      "pct": 0.6,
-      "label": "OCC"
     },
     {
       "name": "OS",
@@ -446,9 +446,9 @@
   "bond": {
     "withBond": 59,
     "noBond": 54,
-    "medianBond": 50000,
+    "medianBond": 60000,
     "maxBond": 2000000,
-    "totalBond": 11274700
+    "totalBond": 11374700
   },
-  "chargesPerBooking": 2.3
+  "chargesPerBooking": 2.4
 }
