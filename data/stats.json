@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-27T11:19:15",
+  "generatedAt": "2026-10-27T11:50:38",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 202,
-    "bookingsObserved": 88,
+    "bookingsTracked": 204,
+    "bookingsObserved": 90,
     "releasesObserved": 94,
-    "inCustody": 108,
+    "inCustody": 110,
     "uniquePeople": 1
   },
   "bookingsByDay": [
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-27",
-      "booked": 0,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 40,
-      "pct": 8.4
+      "pct": 8.3
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 25,
-      "pct": 5.2
+      "count": 26,
+      "pct": 5.4
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,12 +184,12 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 17,
-      "pct": 3.6
+      "pct": 3.5
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 16,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -200,6 +200,11 @@
       "name": "ASSAULT 2ND DEGREE",
       "count": 11,
       "pct": 2.3
+    },
+    {
+      "name": "DWLS 2ND DEGREE",
+      "count": 10,
+      "pct": 2.1
     },
     {
       "name": "HARASSMENT",
@@ -217,12 +222,12 @@
       "pct": 2.1
     },
     {
-      "name": "RESISTING ARREST",
+      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 9,
       "pct": 1.9
     },
     {
-      "name": "DWLS 2ND DEGREE",
+      "name": "RESISTING ARREST",
       "count": 9,
       "pct": 1.9
     },
@@ -230,11 +235,6 @@
       "name": "Violation of DV NCO",
       "count": 9,
       "pct": 1.9
-    },
-    {
-      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
-      "count": 8,
-      "pct": 1.7
     },
     {
       "name": "RAPE OF A CHILD",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 258,
-      "pct": 54.1,
+      "pct": 53.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 124,
-      "pct": 26,
+      "count": 126,
+      "pct": 26.3,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 26,
-      "pct": 5.5,
+      "count": 27,
+      "pct": 5.6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 171,
-      "pct": 84.7
+      "count": 173,
+      "pct": 84.8
     },
     {
       "name": "Female",
       "count": 31,
-      "pct": 15.3
+      "pct": 15.2
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 54
+        "count": 55
       },
       {
         "label": "35–44",
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 30
+        "count": 31
       },
       {
         "label": "55+",
@@ -347,22 +347,22 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 57,
-      "pct": 28.8
+      "pct": 28.5
     },
     {
       "name": "SPOKANE, WA",
       "count": 17,
-      "pct": 8.6
+      "pct": 8.5
     },
     {
       "name": "CLE ELUM, WA",
       "count": 14,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "YAKIMA, WA",
       "count": 10,
-      "pct": 5.1
+      "pct": 5
     },
     {
       "name": "KITTITAS, WA",
@@ -385,6 +385,11 @@
       "pct": 2
     },
     {
+      "name": "SEATTLE, WA",
+      "count": 3,
+      "pct": 1.5
+    },
+    {
       "name": "OMAK, WA",
       "count": 3,
       "pct": 1.5
@@ -398,11 +403,6 @@
       "name": "EVERETT, WA",
       "count": 3,
       "pct": 1.5
-    },
-    {
-      "name": "WELLPINIT, WA",
-      "count": 2,
-      "pct": 1
     }
   ],
   "releaseSources": {
@@ -440,15 +440,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 52.9,
+    "currentMedianDaysHeld": 52.3,
     "currentLongestDaysHeld": 928.8
   },
   "bond": {
-    "withBond": 58,
-    "noBond": 50,
-    "medianBond": 72500,
+    "withBond": 59,
+    "noBond": 51,
+    "medianBond": 70000,
     "maxBond": 2000000,
-    "totalBond": 11544700
+    "totalBond": 11569700
   },
   "chargesPerBooking": 2.4
 }
