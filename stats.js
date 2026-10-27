@@ -106,7 +106,9 @@ export function buildStats(log, now) {
       bookingsObserved: observed.length,
       releasesObserved: released.length,
       inCustody: inCustody.length,
-      uniquePeople: new Set(log.map(e => e.inmateNumber)).size
+      // localId is per person, but released-list-only bookings don't carry
+      // it; fall back to the name for those.
+      uniquePeople: new Set(log.map(e => e.localId || `name:${e.name}`)).size
     },
     bookingsByDay,
     topCharges: topN(countBy(allCharges, c => c.description), 20),
