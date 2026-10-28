@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T17:19:15",
+  "generatedAt": "2026-10-27T18:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 209,
@@ -347,17 +347,17 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 58,
-      "pct": 28.4
+      "pct": 28.3
     },
     {
       "name": "SPOKANE, WA",
-      "count": 18,
-      "pct": 8.8
+      "count": 19,
+      "pct": 9.3
     },
     {
       "name": "CLE ELUM, WA",
       "count": 14,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "YAKIMA, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "RENTON, WA",
@@ -441,7 +441,7 @@
       }
     ],
     "currentMedianDaysHeld": 50.6,
-    "currentLongestDaysHeld": 929
+    "currentLongestDaysHeld": 929.1
   },
   "bond": {
     "withBond": 60,
