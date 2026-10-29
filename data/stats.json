@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-28T23:19:17",
+  "generatedAt": "2026-10-29T00:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 210,
-    "bookingsObserved": 96,
+    "bookingsTracked": 211,
+    "bookingsObserved": 97,
     "releasesObserved": 99,
-    "inCustody": 111,
-    "uniquePeople": 210
+    "inCustody": 112,
+    "uniquePeople": 211
   },
   "bookingsByDay": [
-    {
-      "date": "2026-09-29",
-      "booked": 6,
-      "released": 0
-    },
     {
       "date": "2026-09-30",
       "booked": 1,
@@ -156,20 +151,25 @@
     },
     {
       "date": "2026-10-28",
-      "booked": 1,
+      "booked": 2,
       "released": 4
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 40,
-      "pct": 8.2
+      "pct": 8.1
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 36,
-      "pct": 7.3
+      "count": 37,
+      "pct": 7.5
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -194,7 +194,7 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 13,
-      "pct": 2.7
+      "pct": 2.6
     },
     {
       "name": "HARASSMENT",
@@ -266,7 +266,7 @@
     {
       "name": "SUP",
       "count": 258,
-      "pct": 52.7,
+      "pct": 52.5,
       "label": "Superior Court"
     },
     {
@@ -295,8 +295,8 @@
     },
     {
       "name": "CEMU",
-      "count": 4,
-      "pct": 0.8,
+      "count": 5,
+      "pct": 1,
       "label": "CEMU"
     },
     {
@@ -309,17 +309,17 @@
   "sex": [
     {
       "name": "Male",
-      "count": 179,
-      "pct": 85.2
+      "count": 180,
+      "pct": 85.3
     },
     {
       "name": "Female",
       "count": 31,
-      "pct": 14.8
+      "pct": 14.7
     }
   ],
   "ages": {
-    "median": 35.5,
+    "median": 36,
     "groups": [
       {
         "label": "18–24",
@@ -339,7 +339,7 @@
       },
       {
         "label": "55+",
-        "count": 11
+        "count": 12
       }
     ]
   },
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 59,
-      "pct": 28.6
+      "pct": 28.5
     },
     {
       "name": "SPOKANE, WA",
@@ -356,8 +356,8 @@
     },
     {
       "name": "CLE ELUM, WA",
-      "count": 14,
-      "pct": 6.8
+      "count": 15,
+      "pct": 7.2
     },
     {
       "name": "YAKIMA, WA",
@@ -387,22 +387,22 @@
     {
       "name": "SEATTLE, WA",
       "count": 3,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "OMAK, WA",
       "count": 3,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "TACOMA, WA",
       "count": 3,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "EVERETT, WA",
       "count": 3,
-      "pct": 1.5
+      "pct": 1.4
     }
   ],
   "releaseSources": {
@@ -440,15 +440,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 53.1,
+    "currentMedianDaysHeld": 52.8,
     "currentLongestDaysHeld": 930.3
   },
   "bond": {
-    "withBond": 59,
+    "withBond": 60,
     "noBond": 52,
-    "medianBond": 70000,
+    "medianBond": 65000,
     "maxBond": 2000000,
-    "totalBond": 11540700
+    "totalBond": 11541700
   },
   "chargesPerBooking": 2.3
 }
