@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T10:19:15",
+  "generatedAt": "2026-10-29T11:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 211,
-    "bookingsObserved": 97,
+    "bookingsTracked": 212,
+    "bookingsObserved": 98,
     "releasesObserved": 100,
-    "inCustody": 111,
-    "uniquePeople": 211
+    "inCustody": 112,
+    "uniquePeople": 212
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -222,6 +222,11 @@
       "pct": 2
     },
     {
+      "name": "PROTECTION ORDER VIOLATION",
+      "count": 9,
+      "pct": 1.8
+    },
+    {
       "name": "CRIM TRESPASS 1ST",
       "count": 9,
       "pct": 1.8
@@ -247,11 +252,6 @@
       "pct": 1.6
     },
     {
-      "name": "PROTECTION ORDER VIOLATION",
-      "count": 8,
-      "pct": 1.6
-    },
-    {
       "name": "MAL MIS 2ND",
       "count": 7,
       "pct": 1.4
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 258,
-      "pct": 52.5,
+      "pct": 52.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 130,
-      "pct": 26.5,
+      "count": 131,
+      "pct": 26.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 180,
-      "pct": 85.3
+      "count": 181,
+      "pct": 85.4
     },
     {
       "name": "Female",
       "count": 31,
-      "pct": 14.7
+      "pct": 14.6
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 32
+        "count": 33
       },
       {
         "label": "55+",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 59,
-      "pct": 28.5
+      "pct": 28.4
     },
     {
       "name": "SPOKANE, WA",
       "count": 19,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,15 +440,15 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 53.5,
-    "currentLongestDaysHeld": 930.7
+    "currentMedianDaysHeld": 53.3,
+    "currentLongestDaysHeld": 930.8
   },
   "bond": {
-    "withBond": 59,
+    "withBond": 60,
     "noBond": 52,
-    "medianBond": 70000,
+    "medianBond": 65000,
     "maxBond": 2000000,
-    "totalBond": 11540700
+    "totalBond": 11541200
   },
   "chargesPerBooking": 2.3
 }
