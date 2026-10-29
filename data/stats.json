@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T12:19:15",
+  "generatedAt": "2026-10-29T13:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 212,
-    "bookingsObserved": 98,
+    "bookingsTracked": 213,
+    "bookingsObserved": 99,
     "releasesObserved": 100,
-    "inCustody": 112,
-    "uniquePeople": 212
+    "inCustody": 113,
+    "uniquePeople": 213
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-29",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -164,32 +164,32 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 40,
-      "pct": 8.1
+      "pct": 8
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 37,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 27,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 20,
-      "pct": 4.1
+      "pct": 4
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 19,
-      "pct": 3.9
+      "pct": 3.8
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 16,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -197,12 +197,12 @@
       "pct": 2.6
     },
     {
-      "name": "HARASSMENT",
-      "count": 11,
-      "pct": 2.2
+      "name": "POSSESION OF A CONTROLLED SUBS",
+      "count": 12,
+      "pct": 2.4
     },
     {
-      "name": "POSSESION OF A CONTROLLED SUBS",
+      "name": "HARASSMENT",
       "count": 11,
       "pct": 2.2
     },
@@ -265,27 +265,33 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 258,
-      "pct": 52.4,
+      "count": 259,
+      "pct": 51.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 131,
-      "pct": 26.6,
+      "pct": 26.2,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 59,
-      "pct": 12,
+      "pct": 11.8,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 28,
-      "pct": 5.7,
+      "pct": 5.6,
       "label": "Upper Kittitas District Court"
+    },
+    {
+      "name": "OS",
+      "count": 10,
+      "pct": 2,
+      "label": "OS"
     },
     {
       "name": "OCC",
@@ -298,24 +304,18 @@
       "count": 5,
       "pct": 1,
       "label": "CEMU"
-    },
-    {
-      "name": "OS",
-      "count": 3,
-      "pct": 0.6,
-      "label": "OS"
     }
   ],
   "sex": [
     {
       "name": "Male",
       "count": 181,
-      "pct": 85.4
+      "pct": 85
     },
     {
       "name": "Female",
-      "count": 31,
-      "pct": 14.6
+      "count": 32,
+      "pct": 15
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 33
+        "count": 34
       },
       {
         "label": "55+",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 59,
-      "pct": 28.4
+      "pct": 28.2
     },
     {
       "name": "SPOKANE, WA",
@@ -367,7 +367,7 @@
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "MOSES LAKE, WA",
@@ -440,12 +440,12 @@
         "count": 6
       }
     ],
-    "currentMedianDaysHeld": 53.3,
-    "currentLongestDaysHeld": 930.8
+    "currentMedianDaysHeld": 53,
+    "currentLongestDaysHeld": 930.9
   },
   "bond": {
     "withBond": 60,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 65000,
     "maxBond": 2000000,
     "totalBond": 11541200
