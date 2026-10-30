@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:47:46",
+  "generatedAt": "2026-10-29T20:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 215,
@@ -179,17 +179,17 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 20,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 19,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 16,
-      "pct": 3.2
+      "pct": 3.1
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -203,8 +203,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 11,
-      "pct": 2.2
+      "count": 12,
+      "pct": 2.4
     },
     {
       "name": "HARASSMENT",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 51.8,
+      "pct": 51.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 134,
-      "pct": 26.5,
+      "pct": 26.3,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 59,
-      "pct": 11.7,
+      "pct": 11.6,
       "label": "U.S. Marshals hold"
     },
     {
@@ -288,16 +288,16 @@
       "label": "Upper Kittitas District Court"
     },
     {
+      "name": "OCC",
+      "count": 11,
+      "pct": 2.2,
+      "label": "OCC"
+    },
+    {
       "name": "OS",
       "count": 10,
       "pct": 2,
       "label": "OS"
-    },
-    {
-      "name": "OCC",
-      "count": 8,
-      "pct": 1.6,
-      "label": "OCC"
     },
     {
       "name": "CEMU",
@@ -441,14 +441,14 @@
       }
     ],
     "currentMedianDaysHeld": 53.3,
-    "currentLongestDaysHeld": 931.1
+    "currentLongestDaysHeld": 931.2
   },
   "bond": {
     "withBond": 58,
     "noBond": 53,
     "medianBond": 65000,
     "maxBond": 2000000,
-    "totalBond": 11524700
+    "totalBond": 11534700
   },
   "chargesPerBooking": 2.4
 }
