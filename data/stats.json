@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T15:19:16",
+  "generatedAt": "2026-10-30T16:19:19",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 218,
-    "bookingsObserved": 104,
+    "bookingsTracked": 219,
+    "bookingsObserved": 105,
     "releasesObserved": 109,
-    "inCustody": 109,
-    "uniquePeople": 218
+    "inCustody": 110,
+    "uniquePeople": 219
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 3,
+      "booked": 4,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 43,
-      "pct": 8.4
+      "count": 44,
+      "pct": 8.6
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -219,12 +219,12 @@
     {
       "name": "DWLS 2ND DEGREE",
       "count": 10,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "CRIM TRESPASS 1ST",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 51.2,
+      "pct": 51.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 134,
-      "pct": 26.2,
+      "pct": 26.1,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
-      "count": 61,
-      "pct": 11.9,
+      "count": 62,
+      "pct": 12.1,
       "label": "U.S. Marshals hold"
     },
     {
@@ -296,7 +296,7 @@
     {
       "name": "OS",
       "count": 10,
-      "pct": 2,
+      "pct": 1.9,
       "label": "OS"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 185,
+      "count": 186,
       "pct": 84.9
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 76
+        "count": 77
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 60,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 16,
-      "pct": 7.5
+      "pct": 7.4
     },
     {
       "name": "YAKIMA, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 56.1,
-    "currentLongestDaysHeld": 931.9
+    "currentMedianDaysHeld": 55.5,
+    "currentLongestDaysHeld": 932
   },
   "bond": {
     "withBond": 58,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 65000,
     "maxBond": 2000000,
     "totalBond": 11534700
