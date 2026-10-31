@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T17:24:30",
+  "generatedAt": "2026-10-30T18:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 221,
-    "bookingsObserved": 107,
+    "bookingsTracked": 223,
+    "bookingsObserved": 109,
     "releasesObserved": 109,
-    "inCustody": 112,
-    "uniquePeople": 221
+    "inCustody": 114,
+    "uniquePeople": 223
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 6,
+      "booked": 8,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 46,
-      "pct": 8.9
+      "count": 48,
+      "pct": 9.3
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -249,7 +249,7 @@
     {
       "name": "RAPE OF A CHILD",
       "count": 8,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "MAL MISCH 3RD DEG",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 50.9,
+      "pct": 50.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 134,
-      "pct": 26,
+      "pct": 25.9,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
-      "count": 64,
-      "pct": 12.4,
+      "count": 66,
+      "pct": 12.8,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 188,
-      "pct": 85.1
+      "count": 189,
+      "pct": 84.8
     },
     {
       "name": "Female",
-      "count": 33,
-      "pct": 14.9
+      "count": 34,
+      "pct": 15.2
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 79
+        "count": 81
       },
       {
         "label": "45–54",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 60,
-      "pct": 27.8
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
-      "count": 22,
-      "pct": 10.2
+      "count": 23,
+      "pct": 10.6
     },
     {
       "name": "CLE ELUM, WA",
@@ -382,7 +382,7 @@
     {
       "name": "RENTON, WA",
       "count": 4,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "SEATTLE, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 54.5,
-    "currentLongestDaysHeld": 932
+    "currentMedianDaysHeld": 53.6,
+    "currentLongestDaysHeld": 932.1
   },
   "bond": {
     "withBond": 58,
-    "noBond": 54,
+    "noBond": 56,
     "medianBond": 65000,
     "maxBond": 2000000,
     "totalBond": 11534700
