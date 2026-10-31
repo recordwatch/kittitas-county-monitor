@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-10-30T23:19:14",
+  "generatedAt": "2026-10-31T00:19:26",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 223,
-    "bookingsObserved": 109,
+    "bookingsTracked": 224,
+    "bookingsObserved": 110,
     "releasesObserved": 109,
-    "inCustody": 114,
-    "uniquePeople": 223
+    "inCustody": 115,
+    "uniquePeople": 224
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-01",
-      "booked": 0,
-      "released": 0
-    },
     {
       "date": "2026-10-02",
       "booked": 5,
@@ -156,25 +151,30 @@
     },
     {
       "date": "2026-10-30",
-      "booked": 8,
+      "booked": 9,
       "released": 6
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 48,
-      "pct": 9.3
+      "pct": 9.2
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 38,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 27,
-      "pct": 5.2
+      "count": 28,
+      "pct": 5.4
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -217,6 +217,11 @@
       "pct": 2.1
     },
     {
+      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
+      "count": 10,
+      "pct": 1.9
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 10,
       "pct": 1.9
@@ -228,11 +233,6 @@
     },
     {
       "name": "CRIM TRESPASS 1ST",
-      "count": 9,
-      "pct": 1.7
-    },
-    {
-      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
       "count": 9,
       "pct": 1.7
     },
@@ -254,37 +254,37 @@
     {
       "name": "MAL MISCH 3RD DEG",
       "count": 7,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "MAL MIS 2ND",
       "count": 7,
-      "pct": 1.4
+      "pct": 1.3
     }
   ],
   "courts": [
     {
       "name": "SUP",
       "count": 262,
-      "pct": 50.7,
+      "pct": 50.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 134,
-      "pct": 25.9,
+      "pct": 25.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 66,
-      "pct": 12.8,
+      "pct": 12.7,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
-      "count": 29,
-      "pct": 5.6,
+      "count": 31,
+      "pct": 6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 189,
+      "count": 190,
       "pct": 84.8
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 81
+        "count": 82
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 60,
-      "pct": 27.6
+      "pct": 27.5
     },
     {
       "name": "SPOKANE, WA",
@@ -357,12 +357,12 @@
     {
       "name": "CLE ELUM, WA",
       "count": 16,
-      "pct": 7.4
+      "pct": 7.3
     },
     {
       "name": "YAKIMA, WA",
-      "count": 11,
-      "pct": 5.1
+      "count": 12,
+      "pct": 5.5
     },
     {
       "name": "KITTITAS, WA",
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 53.8,
+    "currentMedianDaysHeld": 53.2,
     "currentLongestDaysHeld": 932.3
   },
   "bond": {
-    "withBond": 58,
+    "withBond": 59,
     "noBond": 56,
-    "medianBond": 65000,
+    "medianBond": 60000,
     "maxBond": 2000000,
-    "totalBond": 11534700
+    "totalBond": 11536200
   },
   "chargesPerBooking": 2.3
 }
