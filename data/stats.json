@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T09:19:16",
+  "generatedAt": "2026-10-31T10:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 224,
-    "bookingsObserved": 110,
+    "bookingsTracked": 225,
+    "bookingsObserved": 111,
     "releasesObserved": 109,
-    "inCustody": 115,
-    "uniquePeople": 224
+    "inCustody": 116,
+    "uniquePeople": 225
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-10-31",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 50.5,
+      "pct": 50.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 134,
-      "pct": 25.8,
+      "count": 135,
+      "pct": 26,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 190,
-      "pct": 84.8
+      "count": 191,
+      "pct": 84.9
     },
     {
       "name": "Female",
       "count": 34,
-      "pct": 15.2
+      "pct": 15.1
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 37
+        "count": 38
       },
       {
         "label": "25–34",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 60,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "SPOKANE, WA",
       "count": 23,
-      "pct": 10.6
+      "pct": 10.5
     },
     {
       "name": "CLE ELUM, WA",
@@ -372,7 +372,7 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "NESPELEM, WA",
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 53.6,
+    "currentMedianDaysHeld": 53,
     "currentLongestDaysHeld": 932.7
   },
   "bond": {
-    "withBond": 59,
+    "withBond": 60,
     "noBond": 56,
-    "medianBond": 60000,
+    "medianBond": 55000,
     "maxBond": 2000000,
-    "totalBond": 11536200
+    "totalBond": 11536700
   },
   "chargesPerBooking": 2.3
 }
