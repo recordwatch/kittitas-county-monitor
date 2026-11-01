@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T12:19:14",
+  "generatedAt": "2026-11-01T13:02:24",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 229,
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 62,
-      "pct": 27.8
+      "count": 63,
+      "pct": 28.3
     },
     {
       "name": "SPOKANE, WA",
@@ -356,8 +356,8 @@
     },
     {
       "name": "CLE ELUM, WA",
-      "count": 17,
-      "pct": 7.6
+      "count": 16,
+      "pct": 7.2
     },
     {
       "name": "YAKIMA, WA",
