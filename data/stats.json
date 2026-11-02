@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T01:19:16",
+  "generatedAt": "2026-11-02T02:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 233,
@@ -193,8 +193,8 @@
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 13,
-      "pct": 2.5
+      "count": 14,
+      "pct": 2.6
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 49.6,
+      "pct": 49.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 141,
-      "pct": 26.7,
+      "count": 142,
+      "pct": 26.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "UDC",
       "count": 33,
-      "pct": 6.3,
+      "pct": 6.2,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -440,7 +440,7 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 54.6,
+    "currentMedianDaysHeld": 54.7,
     "currentLongestDaysHeld": 934.4
   },
   "bond": {
@@ -448,7 +448,7 @@
     "noBond": 57,
     "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11521800
+    "totalBond": 11536800
   },
   "chargesPerBooking": 2.3
 }
