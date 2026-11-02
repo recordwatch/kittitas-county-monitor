@@ -1,5 +1,29 @@
 [
   {
+    "id": "47903",
+    "localId": "113459",
+    "name": "THOMPSON, JASON DALLON WHAYNE",
+    "age": 25,
+    "city": "CENTRAILIA, WA",
+    "bookedAt": "2026-11-01T17:25:00",
+    "sex": "M",
+    "charges": [
+      {
+        "description": "RECKLESS DRIVING",
+        "statute": "46.61.500",
+        "caseNumber": "T00825618WSP",
+        "court": "UDC"
+      }
+    ],
+    "bondTotal": 1000,
+    "detailsCheckedAt": "2026-11-01T19:19:16",
+    "status": "in_custody",
+    "firstSeen": "2026-11-01T19:19:16",
+    "releasedAt": null,
+    "releaseSource": null,
+    "baseline": false
+  },
+  {
     "id": "46500",
     "localId": "110940",
     "name": "MOYA, ERNEST",
@@ -16,7 +40,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T15:19:15",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-11-01T11:19:16",
     "releasedAt": null,
@@ -166,7 +190,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T15:19:15",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-30T18:19:16",
     "releasedAt": null,
@@ -310,7 +334,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T15:19:15",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-30T18:19:16",
     "releasedAt": null,
@@ -449,7 +473,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T15:19:15",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-29T13:19:15",
     "releasedAt": null,
@@ -1247,7 +1271,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T15:19:15",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-22T18:19:13",
     "releasedAt": null,
@@ -2263,7 +2287,7 @@
       }
     ],
     "bondTotal": 25000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-13T22:19:14",
     "releasedAt": null,
@@ -2437,7 +2461,7 @@
       }
     ],
     "bondTotal": 25000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-13T14:19:16",
     "releasedAt": null,
@@ -3272,7 +3296,7 @@
       }
     ],
     "bondTotal": 40000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -3345,7 +3369,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -3820,7 +3844,7 @@
       }
     ],
     "bondTotal": 2700,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -4127,7 +4151,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -4423,7 +4447,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5302,7 +5326,7 @@
       }
     ],
     "bondTotal": 30000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5417,7 +5441,7 @@
       }
     ],
     "bondTotal": 50000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5519,7 +5543,7 @@
       }
     ],
     "bondTotal": 750000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5543,7 +5567,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -5573,7 +5597,7 @@
       }
     ],
     "bondTotal": 5000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -6301,7 +6325,7 @@
       }
     ],
     "bondTotal": null,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -7153,7 +7177,7 @@
       }
     ],
     "bondTotal": 705000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
@@ -7237,7 +7261,7 @@
       }
     ],
     "bondTotal": 275000,
-    "detailsCheckedAt": "2026-11-01T14:19:16",
+    "detailsCheckedAt": "2026-11-01T19:19:16",
     "status": "in_custody",
     "firstSeen": "2026-10-10T22:28:48",
     "releasedAt": null,
