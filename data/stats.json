@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T15:19:19",
+  "generatedAt": "2026-11-02T15:57:42",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 235,
-    "bookingsObserved": 121,
-    "releasesObserved": 118,
-    "inCustody": 117,
-    "uniquePeople": 235
+    "bookingsTracked": 237,
+    "bookingsObserved": 123,
+    "releasesObserved": 122,
+    "inCustody": 115,
+    "uniquePeople": 237
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 2,
-      "released": 3
+      "booked": 4,
+      "released": 7
     }
   ],
   "topCharges": [
@@ -168,18 +168,18 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 41,
-      "pct": 7.7
+      "count": 43,
+      "pct": 8.1
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 29,
-      "pct": 5.5
+      "pct": 5.4
     },
     {
       "name": "THEFT 3RD DEG",
       "count": 20,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -204,7 +204,7 @@
     {
       "name": "PROTECTION ORDER VIOLATION",
       "count": 12,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "HARASSMENT",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 262,
-      "pct": 49.2,
+      "pct": 49.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 144,
-      "pct": 27.1,
+      "count": 146,
+      "pct": 27.3,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "OCC",
       "count": 12,
-      "pct": 2.3,
+      "pct": 2.2,
       "label": "OCC"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 199,
-      "pct": 84.7
+      "count": 201,
+      "pct": 84.8
     },
     {
       "name": "Female",
       "count": 36,
-      "pct": 15.3
+      "pct": 15.2
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 42
+        "count": 43
       },
       {
         "label": "25–34",
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 85
+        "count": 86
       },
       {
         "label": "45–54",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 64,
-      "pct": 27.9
+      "pct": 27.7
     },
     {
       "name": "SPOKANE, WA",
       "count": 24,
-      "pct": 10.5
+      "pct": 10.4
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,12 +362,12 @@
     {
       "name": "YAKIMA, WA",
       "count": 13,
-      "pct": 5.7
+      "pct": 5.6
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "MOSES LAKE, WA",
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 118,
+    "official": 122,
     "observed": 0,
-    "releasedListOnly": 20
+    "releasedListOnly": 22
   },
   "stay": {
-    "releasedCount": 118,
-    "medianDays": 1.3,
-    "meanDays": 16,
+    "releasedCount": 122,
+    "medianDays": 1.2,
+    "meanDays": 15.5,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 47
+        "count": 51
       },
       {
         "label": "1–3 days",
@@ -440,15 +440,15 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 55.9,
-    "currentLongestDaysHeld": 934.9
+    "currentMedianDaysHeld": 57.1,
+    "currentLongestDaysHeld": 935
   },
   "bond": {
-    "withBond": 59,
-    "noBond": 58,
-    "medianBond": 60000,
+    "withBond": 58,
+    "noBond": 57,
+    "medianBond": 65000,
     "maxBond": 2000000,
-    "totalBond": 11530900
+    "totalBond": 11515200
   },
   "chargesPerBooking": 2.3
 }
