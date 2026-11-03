@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T00:19:14",
+  "generatedAt": "2026-11-03T01:19:32",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 240,
-    "bookingsObserved": 126,
+    "bookingsTracked": 241,
+    "bookingsObserved": 127,
     "releasesObserved": 125,
-    "inCustody": 115,
-    "uniquePeople": 240
+    "inCustody": 116,
+    "uniquePeople": 241
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 7,
+      "booked": 8,
       "released": 10
     },
     {
@@ -265,8 +265,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 264,
-      "pct": 49.1,
+      "count": 265,
+      "pct": 49.2,
       "label": "Superior Court"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "USM",
       "count": 66,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 204,
-      "pct": 85
+      "count": 205,
+      "pct": 85.1
     },
     {
       "name": "Female",
       "count": 36,
-      "pct": 15
+      "pct": 14.9
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 45
+        "count": 46
       },
       {
         "label": "25–34",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 65,
-      "pct": 27.8
+      "count": 66,
+      "pct": 28.1
     },
     {
       "name": "SPOKANE, WA",
       "count": 24,
-      "pct": 10.3
+      "pct": 10.2
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 13,
-      "pct": 5.6
+      "pct": 5.5
     },
     {
       "name": "KITTITAS, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 56.2,
-    "currentLongestDaysHeld": 935.3
+    "currentMedianDaysHeld": 55.6,
+    "currentLongestDaysHeld": 935.4
   },
   "bond": {
     "withBond": 56,
-    "noBond": 59,
+    "noBond": 60,
     "medianBond": 72500,
     "maxBond": 2000000,
     "totalBond": 11514700
