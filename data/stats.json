@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T17:19:17",
+  "generatedAt": "2026-11-02T18:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 239,
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 65,
-      "pct": 27.9
+      "count": 64,
+      "pct": 27.5
     },
     {
       "name": "SPOKANE, WA",
@@ -356,8 +356,8 @@
     },
     {
       "name": "CLE ELUM, WA",
-      "count": 17,
-      "pct": 7.3
+      "count": 18,
+      "pct": 7.7
     },
     {
       "name": "YAKIMA, WA",
@@ -441,7 +441,7 @@
       }
     ],
     "currentMedianDaysHeld": 56,
-    "currentLongestDaysHeld": 935
+    "currentLongestDaysHeld": 935.1
   },
   "bond": {
     "withBond": 57,
