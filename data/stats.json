@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-02T21:19:19",
+  "generatedAt": "2026-11-02T21:36:07",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 239,
-    "bookingsObserved": 125,
+    "bookingsTracked": 240,
+    "bookingsObserved": 126,
     "releasesObserved": 125,
-    "inCustody": 114,
-    "uniquePeople": 239
+    "inCustody": 115,
+    "uniquePeople": 240
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-02",
-      "booked": 6,
+      "booked": 7,
       "released": 10
     }
   ],
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 264,
-      "pct": 49.2,
+      "pct": 49.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 147,
-      "pct": 27.4,
+      "count": 148,
+      "pct": 27.5,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 203,
-      "pct": 84.9
+      "count": 204,
+      "pct": 85
     },
     {
       "name": "Female",
       "count": 36,
-      "pct": 15.1
+      "pct": 15
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 44
+        "count": 45
       },
       {
         "label": "25–34",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 64,
-      "pct": 27.5
+      "count": 65,
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -440,12 +440,12 @@
         "count": 5
       }
     ],
-    "currentMedianDaysHeld": 56.7,
+    "currentMedianDaysHeld": 56.1,
     "currentLongestDaysHeld": 935.2
   },
   "bond": {
     "withBond": 56,
-    "noBond": 58,
+    "noBond": 59,
     "medianBond": 72500,
     "maxBond": 2000000,
     "totalBond": 11514700
