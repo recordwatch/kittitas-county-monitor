@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T21:19:14",
+  "generatedAt": "2026-11-03T22:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 247,
     "bookingsObserved": 133,
-    "releasesObserved": 131,
-    "inCustody": 116,
+    "releasesObserved": 130,
+    "inCustody": 117,
     "uniquePeople": 247
   },
   "bookingsByDay": [
@@ -87,7 +87,7 @@
     {
       "date": "2026-10-20",
       "booked": 3,
-      "released": 6
+      "released": 5
     },
     {
       "date": "2026-10-21",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 21,
-      "pct": 3.8
+      "count": 22,
+      "pct": 4
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -188,8 +188,8 @@
     },
     {
       "name": "ASSAULT 4TH DEGREE",
-      "count": 17,
-      "pct": 3.1
+      "count": 16,
+      "pct": 2.9
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 131,
+    "official": 130,
     "observed": 0,
     "releasedListOnly": 24
   },
   "stay": {
-    "releasedCount": 131,
-    "medianDays": 1.2,
-    "meanDays": 19.2,
+    "releasedCount": 130,
+    "medianDays": 1.3,
+    "meanDays": 19.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 54
+        "count": 53
       },
       {
         "label": "1–3 days",
@@ -440,15 +440,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 51.5,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 936.2
   },
   "bond": {
-    "withBond": 59,
+    "withBond": 60,
     "noBond": 57,
     "medianBond": 50000,
     "maxBond": 2000000,
-    "totalBond": 11252800
+    "totalBond": 11253800
   },
   "chargesPerBooking": 2.2
 }
