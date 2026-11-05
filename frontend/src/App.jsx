@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import { HashRouter, Routes, Route, NavLink } from 'react-router-dom'
 import Header from './components/Header'
+import ContactFooter from './components/ContactFooter'
 import StatBar from './components/StatBar'
 import BookingCard from './components/BookingCard'
 import HistoryLog from './components/HistoryLog'
@@ -117,6 +118,7 @@ export default function App() {
           <Route path="/history" element={<HistoryPage log={log} />} />
           <Route path="/stats" element={<Page><Stats /></Page>} />
         </Routes>
+        <ContactFooter />
       </div>
     </HashRouter>
   )
