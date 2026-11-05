@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T10:19:16",
+  "generatedAt": "2026-11-05T11:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 248,
-    "bookingsObserved": 134,
+    "bookingsTracked": 249,
+    "bookingsObserved": 135,
     "releasesObserved": 135,
-    "inCustody": 113,
-    "uniquePeople": 248
+    "inCustody": 114,
+    "uniquePeople": 249
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-05",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
@@ -194,7 +194,7 @@
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 14,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 268,
-      "pct": 48.8,
+      "count": 269,
+      "pct": 48.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 152,
-      "pct": 27.7,
+      "pct": 27.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 212,
+      "count": 213,
       "pct": 85.5
     },
     {
@@ -339,7 +339,7 @@
       },
       {
         "label": "55+",
-        "count": 16
+        "count": 17
       }
     ]
   },
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 66,
-      "pct": 27.3
+      "pct": 27.2
     },
     {
       "name": "SPOKANE, WA",
@@ -382,12 +382,12 @@
     {
       "name": "SEATTLE, WA",
       "count": 4,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "RENTON, WA",
       "count": 4,
-      "pct": 1.7
+      "pct": 1.6
     },
     {
       "name": "OMAK, WA",
@@ -440,15 +440,15 @@
         "count": 7
       }
     ],
-    "currentMedianDaysHeld": 57.4,
-    "currentLongestDaysHeld": 937.7
+    "currentMedianDaysHeld": 57.3,
+    "currentLongestDaysHeld": 937.8
   },
   "bond": {
-    "withBond": 56,
+    "withBond": 57,
     "noBond": 57,
-    "medianBond": 65000,
+    "medianBond": 60000,
     "maxBond": 2000000,
-    "totalBond": 12209500
+    "totalBond": 12234500
   },
   "chargesPerBooking": 2.2
 }
