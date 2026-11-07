@@ -1,0 +1,454 @@
+{
+  "generatedAt": "2026-11-07T06:19:16",
+  "monitoringSince": "2026-10-10T22:28:48",
+  "totals": {
+    "bookingsTracked": 256,
+    "bookingsObserved": 142,
+    "releasesObserved": 141,
+    "inCustody": 115,
+    "uniquePeople": 256
+  },
+  "bookingsByDay": [
+    {
+      "date": "2026-10-09",
+      "booked": 5,
+      "released": 7
+    },
+    {
+      "date": "2026-10-10",
+      "booked": 3,
+      "released": 5
+    },
+    {
+      "date": "2026-10-11",
+      "booked": 2,
+      "released": 1
+    },
+    {
+      "date": "2026-10-12",
+      "booked": 4,
+      "released": 5
+    },
+    {
+      "date": "2026-10-13",
+      "booked": 11,
+      "released": 3
+    },
+    {
+      "date": "2026-10-14",
+      "booked": 2,
+      "released": 8
+    },
+    {
+      "date": "2026-10-15",
+      "booked": 7,
+      "released": 3
+    },
+    {
+      "date": "2026-10-16",
+      "booked": 9,
+      "released": 12
+    },
+    {
+      "date": "2026-10-17",
+      "booked": 2,
+      "released": 2
+    },
+    {
+      "date": "2026-10-18",
+      "booked": 4,
+      "released": 3
+    },
+    {
+      "date": "2026-10-19",
+      "booked": 4,
+      "released": 5
+    },
+    {
+      "date": "2026-10-20",
+      "booked": 3,
+      "released": 5
+    },
+    {
+      "date": "2026-10-21",
+      "booked": 2,
+      "released": 1
+    },
+    {
+      "date": "2026-10-22",
+      "booked": 6,
+      "released": 8
+    },
+    {
+      "date": "2026-10-23",
+      "booked": 7,
+      "released": 8
+    },
+    {
+      "date": "2026-10-24",
+      "booked": 3,
+      "released": 2
+    },
+    {
+      "date": "2026-10-25",
+      "booked": 4,
+      "released": 3
+    },
+    {
+      "date": "2026-10-26",
+      "booked": 1,
+      "released": 3
+    },
+    {
+      "date": "2026-10-27",
+      "booked": 7,
+      "released": 1
+    },
+    {
+      "date": "2026-10-28",
+      "booked": 2,
+      "released": 5
+    },
+    {
+      "date": "2026-10-29",
+      "booked": 4,
+      "released": 5
+    },
+    {
+      "date": "2026-10-30",
+      "booked": 9,
+      "released": 6
+    },
+    {
+      "date": "2026-10-31",
+      "booked": 2,
+      "released": 3
+    },
+    {
+      "date": "2026-11-01",
+      "booked": 7,
+      "released": 4
+    },
+    {
+      "date": "2026-11-02",
+      "booked": 8,
+      "released": 10
+    },
+    {
+      "date": "2026-11-03",
+      "booked": 6,
+      "released": 6
+    },
+    {
+      "date": "2026-11-04",
+      "booked": 0,
+      "released": 4
+    },
+    {
+      "date": "2026-11-05",
+      "booked": 2,
+      "released": 4
+    },
+    {
+      "date": "2026-11-06",
+      "booked": 4,
+      "released": 5
+    },
+    {
+      "date": "2026-11-07",
+      "booked": 2,
+      "released": 1
+    }
+  ],
+  "topCharges": [
+    {
+      "name": "HOLD FOR OTHER AGNCY",
+      "count": 53,
+      "pct": 9.5
+    },
+    {
+      "name": "DRIVING UNDER THE INFLUENCE",
+      "count": 47,
+      "pct": 8.4
+    },
+    {
+      "name": "DWLS THIRD DEGREE",
+      "count": 30,
+      "pct": 5.4
+    },
+    {
+      "name": "THEFT 3RD DEG",
+      "count": 22,
+      "pct": 3.9
+    },
+    {
+      "name": "HOLD FOR USM, FBI, MP",
+      "count": 19,
+      "pct": 3.4
+    },
+    {
+      "name": "ASSAULT 4TH DEGREE",
+      "count": 16,
+      "pct": 2.9
+    },
+    {
+      "name": "POSSESION OF A CONTROLLED SUBS",
+      "count": 14,
+      "pct": 2.5
+    },
+    {
+      "name": "PROTECTION ORDER VIOLATION",
+      "count": 13,
+      "pct": 2.3
+    },
+    {
+      "name": "POSS DEPICT OF MINOR/SEX EXPLI",
+      "count": 13,
+      "pct": 2.3
+    },
+    {
+      "name": "DWLS 2ND DEGREE",
+      "count": 11,
+      "pct": 2
+    },
+    {
+      "name": "HARASSMENT",
+      "count": 11,
+      "pct": 2
+    },
+    {
+      "name": "ASSAULT 2ND DEGREE",
+      "count": 11,
+      "pct": 2
+    },
+    {
+      "name": "Violation of DV NCO",
+      "count": 10,
+      "pct": 1.8
+    },
+    {
+      "name": "OPER VEH W/OUT IGNITION INTERLOCK",
+      "count": 10,
+      "pct": 1.8
+    },
+    {
+      "name": "BURGLARY 2ND DEGREE",
+      "count": 10,
+      "pct": 1.8
+    },
+    {
+      "name": "CRIM TRESPASS 1ST",
+      "count": 9,
+      "pct": 1.6
+    },
+    {
+      "name": "RESISTING ARREST",
+      "count": 9,
+      "pct": 1.6
+    },
+    {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 8,
+      "pct": 1.4
+    },
+    {
+      "name": "RAPE OF A CHILD",
+      "count": 8,
+      "pct": 1.4
+    },
+    {
+      "name": "CRIM TRESPASS 2ND",
+      "count": 7,
+      "pct": 1.3
+    }
+  ],
+  "courts": [
+    {
+      "name": "SUP",
+      "count": 271,
+      "pct": 48.4,
+      "label": "Superior Court"
+    },
+    {
+      "name": "LDC",
+      "count": 157,
+      "pct": 28,
+      "label": "Lower Kittitas District Court"
+    },
+    {
+      "name": "USM",
+      "count": 70,
+      "pct": 12.5,
+      "label": "U.S. Marshals hold"
+    },
+    {
+      "name": "UDC",
+      "count": 34,
+      "pct": 6.1,
+      "label": "Upper Kittitas District Court"
+    },
+    {
+      "name": "OCC",
+      "count": 13,
+      "pct": 2.3,
+      "label": "OCC"
+    },
+    {
+      "name": "OS",
+      "count": 10,
+      "pct": 1.8,
+      "label": "OS"
+    },
+    {
+      "name": "CEMU",
+      "count": 5,
+      "pct": 0.9,
+      "label": "CEMU"
+    }
+  ],
+  "sex": [
+    {
+      "name": "Male",
+      "count": 219,
+      "pct": 85.5
+    },
+    {
+      "name": "Female",
+      "count": 37,
+      "pct": 14.5
+    }
+  ],
+  "ages": {
+    "median": 36,
+    "groups": [
+      {
+        "label": "18–24",
+        "count": 47
+      },
+      {
+        "label": "25–34",
+        "count": 64
+      },
+      {
+        "label": "35–44",
+        "count": 89
+      },
+      {
+        "label": "45–54",
+        "count": 38
+      },
+      {
+        "label": "55+",
+        "count": 18
+      }
+    ]
+  },
+  "topCities": [
+    {
+      "name": "ELLENSBURG, WA",
+      "count": 69,
+      "pct": 27.6
+    },
+    {
+      "name": "SPOKANE, WA",
+      "count": 25,
+      "pct": 10
+    },
+    {
+      "name": "CLE ELUM, WA",
+      "count": 18,
+      "pct": 7.2
+    },
+    {
+      "name": "YAKIMA, WA",
+      "count": 16,
+      "pct": 6.4
+    },
+    {
+      "name": "KITTITAS, WA",
+      "count": 7,
+      "pct": 2.8
+    },
+    {
+      "name": "MOSES LAKE, WA",
+      "count": 6,
+      "pct": 2.4
+    },
+    {
+      "name": "NESPELEM, WA",
+      "count": 5,
+      "pct": 2
+    },
+    {
+      "name": "SEATTLE, WA",
+      "count": 4,
+      "pct": 1.6
+    },
+    {
+      "name": "RENTON, WA",
+      "count": 4,
+      "pct": 1.6
+    },
+    {
+      "name": "OMAK, WA",
+      "count": 3,
+      "pct": 1.2
+    },
+    {
+      "name": "TACOMA, WA",
+      "count": 3,
+      "pct": 1.2
+    },
+    {
+      "name": "EVERETT, WA",
+      "count": 3,
+      "pct": 1.2
+    }
+  ],
+  "releaseSources": {
+    "official": 141,
+    "observed": 0,
+    "releasedListOnly": 25
+  },
+  "stay": {
+    "releasedCount": 141,
+    "medianDays": 1.3,
+    "meanDays": 21,
+    "buckets": [
+      {
+        "label": "< 1 day",
+        "count": 56
+      },
+      {
+        "label": "1–3 days",
+        "count": 28
+      },
+      {
+        "label": "3–7 days",
+        "count": 8
+      },
+      {
+        "label": "1–4 weeks",
+        "count": 21
+      },
+      {
+        "label": "1–3 months",
+        "count": 20
+      },
+      {
+        "label": "3+ months",
+        "count": 8
+      }
+    ],
+    "currentMedianDaysHeld": 52.9,
+    "currentLongestDaysHeld": 939.6
+  },
+  "bond": {
+    "withBond": 54,
+    "noBond": 61,
+    "medianBond": 75000,
+    "maxBond": 2000000,
+    "totalBond": 12230000
+  },
+  "chargesPerBooking": 2.2
+}
