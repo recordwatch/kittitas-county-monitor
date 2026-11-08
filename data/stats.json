@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-08T08:19:15",
+  "generatedAt": "2026-11-08T08:55:50",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 257,
-    "bookingsObserved": 143,
+    "bookingsTracked": 258,
+    "bookingsObserved": 144,
     "releasesObserved": 144,
-    "inCustody": 113,
-    "uniquePeople": 257
+    "inCustody": 114,
+    "uniquePeople": 258
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 22,
-      "pct": 3.9
+      "count": 23,
+      "pct": 4.1
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
@@ -189,7 +189,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 16,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 271,
-      "pct": 48.3,
+      "pct": 48.2,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 158,
-      "pct": 28.2,
+      "count": 159,
+      "pct": 28.3,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,7 +284,7 @@
     {
       "name": "UDC",
       "count": 34,
-      "pct": 6.1,
+      "pct": 6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 219,
-      "pct": 85.2
+      "pct": 84.9
     },
     {
       "name": "Female",
-      "count": 38,
-      "pct": 14.8
+      "count": 39,
+      "pct": 15.1
     }
   ],
   "ages": {
@@ -339,7 +339,7 @@
       },
       {
         "label": "55+",
-        "count": 18
+        "count": 19
       }
     ]
   },
@@ -347,22 +347,22 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 70,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
       "count": 25,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "CLE ELUM, WA",
       "count": 18,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "YAKIMA, WA",
       "count": 16,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "KITTITAS, WA",
@@ -378,6 +378,11 @@
       "name": "NESPELEM, WA",
       "count": 5,
       "pct": 2
+    },
+    {
+      "name": "EVERETT, WA",
+      "count": 4,
+      "pct": 1.6
     },
     {
       "name": "SEATTLE, WA",
@@ -396,11 +401,6 @@
     },
     {
       "name": "TACOMA, WA",
-      "count": 3,
-      "pct": 1.2
-    },
-    {
-      "name": "EVERETT, WA",
       "count": 3,
       "pct": 1.2
     }
@@ -440,15 +440,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 58,
+    "currentMedianDaysHeld": 56,
     "currentLongestDaysHeld": 940.7
   },
   "bond": {
-    "withBond": 56,
+    "withBond": 57,
     "noBond": 57,
-    "medianBond": 72500,
+    "medianBond": 70000,
     "maxBond": 2000000,
-    "totalBond": 12279000
+    "totalBond": 12279100
   },
   "chargesPerBooking": 2.2
 }
