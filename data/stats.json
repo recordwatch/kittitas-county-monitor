@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:19:15",
+  "generatedAt": "2026-11-08T00:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 257,
@@ -9,11 +9,6 @@
     "uniquePeople": 257
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-09",
-      "booked": 5,
-      "released": 7
-    },
     {
       "date": "2026-10-10",
       "booked": 3,
@@ -158,6 +153,11 @@
       "date": "2026-11-07",
       "booked": 3,
       "released": 4
+    },
+    {
+      "date": "2026-11-08",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -448,7 +448,7 @@
     "noBond": 58,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12245000
+    "totalBond": 12259000
   },
   "chargesPerBooking": 2.2
 }
