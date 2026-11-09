@@ -1,19 +1,14 @@
 {
-  "generatedAt": "2026-11-08T23:19:24",
+  "generatedAt": "2026-11-09T00:19:21",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 259,
-    "bookingsObserved": 145,
+    "bookingsTracked": 260,
+    "bookingsObserved": 146,
     "releasesObserved": 145,
-    "inCustody": 114,
-    "uniquePeople": 259
+    "inCustody": 115,
+    "uniquePeople": 260
   },
   "bookingsByDay": [
-    {
-      "date": "2026-10-10",
-      "booked": 3,
-      "released": 5
-    },
     {
       "date": "2026-10-11",
       "booked": 2,
@@ -156,8 +151,13 @@
     },
     {
       "date": "2026-11-08",
-      "booked": 2,
+      "booked": 3,
       "released": 2
+    },
+    {
+      "date": "2026-11-09",
+      "booked": 0,
+      "released": 0
     }
   ],
   "topCharges": [
@@ -207,24 +207,24 @@
       "pct": 2.3
     },
     {
+      "name": "Violation of DV NCO",
+      "count": 11,
+      "pct": 1.9
+    },
+    {
       "name": "DWLS 2ND DEGREE",
       "count": 11,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "HARASSMENT",
       "count": 11,
-      "pct": 2
+      "pct": 1.9
     },
     {
       "name": "ASSAULT 2ND DEGREE",
       "count": 11,
-      "pct": 2
-    },
-    {
-      "name": "Violation of DV NCO",
-      "count": 10,
-      "pct": 1.8
+      "pct": 1.9
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 271,
-      "pct": 48,
+      "count": 273,
+      "pct": 48.2,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 161,
-      "pct": 28.5,
+      "pct": 28.4,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 219,
-      "pct": 84.6
+      "pct": 84.2
     },
     {
       "name": "Female",
-      "count": 40,
-      "pct": 15.4
+      "count": 41,
+      "pct": 15.8
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 38
+        "count": 39
       },
       {
         "label": "55+",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 71,
-      "pct": 28.1
+      "count": 72,
+      "pct": 28.3
     },
     {
       "name": "SPOKANE, WA",
       "count": 25,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,12 +440,12 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 56.6,
+    "currentMedianDaysHeld": 54.6,
     "currentLongestDaysHeld": 941.3
   },
   "bond": {
     "withBond": 58,
-    "noBond": 56,
+    "noBond": 57,
     "medianBond": 65000,
     "maxBond": 2000000,
     "totalBond": 12283000
