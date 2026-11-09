@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T00:19:21",
+  "generatedAt": "2026-11-09T01:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 260,
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 53,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 31,
-      "pct": 5.5
+      "count": 32,
+      "pct": 5.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 273,
-      "pct": 48.2,
+      "pct": 48.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 161,
-      "pct": 28.4,
+      "count": 162,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 70,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -440,15 +440,15 @@
         "count": 8
       }
     ],
-    "currentMedianDaysHeld": 54.6,
-    "currentLongestDaysHeld": 941.3
+    "currentMedianDaysHeld": 54.7,
+    "currentLongestDaysHeld": 941.4
   },
   "bond": {
     "withBond": 58,
     "noBond": 57,
     "medianBond": 65000,
     "maxBond": 2000000,
-    "totalBond": 12283000
+    "totalBond": 12283500
   },
   "chargesPerBooking": 2.2
 }
