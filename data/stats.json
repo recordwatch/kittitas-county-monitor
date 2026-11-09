@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-09T01:19:14",
+  "generatedAt": "2026-11-09T02:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 260,
-    "bookingsObserved": 146,
+    "bookingsTracked": 261,
+    "bookingsObserved": 147,
     "releasesObserved": 145,
-    "inCustody": 115,
-    "uniquePeople": 260
+    "inCustody": 116,
+    "uniquePeople": 261
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-09",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 48,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 32,
-      "pct": 5.6
+      "count": 34,
+      "pct": 6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,7 +184,7 @@
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 19,
-      "pct": 3.4
+      "pct": 3.3
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 273,
-      "pct": 48.1,
+      "pct": 48,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 162,
-      "pct": 28.6,
+      "count": 164,
+      "pct": 28.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 219,
-      "pct": 84.2
+      "count": 220,
+      "pct": 84.3
     },
     {
       "name": "Female",
       "count": 41,
-      "pct": 15.8
+      "pct": 15.7
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 39
+        "count": 40
       },
       {
         "label": "55+",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 72,
-      "pct": 28.3
+      "count": 73,
+      "pct": 28.6
     },
     {
       "name": "SPOKANE, WA",
@@ -367,7 +367,7 @@
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 2.8
+      "pct": 2.7
     },
     {
       "name": "MOSES LAKE, WA",
@@ -444,11 +444,11 @@
     "currentLongestDaysHeld": 941.4
   },
   "bond": {
-    "withBond": 58,
+    "withBond": 59,
     "noBond": 57,
-    "medianBond": 65000,
+    "medianBond": 60000,
     "maxBond": 2000000,
-    "totalBond": 12283500
+    "totalBond": 12313500
   },
   "chargesPerBooking": 2.2
 }
