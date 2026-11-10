@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T13:19:15",
+  "generatedAt": "2026-11-10T14:06:35",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 266,
-    "bookingsObserved": 152,
+    "bookingsTracked": 267,
+    "bookingsObserved": 153,
     "releasesObserved": 155,
-    "inCustody": 111,
-    "uniquePeople": 266
+    "inCustody": 112,
+    "uniquePeople": 267
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 2,
+      "booked": 3,
       "released": 5
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 53,
-      "pct": 9.2
+      "count": 54,
+      "pct": 9.3
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -204,7 +204,7 @@
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
       "count": 13,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "Violation of DV NCO",
@@ -266,7 +266,7 @@
     {
       "name": "SUP",
       "count": 273,
-      "pct": 47.3,
+      "pct": 47.2,
       "label": "Superior Court"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "name": "USM",
-      "count": 70,
-      "pct": 12.1,
+      "count": 71,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 223,
-      "pct": 83.8
+      "count": 224,
+      "pct": 83.9
     },
     {
       "name": "Female",
       "count": 43,
-      "pct": 16.2
+      "pct": 16.1
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 47
+        "count": 48
       },
       {
         "label": "25–34",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 74,
-      "pct": 28.5
+      "pct": 28.4
     },
     {
       "name": "SPOKANE, WA",
-      "count": 25,
-      "pct": 9.6
+      "count": 26,
+      "pct": 10
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 16,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "KITTITAS, WA",
@@ -397,12 +397,12 @@
     {
       "name": "PASCO, WA",
       "count": 3,
-      "pct": 1.2
+      "pct": 1.1
     },
     {
       "name": "OMAK, WA",
       "count": 3,
-      "pct": 1.2
+      "pct": 1.1
     }
   ],
   "releaseSources": {
@@ -445,7 +445,7 @@
   },
   "bond": {
     "withBond": 56,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12309200
