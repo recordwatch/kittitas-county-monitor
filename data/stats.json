@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T20:19:14",
+  "generatedAt": "2026-11-10T21:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 271,
@@ -237,6 +237,11 @@
       "pct": 1.7
     },
     {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 9,
+      "pct": 1.5
+    },
+    {
       "name": "CRIM TRESPASS 1ST",
       "count": 9,
       "pct": 1.5
@@ -252,11 +257,6 @@
       "pct": 1.4
     },
     {
-      "name": "Assault 4th-Domestic Violence",
-      "count": 8,
-      "pct": 1.4
-    },
-    {
       "name": "RAPE OF A CHILD",
       "count": 8,
       "pct": 1.4
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 274,
-      "pct": 47.1,
+      "count": 275,
+      "pct": 47.2,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 167,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -450,5 +450,5 @@
     "maxBond": 2000000,
     "totalBond": 12256700
   },
-  "chargesPerBooking": 2.1
+  "chargesPerBooking": 2.2
 }
