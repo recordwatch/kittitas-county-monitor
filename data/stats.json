@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T08:19:15",
+  "generatedAt": "2026-11-11T09:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 272,
@@ -395,12 +395,12 @@
       "pct": 1.5
     },
     {
-      "name": "KENT, WA",
+      "name": "PASCO, WA",
       "count": 3,
       "pct": 1.1
     },
     {
-      "name": "PASCO, WA",
+      "name": "OMAK, WA",
       "count": 3,
       "pct": 1.1
     }
