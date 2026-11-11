@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T13:19:14",
+  "generatedAt": "2026-11-11T14:19:19",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 273,
-    "bookingsObserved": 159,
+    "bookingsTracked": 274,
+    "bookingsObserved": 160,
     "releasesObserved": 159,
-    "inCustody": 114,
-    "uniquePeople": 273
+    "inCustody": 115,
+    "uniquePeople": 274
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 2,
+      "booked": 3,
       "released": 1
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 51,
-      "pct": 8.7
+      "count": 52,
+      "pct": 8.8
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -194,7 +194,7 @@
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
       "count": 15,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 275,
-      "pct": 46.8,
+      "pct": 46.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 168,
-      "pct": 28.6,
+      "count": 169,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -302,7 +302,7 @@
     {
       "name": "CEMU",
       "count": 5,
-      "pct": 0.9,
+      "pct": 0.8,
       "label": "CEMU"
     }
   ],
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 228,
-      "pct": 83.5
+      "pct": 83.2
     },
     {
       "name": "Female",
-      "count": 45,
-      "pct": 16.5
+      "count": 46,
+      "pct": 16.8
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 94
+        "count": 95
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 74,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 17,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "KITTITAS, WA",
@@ -440,15 +440,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 53.5,
+    "currentMedianDaysHeld": 52.8,
     "currentLongestDaysHeld": 943.9
   },
   "bond": {
-    "withBond": 53,
+    "withBond": 54,
     "noBond": 61,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12243700
+    "totalBond": 12244700
   },
-  "chargesPerBooking": 2.2
+  "chargesPerBooking": 2.1
 }
