@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-10T15:19:15",
+  "generatedAt": "2026-11-10T16:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 267,
-    "bookingsObserved": 153,
+    "bookingsTracked": 270,
+    "bookingsObserved": 156,
     "releasesObserved": 156,
-    "inCustody": 111,
-    "uniquePeople": 267
+    "inCustody": 114,
+    "uniquePeople": 270
   },
   "bookingsByDay": [
     {
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-11-10",
-      "booked": 3,
+      "booked": 6,
       "released": 6
     }
   ],
   "topCharges": [
     {
       "name": "HOLD FOR OTHER AGNCY",
-      "count": 54,
-      "pct": 9.3
+      "count": 57,
+      "pct": 9.8
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 49,
-      "pct": 8.5
+      "pct": 8.4
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 38,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "THEFT 3RD DEG",
@@ -239,12 +239,12 @@
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 9,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "RESISTING ARREST",
       "count": 9,
-      "pct": 1.6
+      "pct": 1.5
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 273,
-      "pct": 47.2,
+      "pct": 47,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 167,
-      "pct": 28.9,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
-      "count": 71,
-      "pct": 12.3,
+      "count": 74,
+      "pct": 12.7,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 224,
-      "pct": 83.9
+      "count": 227,
+      "pct": 84.1
     },
     {
       "name": "Female",
       "count": 43,
-      "pct": 16.1
+      "pct": 15.9
     }
   ],
   "ages": {
@@ -331,11 +331,11 @@
       },
       {
         "label": "35–44",
-        "count": 92
+        "count": 94
       },
       {
         "label": "45–54",
-        "count": 41
+        "count": 42
       },
       {
         "label": "55+",
@@ -440,12 +440,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 56.3,
-    "currentLongestDaysHeld": 942.9
+    "currentMedianDaysHeld": 54.8,
+    "currentLongestDaysHeld": 943
   },
   "bond": {
     "withBond": 55,
-    "noBond": 56,
+    "noBond": 59,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12307700
