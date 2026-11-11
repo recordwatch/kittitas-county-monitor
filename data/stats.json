@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T11:19:13",
+  "generatedAt": "2026-11-11T13:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 272,
-    "bookingsObserved": 158,
+    "bookingsTracked": 273,
+    "bookingsObserved": 159,
     "releasesObserved": 159,
-    "inCustody": 113,
-    "uniquePeople": 272
+    "inCustody": 114,
+    "uniquePeople": 273
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 1,
+      "booked": 2,
       "released": 1
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 50,
-      "pct": 8.5
+      "count": 51,
+      "pct": 8.7
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -271,8 +271,8 @@
     },
     {
       "name": "LDC",
-      "count": 167,
-      "pct": 28.4,
+      "count": 168,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 227,
+      "count": 228,
       "pct": 83.5
     },
     {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 67
+        "count": 68
       },
       {
         "label": "35–44",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 74,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "CLE ELUM, WA",
@@ -361,8 +361,8 @@
     },
     {
       "name": "YAKIMA, WA",
-      "count": 16,
-      "pct": 6
+      "count": 17,
+      "pct": 6.4
     },
     {
       "name": "KITTITAS, WA",
@@ -372,7 +372,7 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 2.3
+      "pct": 2.2
     },
     {
       "name": "NESPELEM, WA",
@@ -440,12 +440,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 54.1,
-    "currentLongestDaysHeld": 943.8
+    "currentMedianDaysHeld": 53.5,
+    "currentLongestDaysHeld": 943.9
   },
   "bond": {
     "withBond": 53,
-    "noBond": 60,
+    "noBond": 61,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12243700
