@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T06:19:16",
+  "generatedAt": "2026-11-11T07:19:18",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 271,
-    "bookingsObserved": 157,
+    "bookingsTracked": 272,
+    "bookingsObserved": 158,
     "releasesObserved": 158,
-    "inCustody": 113,
-    "uniquePeople": 271
+    "inCustody": 114,
+    "uniquePeople": 272
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -164,12 +164,12 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 57,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 49,
-      "pct": 8.4
+      "count": 50,
+      "pct": 8.5
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -179,12 +179,12 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 22,
-      "pct": 3.8
+      "pct": 3.7
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 19,
-      "pct": 3.3
+      "pct": 3.2
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -193,8 +193,8 @@
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 14,
-      "pct": 2.4
+      "count": 15,
+      "pct": 2.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -209,7 +209,7 @@
     {
       "name": "ASSAULT 2ND DEGREE",
       "count": 12,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "Violation of DV NCO",
@@ -266,31 +266,31 @@
     {
       "name": "SUP",
       "count": 275,
-      "pct": 47.2,
+      "pct": 46.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 167,
-      "pct": 28.6,
+      "pct": 28.4,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 74,
-      "pct": 12.7,
+      "pct": 12.6,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
-      "count": 36,
-      "pct": 6.2,
+      "count": 38,
+      "pct": 6.5,
       "label": "Upper Kittitas District Court"
     },
     {
       "name": "OCC",
-      "count": 16,
-      "pct": 2.7,
+      "count": 18,
+      "pct": 3.1,
       "label": "OCC"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 227,
-      "pct": 83.8
+      "pct": 83.5
     },
     {
       "name": "Female",
-      "count": 44,
-      "pct": 16.2
+      "count": 45,
+      "pct": 16.5
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 42
+        "count": 43
       },
       {
         "label": "55+",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 74,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 19,
-      "pct": 7.2
+      "pct": 7.1
     },
     {
       "name": "YAKIMA, WA",
@@ -395,12 +395,12 @@
       "pct": 1.5
     },
     {
-      "name": "PASCO, WA",
+      "name": "KENT, WA",
       "count": 3,
       "pct": 1.1
     },
     {
-      "name": "OMAK, WA",
+      "name": "PASCO, WA",
       "count": 3,
       "pct": 1.1
     }
@@ -440,15 +440,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 53.9,
+    "currentMedianDaysHeld": 53.2,
     "currentLongestDaysHeld": 943.6
   },
   "bond": {
-    "withBond": 53,
+    "withBond": 54,
     "noBond": 60,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12256700
+    "totalBond": 12283700
   },
   "chargesPerBooking": 2.2
 }
