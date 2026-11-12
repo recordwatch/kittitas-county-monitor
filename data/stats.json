@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-11T19:19:16",
+  "generatedAt": "2026-11-11T20:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 275,
     "bookingsObserved": 161,
-    "releasesObserved": 160,
-    "inCustody": 115,
+    "releasesObserved": 159,
+    "inCustody": 116,
     "uniquePeople": 275
   },
   "bookingsByDay": [
@@ -147,7 +147,7 @@
     {
       "date": "2026-11-09",
       "booked": 4,
-      "released": 6
+      "released": 5
     },
     {
       "date": "2026-11-10",
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 57,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -198,8 +198,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 14,
-      "pct": 2.4
+      "count": 15,
+      "pct": 2.5
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 275,
-      "pct": 46.6,
+      "pct": 46.5,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 170,
-      "pct": 28.8,
+      "count": 171,
+      "pct": 28.9,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -290,7 +290,7 @@
     {
       "name": "OCC",
       "count": 18,
-      "pct": 3.1,
+      "pct": 3,
       "label": "OCC"
     },
     {
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 160,
+    "official": 159,
     "observed": 0,
     "releasedListOnly": 26
   },
   "stay": {
-    "releasedCount": 160,
+    "releasedCount": 159,
     "medianDays": 1.3,
-    "meanDays": 21.4,
+    "meanDays": 21.5,
     "buckets": [
       {
         "label": "< 1 day",
@@ -421,7 +421,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 32
+        "count": 31
       },
       {
         "label": "3–7 days",
@@ -440,12 +440,12 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 50.4,
-    "currentLongestDaysHeld": 944.1
+    "currentMedianDaysHeld": 50.5,
+    "currentLongestDaysHeld": 944.2
   },
   "bond": {
     "withBond": 54,
-    "noBond": 61,
+    "noBond": 62,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12224800
