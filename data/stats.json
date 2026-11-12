@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T10:19:15",
+  "generatedAt": "2026-11-12T11:19:18",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 276,
-    "bookingsObserved": 162,
-    "releasesObserved": 160,
+    "bookingsTracked": 277,
+    "bookingsObserved": 163,
+    "releasesObserved": 161,
     "inCustody": 116,
-    "uniquePeople": 276
+    "uniquePeople": 277
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 1,
-      "released": 0
+      "booked": 2,
+      "released": 1
     }
   ],
   "topCharges": [
@@ -169,7 +169,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 53,
-      "pct": 9
+      "pct": 8.9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -252,27 +252,27 @@
       "pct": 1.5
     },
     {
-      "name": "CRIM TRESPASS 2ND",
+      "name": "THEFT 2ND DEGREE",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
-      "name": "RAPE OF A CHILD",
+      "name": "CRIM TRESPASS 2ND",
       "count": 8,
-      "pct": 1.4
+      "pct": 1.3
     }
   ],
   "courts": [
     {
       "name": "SUP",
-      "count": 275,
-      "pct": 46.5,
+      "count": 277,
+      "pct": 46.6,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 171,
-      "pct": 28.9,
+      "pct": 28.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 230,
-      "pct": 83.3
+      "count": 231,
+      "pct": 83.4
     },
     {
       "name": "Female",
       "count": 46,
-      "pct": 16.7
+      "pct": 16.6
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 96
+        "count": 97
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 75,
-      "pct": 27.8
+      "pct": 27.7
     },
     {
       "name": "SPOKANE, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "EVERETT, WA",
@@ -395,23 +395,23 @@
       "pct": 1.5
     },
     {
-      "name": "PASCO, WA",
+      "name": "EASTON, WA",
       "count": 3,
       "pct": 1.1
     },
     {
-      "name": "OMAK, WA",
+      "name": "PASCO, WA",
       "count": 3,
       "pct": 1.1
     }
   ],
   "releaseSources": {
-    "official": 160,
+    "official": 161,
     "observed": 0,
     "releasedListOnly": 26
   },
   "stay": {
-    "releasedCount": 160,
+    "releasedCount": 161,
     "medianDays": 1.3,
     "meanDays": 21.4,
     "buckets": [
@@ -429,7 +429,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 22
+        "count": 23
       },
       {
         "label": "1–3 months",
@@ -440,15 +440,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 51,
-    "currentLongestDaysHeld": 944.7
+    "currentMedianDaysHeld": 51.1,
+    "currentLongestDaysHeld": 944.8
   },
   "bond": {
-    "withBond": 53,
-    "noBond": 63,
-    "medianBond": 75000,
+    "withBond": 52,
+    "noBond": 64,
+    "medianBond": 87500,
     "maxBond": 2000000,
-    "totalBond": 12224700
+    "totalBond": 12174700
   },
   "chargesPerBooking": 2.1
 }
