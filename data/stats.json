@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T11:19:18",
+  "generatedAt": "2026-11-12T12:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 277,
-    "bookingsObserved": 163,
-    "releasesObserved": 161,
+    "bookingsTracked": 278,
+    "bookingsObserved": 164,
+    "releasesObserved": 162,
     "inCustody": 116,
-    "uniquePeople": 277
+    "uniquePeople": 278
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 2,
-      "released": 1
+      "booked": 3,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 39,
-      "pct": 6.6
+      "count": 40,
+      "pct": 6.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -214,17 +214,17 @@
     {
       "name": "Violation of DV NCO",
       "count": 11,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "DWLS 2ND DEGREE",
       "count": 11,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "HARASSMENT",
       "count": 11,
-      "pct": 1.9
+      "pct": 1.8
     },
     {
       "name": "OPER VEH W/OUT IGNITION INTERLOCK",
@@ -271,14 +271,14 @@
     },
     {
       "name": "LDC",
-      "count": 171,
-      "pct": 28.8,
+      "count": 172,
+      "pct": 28.9,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 74,
-      "pct": 12.5,
+      "pct": 12.4,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 231,
-      "pct": 83.4
+      "count": 232,
+      "pct": 83.5
     },
     {
       "name": "Female",
       "count": 46,
-      "pct": 16.6
+      "pct": 16.5
     }
   ],
   "ages": {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 43
+        "count": 44
       },
       {
         "label": "55+",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 75,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "CLE ELUM, WA",
@@ -375,14 +375,14 @@
       "pct": 2.2
     },
     {
-      "name": "NESPELEM, WA",
+      "name": "EVERETT, WA",
       "count": 5,
       "pct": 1.8
     },
     {
-      "name": "EVERETT, WA",
-      "count": 4,
-      "pct": 1.5
+      "name": "NESPELEM, WA",
+      "count": 5,
+      "pct": 1.8
     },
     {
       "name": "SEATTLE, WA",
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 161,
+    "official": 162,
     "observed": 0,
     "releasedListOnly": 26
   },
   "stay": {
-    "releasedCount": 161,
+    "releasedCount": 162,
     "medianDays": 1.3,
-    "meanDays": 21.4,
+    "meanDays": 21.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 64
+        "count": 65
       },
       {
         "label": "1–3 days",
@@ -444,11 +444,11 @@
     "currentLongestDaysHeld": 944.8
   },
   "bond": {
-    "withBond": 52,
-    "noBond": 64,
-    "medianBond": 87500,
+    "withBond": 53,
+    "noBond": 63,
+    "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12174700
+    "totalBond": 12189700
   },
   "chargesPerBooking": 2.1
 }
