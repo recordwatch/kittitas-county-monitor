@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-11T18:19:16",
+  "generatedAt": "2026-11-11T19:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 274,
-    "bookingsObserved": 160,
+    "bookingsTracked": 275,
+    "bookingsObserved": 161,
     "releasesObserved": 160,
-    "inCustody": 114,
-    "uniquePeople": 274
+    "inCustody": 115,
+    "uniquePeople": 275
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-11",
-      "booked": 3,
+      "booked": 4,
       "released": 2
     }
   ],
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 38,
-      "pct": 6.5
+      "count": 39,
+      "pct": 6.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,25 +266,25 @@
     {
       "name": "SUP",
       "count": 275,
-      "pct": 46.7,
+      "pct": 46.6,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 169,
-      "pct": 28.7,
+      "count": 170,
+      "pct": 28.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 74,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 38,
-      "pct": 6.5,
+      "pct": 6.4,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 228,
-      "pct": 83.2
+      "count": 229,
+      "pct": 83.3
     },
     {
       "name": "Female",
       "count": 46,
-      "pct": 16.8
+      "pct": 16.7
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 95
+        "count": 96
       },
       {
         "label": "45–54",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 74,
-      "pct": 27.6
+      "count": 75,
+      "pct": 27.9
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 10.1
+      "pct": 10
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,15 +440,15 @@
         "count": 9
       }
     ],
-    "currentMedianDaysHeld": 52.4,
+    "currentMedianDaysHeld": 50.4,
     "currentLongestDaysHeld": 944.1
   },
   "bond": {
-    "withBond": 53,
+    "withBond": 54,
     "noBond": 61,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12224700
+    "totalBond": 12224800
   },
   "chargesPerBooking": 2.1
 }
