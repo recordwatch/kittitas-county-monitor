@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T13:16:07",
+  "generatedAt": "2026-11-12T13:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 278,
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 57,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -189,7 +189,7 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 17,
-      "pct": 2.9
+      "pct": 2.8
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 277,
-      "pct": 46.6,
+      "pct": 46.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 172,
-      "pct": 28.9,
+      "pct": 28.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 38,
-      "pct": 6.4,
+      "count": 40,
+      "pct": 6.7,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -444,11 +444,11 @@
     "currentLongestDaysHeld": 944.9
   },
   "bond": {
-    "withBond": 53,
-    "noBond": 63,
+    "withBond": 54,
+    "noBond": 62,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12189700
+    "totalBond": 12194700
   },
   "chargesPerBooking": 2.1
 }
