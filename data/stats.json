@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T03:19:17",
+  "generatedAt": "2026-11-12T04:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 275,
-    "bookingsObserved": 161,
+    "bookingsTracked": 276,
+    "bookingsObserved": 162,
     "releasesObserved": 160,
-    "inCustody": 115,
-    "uniquePeople": 275
+    "inCustody": 116,
+    "uniquePeople": 276
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 52,
-      "pct": 8.8
+      "count": 53,
+      "pct": 9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -301,15 +301,15 @@
     },
     {
       "name": "CEMU",
-      "count": 5,
-      "pct": 0.8,
+      "count": 6,
+      "pct": 1,
       "label": "CEMU"
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 229,
+      "count": 230,
       "pct": 83.3
     },
     {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 68
+        "count": 69
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 75,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 19,
-      "pct": 7.1
+      "pct": 7
     },
     {
       "name": "YAKIMA, WA",
@@ -441,11 +441,11 @@
       }
     ],
     "currentMedianDaysHeld": 50.8,
-    "currentLongestDaysHeld": 944.4
+    "currentLongestDaysHeld": 944.5
   },
   "bond": {
     "withBond": 53,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12224700
