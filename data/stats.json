@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-12T16:19:16",
+  "generatedAt": "2026-11-12T17:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 280,
-    "bookingsObserved": 166,
+    "bookingsTracked": 281,
+    "bookingsObserved": 167,
     "releasesObserved": 165,
-    "inCustody": 115,
-    "uniquePeople": 280
+    "inCustody": 116,
+    "uniquePeople": 281
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-12",
-      "booked": 5,
+      "booked": 6,
       "released": 5
     }
   ],
@@ -174,7 +174,7 @@
     {
       "name": "DWLS THIRD DEGREE",
       "count": 40,
-      "pct": 6.7
+      "pct": 6.6
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,26 +265,26 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 278,
-      "pct": 46.4,
+      "count": 281,
+      "pct": 46.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 173,
-      "pct": 28.9,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 74,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 40,
-      "pct": 6.7,
+      "pct": 6.6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 234,
+      "count": 235,
       "pct": 83.6
     },
     {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 44
+        "count": 45
       },
       {
         "label": "55+",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 76,
-      "pct": 27.7
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 9.9
+      "pct": 9.8
     },
     {
       "name": "CLE ELUM, WA",
@@ -367,7 +367,7 @@
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "MOSES LAKE, WA",
@@ -440,12 +440,12 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 51.3,
+    "currentMedianDaysHeld": 50.2,
     "currentLongestDaysHeld": 945
   },
   "bond": {
     "withBond": 53,
-    "noBond": 62,
+    "noBond": 63,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12201700
