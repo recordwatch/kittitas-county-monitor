@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T02:19:15",
+  "generatedAt": "2026-11-13T03:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 282,
-    "bookingsObserved": 168,
+    "bookingsTracked": 283,
+    "bookingsObserved": 169,
     "releasesObserved": 166,
-    "inCustody": 116,
-    "uniquePeople": 282
+    "inCustody": 117,
+    "uniquePeople": 283
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 53,
-      "pct": 8.7
+      "count": 54,
+      "pct": 8.9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 286,
-      "pct": 47.1,
+      "pct": 47,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 173,
-      "pct": 28.5,
+      "pct": 28.4,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -301,15 +301,15 @@
     },
     {
       "name": "CEMU",
-      "count": 6,
-      "pct": 1,
+      "count": 8,
+      "pct": 1.3,
       "label": "CEMU"
     }
   ],
   "sex": [
     {
       "name": "Male",
-      "count": 236,
+      "count": 237,
       "pct": 83.7
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 99
+        "count": 100
       },
       {
         "label": "45–54",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 76,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 9.8
+      "pct": 9.7
     },
     {
       "name": "CLE ELUM, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 17,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "KITTITAS, WA",
@@ -395,12 +395,12 @@
       "pct": 1.4
     },
     {
-      "name": "EASTON, WA",
+      "name": "SUNNYSIDE, WA",
       "count": 3,
       "pct": 1.1
     },
     {
-      "name": "PASCO, WA",
+      "name": "EASTON, WA",
       "count": 3,
       "pct": 1.1
     }
@@ -440,15 +440,15 @@
         "count": 10
       }
     ],
-    "currentMedianDaysHeld": 50.6,
+    "currentMedianDaysHeld": 49.6,
     "currentLongestDaysHeld": 945.4
   },
   "bond": {
-    "withBond": 54,
+    "withBond": 55,
     "noBond": 62,
-    "medianBond": 87500,
+    "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12701700
+    "totalBond": 12703200
   },
   "chargesPerBooking": 2.2
 }
