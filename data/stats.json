@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:19:16",
+  "generatedAt": "2026-11-14T11:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 291,
@@ -164,7 +164,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 60,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 22,
-      "pct": 3.5
+      "count": 23,
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -193,8 +193,8 @@
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
-      "count": 15,
-      "pct": 2.4
+      "count": 16,
+      "pct": 2.6
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
@@ -239,40 +239,40 @@
     {
       "name": "MAL MISCH 3RD DEG",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "Assault 4th-Domestic Violence",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 2ND",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 1ST",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     },
     {
       "name": "RESISTING ARREST",
       "count": 9,
-      "pct": 1.5
+      "pct": 1.4
     }
   ],
   "courts": [
     {
       "name": "SUP",
       "count": 284,
-      "pct": 45.9,
+      "pct": 45.7,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 175,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "UDC",
       "count": 45,
-      "pct": 7.3,
+      "pct": 7.2,
       "label": "Upper Kittitas District Court"
     },
     {
       "name": "OCC",
-      "count": 20,
-      "pct": 3.2,
+      "count": 22,
+      "pct": 3.5,
       "label": "OCC"
     },
     {
@@ -441,14 +441,14 @@
       }
     ],
     "currentMedianDaysHeld": 52,
-    "currentLongestDaysHeld": 946.7
+    "currentLongestDaysHeld": 946.8
   },
   "bond": {
     "withBond": 55,
     "noBond": 55,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12589200
+    "totalBond": 12590200
   },
   "chargesPerBooking": 2.1
 }
