@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-14T13:19:16",
+  "generatedAt": "2026-11-14T14:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 291,
-    "bookingsObserved": 177,
+    "bookingsTracked": 292,
+    "bookingsObserved": 178,
     "releasesObserved": 183,
-    "inCustody": 108,
-    "uniquePeople": 291
+    "inCustody": 109,
+    "uniquePeople": 292
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-14",
-      "booked": 1,
+      "booked": 2,
       "released": 2
     }
   ],
@@ -169,12 +169,12 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 57,
-      "pct": 9.2
+      "pct": 9.1
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 42,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "THEFT 3RD DEG",
@@ -184,12 +184,12 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 19,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 19,
-      "pct": 3.1
+      "pct": 3
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -232,14 +232,14 @@
       "pct": 1.8
     },
     {
-      "name": "BURGLARY 2ND DEGREE",
+      "name": "MAL MISCH 3RD DEG",
       "count": 10,
       "pct": 1.6
     },
     {
-      "name": "MAL MISCH 3RD DEG",
-      "count": 9,
-      "pct": 1.4
+      "name": "BURGLARY 2ND DEGREE",
+      "count": 10,
+      "pct": 1.6
     },
     {
       "name": "Assault 4th-Domestic Violence",
@@ -271,8 +271,8 @@
     },
     {
       "name": "LDC",
-      "count": 175,
-      "pct": 28.2,
+      "count": 176,
+      "pct": 28.3,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 242,
+      "count": 243,
       "pct": 83.2
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 102
+        "count": 103
       },
       {
         "label": "45–54",
@@ -346,13 +346,13 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 78,
-      "pct": 27.4
+      "count": 79,
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 9.5
+      "pct": 9.4
     },
     {
       "name": "CLE ELUM, WA",
@@ -367,7 +367,7 @@
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 2.5
+      "pct": 2.4
     },
     {
       "name": "MOSES LAKE, WA",
@@ -377,7 +377,7 @@
     {
       "name": "NESPELEM, WA",
       "count": 5,
-      "pct": 1.8
+      "pct": 1.7
     },
     {
       "name": "EVERETT, WA",
@@ -397,12 +397,12 @@
     {
       "name": "SUNNYSIDE, WA",
       "count": 3,
-      "pct": 1.1
+      "pct": 1
     },
     {
       "name": "EASTON, WA",
       "count": 3,
-      "pct": 1.1
+      "pct": 1
     }
   ],
   "releaseSources": {
@@ -444,11 +444,11 @@
     "currentLongestDaysHeld": 946.9
   },
   "bond": {
-    "withBond": 54,
+    "withBond": 55,
     "noBond": 54,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12589200
+    "totalBond": 12590200
   },
   "chargesPerBooking": 2.1
 }
