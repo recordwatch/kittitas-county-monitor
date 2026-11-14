@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T19:19:13",
+  "generatedAt": "2026-11-13T20:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 288,
-    "bookingsObserved": 174,
-    "releasesObserved": 181,
+    "bookingsTracked": 289,
+    "bookingsObserved": 175,
+    "releasesObserved": 182,
     "inCustody": 107,
-    "uniquePeople": 288
+    "uniquePeople": 289
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-13",
-      "booked": 6,
-      "released": 15
+      "booked": 7,
+      "released": 16
     }
   ],
   "topCharges": [
@@ -182,14 +182,14 @@
       "pct": 3.6
     },
     {
-      "name": "HOLD FOR USM, FBI, MP",
+      "name": "ASSAULT 4TH DEGREE",
       "count": 19,
       "pct": 3.1
     },
     {
-      "name": "ASSAULT 4TH DEGREE",
-      "count": 18,
-      "pct": 2.9
+      "name": "HOLD FOR USM, FBI, MP",
+      "count": 19,
+      "pct": 3.1
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -237,6 +237,11 @@
       "pct": 1.6
     },
     {
+      "name": "MAL MISCH 3RD DEG",
+      "count": 9,
+      "pct": 1.5
+    },
+    {
       "name": "Assault 4th-Domestic Violence",
       "count": 9,
       "pct": 1.5
@@ -252,11 +257,6 @@
       "pct": 1.5
     },
     {
-      "name": "MAL MISCH 3RD DEG",
-      "count": 8,
-      "pct": 1.3
-    },
-    {
       "name": "THEFT 2ND DEGREE",
       "count": 8,
       "pct": 1.3
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 286,
-      "pct": 46.4,
+      "pct": 46.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 173,
-      "pct": 28.1,
+      "pct": 28,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 42,
-      "pct": 6.8,
+      "count": 44,
+      "pct": 7.1,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 241,
-      "pct": 83.7
+      "pct": 83.4
     },
     {
       "name": "Female",
-      "count": 47,
-      "pct": 16.3
+      "count": 48,
+      "pct": 16.6
     }
   ],
   "ages": {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 49
+        "count": 50
       },
       {
         "label": "25–34",
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 77,
-      "pct": 27.3
+      "pct": 27.2
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "CLE ELUM, WA",
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 181,
+    "official": 182,
     "observed": 0,
-    "releasedListOnly": 27
+    "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 181,
+    "releasedCount": 182,
     "medianDays": 1.6,
-    "meanDays": 23.4,
+    "meanDays": 23.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 68
+        "count": 69
       },
       {
         "label": "1–3 days",
@@ -440,8 +440,8 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 52.4,
-    "currentLongestDaysHeld": 946.1
+    "currentMedianDaysHeld": 52.5,
+    "currentLongestDaysHeld": 946.2
   },
   "bond": {
     "withBond": 52,
