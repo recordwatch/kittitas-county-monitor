@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T01:19:17",
+  "generatedAt": "2026-11-15T02:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 292,
-    "bookingsObserved": 178,
+    "bookingsTracked": 293,
+    "bookingsObserved": 179,
     "releasesObserved": 184,
-    "inCustody": 108,
-    "uniquePeople": 292
+    "inCustody": 109,
+    "uniquePeople": 293
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 0,
+      "booked": 1,
       "released": 0
     }
   ],
@@ -203,8 +203,8 @@
     },
     {
       "name": "ASSAULT 2ND DEGREE",
-      "count": 13,
-      "pct": 2.1
+      "count": 14,
+      "pct": 2.2
     },
     {
       "name": "POSS DEPICT OF MINOR/SEX EXPLI",
@@ -265,7 +265,7 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 284,
+      "count": 285,
       "pct": 45.7,
       "label": "Superior Court"
     },
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 243,
-      "pct": 83.2
+      "pct": 82.9
     },
     {
       "name": "Female",
-      "count": 49,
-      "pct": 16.8
+      "count": 50,
+      "pct": 17.1
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 103
+        "count": 104
       },
       {
         "label": "45–54",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 79,
-      "pct": 27.6
+      "count": 80,
+      "pct": 27.9
     },
     {
       "name": "SPOKANE, WA",
@@ -445,7 +445,7 @@
   },
   "bond": {
     "withBond": 54,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12589200
