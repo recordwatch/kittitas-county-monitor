@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-15T04:19:15",
+  "generatedAt": "2026-11-15T05:19:19",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 293,
     "bookingsObserved": 179,
-    "releasesObserved": 184,
-    "inCustody": 109,
+    "releasesObserved": 183,
+    "inCustody": 110,
     "uniquePeople": 293
   },
   "bookingsByDay": [
@@ -168,8 +168,8 @@
     },
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 57,
-      "pct": 9.1
+      "count": 58,
+      "pct": 9.3
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -198,8 +198,8 @@
     },
     {
       "name": "PROTECTION ORDER VIOLATION",
-      "count": 15,
-      "pct": 2.4
+      "count": 16,
+      "pct": 2.6
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -272,13 +272,13 @@
     {
       "name": "LDC",
       "count": 176,
-      "pct": 28.3,
+      "pct": 28.2,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 77,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -301,8 +301,8 @@
     },
     {
       "name": "CEMU",
-      "count": 8,
-      "pct": 1.3,
+      "count": 9,
+      "pct": 1.4,
       "label": "CEMU"
     }
   ],
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 184,
+    "official": 183,
     "observed": 0,
     "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 184,
+    "releasedCount": 183,
     "medianDays": 1.5,
-    "meanDays": 22.7,
+    "meanDays": 22.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -421,7 +421,7 @@
       },
       {
         "label": "1–3 days",
-        "count": 35
+        "count": 34
       },
       {
         "label": "3–7 days",
@@ -440,15 +440,15 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 53.8,
+    "currentMedianDaysHeld": 52.7,
     "currentLongestDaysHeld": 947.5
   },
   "bond": {
-    "withBond": 54,
+    "withBond": 55,
     "noBond": 55,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 12589200
+    "totalBond": 12590200
   },
   "chargesPerBooking": 2.1
 }
