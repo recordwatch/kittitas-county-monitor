@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-15T06:19:13",
+  "generatedAt": "2026-11-15T06:53:46",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 293,
-    "bookingsObserved": 179,
+    "bookingsTracked": 294,
+    "bookingsObserved": 180,
     "releasesObserved": 183,
-    "inCustody": 110,
-    "uniquePeople": 293
+    "inCustody": 111,
+    "uniquePeople": 294
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-15",
-      "booked": 1,
+      "booked": 2,
       "released": 0
     }
   ],
@@ -232,6 +232,11 @@
       "pct": 1.8
     },
     {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 10,
+      "pct": 1.6
+    },
+    {
       "name": "MAL MISCH 3RD DEG",
       "count": 10,
       "pct": 1.6
@@ -240,11 +245,6 @@
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
       "pct": 1.6
-    },
-    {
-      "name": "Assault 4th-Domestic Violence",
-      "count": 9,
-      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -266,7 +266,7 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45.7,
+      "pct": 45.6,
       "label": "Superior Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 45,
-      "pct": 7.2,
+      "count": 46,
+      "pct": 7.4,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 243,
-      "pct": 82.9
+      "count": 244,
+      "pct": 83
     },
     {
       "name": "Female",
       "count": 50,
-      "pct": 17.1
+      "pct": 17
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 104
+        "count": 105
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 80,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 20,
-      "pct": 7
+      "pct": 6.9
     },
     {
       "name": "YAKIMA, WA",
@@ -440,12 +440,12 @@
         "count": 13
       }
     ],
-    "currentMedianDaysHeld": 52.8,
+    "currentMedianDaysHeld": 51.7,
     "currentLongestDaysHeld": 947.6
   },
   "bond": {
     "withBond": 55,
-    "noBond": 55,
+    "noBond": 56,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 12590200
