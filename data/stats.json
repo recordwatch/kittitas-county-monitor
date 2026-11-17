@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T11:19:15",
+  "generatedAt": "2026-11-17T12:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 296,
     "bookingsObserved": 182,
-    "releasesObserved": 196,
-    "inCustody": 100,
+    "releasesObserved": 195,
+    "inCustody": 101,
     "uniquePeople": 296
   },
   "bookingsByDay": [
@@ -82,7 +82,7 @@
     {
       "date": "2026-11-02",
       "booked": 8,
-      "released": 10
+      "released": 9
     },
     {
       "date": "2026-11-03",
@@ -192,14 +192,14 @@
       "pct": 3
     },
     {
-      "name": "POSSESION OF A CONTROLLED SUBS",
+      "name": "PROTECTION ORDER VIOLATION",
       "count": 16,
       "pct": 2.5
     },
     {
-      "name": "PROTECTION ORDER VIOLATION",
-      "count": 16,
-      "pct": 2.5
+      "name": "POSSESION OF A CONTROLLED SUBS",
+      "count": 15,
+      "pct": 2.4
     },
     {
       "name": "ASSAULT 2ND DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45.3,
+      "pct": 45.4,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 180,
-      "pct": 28.6,
+      "count": 179,
+      "pct": 28.5,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 77,
-      "pct": 12.2,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 195,
+    "official": 194,
     "observed": 1,
     "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 196,
+    "releasedCount": 195,
     "medianDays": 1.9,
-    "meanDays": 23.8,
+    "meanDays": 23.9,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 72
+        "count": 71
       },
       {
         "label": "1–3 days",
@@ -440,15 +440,15 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 58.1,
+    "currentMedianDaysHeld": 56.1,
     "currentLongestDaysHeld": 949.8
   },
   "bond": {
-    "withBond": 48,
+    "withBond": 49,
     "noBond": 52,
     "medianBond": 100000,
     "maxBond": 2000000,
-    "totalBond": 12014200
+    "totalBond": 12029200
   },
   "chargesPerBooking": 2.1
 }
