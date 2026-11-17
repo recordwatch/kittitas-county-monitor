@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-16T15:19:24",
+  "generatedAt": "2026-11-16T16:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 295,
-    "bookingsObserved": 181,
+    "bookingsTracked": 296,
+    "bookingsObserved": 182,
     "releasesObserved": 192,
-    "inCustody": 103,
-    "uniquePeople": 295
+    "inCustody": 104,
+    "uniquePeople": 296
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-16",
-      "booked": 0,
+      "booked": 1,
       "released": 6
     }
   ],
   "topCharges": [
     {
-      "name": "HOLD FOR OTHER AGNCY",
+      "name": "DRIVING UNDER THE INFLUENCE",
       "count": 60,
       "pct": 9.5
     },
     {
-      "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 59,
-      "pct": 9.4
+      "name": "HOLD FOR OTHER AGNCY",
+      "count": 60,
+      "pct": 9.5
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45.4,
+      "pct": 45.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 179,
-      "pct": 28.5,
+      "count": 180,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 77,
-      "pct": 12.3,
+      "pct": 12.2,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 244,
-      "pct": 82.7
+      "count": 245,
+      "pct": 82.8
     },
     {
       "name": "Female",
       "count": 51,
-      "pct": 17.3
+      "pct": 17.2
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 73
+        "count": 74
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 81,
-      "pct": 28
+      "pct": 27.9
     },
     {
       "name": "SPOKANE, WA",
@@ -440,12 +440,12 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 55.3,
-    "currentLongestDaysHeld": 948.9
+    "currentMedianDaysHeld": 54.2,
+    "currentLongestDaysHeld": 949
   },
   "bond": {
     "withBond": 51,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 100000,
     "maxBond": 2000000,
     "totalBond": 12555200
