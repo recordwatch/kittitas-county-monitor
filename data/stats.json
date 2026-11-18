@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T22:19:14",
+  "generatedAt": "2026-11-17T23:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 298,
     "bookingsObserved": 184,
-    "releasesObserved": 195,
-    "inCustody": 103,
+    "releasesObserved": 194,
+    "inCustody": 104,
     "uniquePeople": 298
   },
   "bookingsByDay": [
@@ -132,7 +132,7 @@
     {
       "date": "2026-11-12",
       "booked": 7,
-      "released": 6
+      "released": 5
     },
     {
       "date": "2026-11-13",
@@ -164,7 +164,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 61,
-      "pct": 9.6
+      "pct": 9.7
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 25,
-      "pct": 3.9
+      "pct": 4
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -232,11 +232,6 @@
       "pct": 1.7
     },
     {
-      "name": "Assault 4th-Domestic Violence",
-      "count": 10,
-      "pct": 1.6
-    },
-    {
       "name": "MAL MISCH 3RD DEG",
       "count": 10,
       "pct": 1.6
@@ -245,6 +240,11 @@
       "name": "BURGLARY 2ND DEGREE",
       "count": 10,
       "pct": 1.6
+    },
+    {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 9,
+      "pct": 1.4
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45.1,
+      "pct": 45.2,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 182,
-      "pct": 28.8,
+      "count": 181,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 194,
+    "official": 193,
     "observed": 1,
     "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 195,
+    "releasedCount": 194,
     "medianDays": 1.9,
-    "meanDays": 23.7,
+    "meanDays": 23.8,
     "buckets": [
       {
         "label": "< 1 day",
@@ -425,7 +425,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 11
+        "count": 10
       },
       {
         "label": "1–4 weeks",
@@ -440,12 +440,12 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 56.5,
-    "currentLongestDaysHeld": 950.2
+    "currentMedianDaysHeld": 55.5,
+    "currentLongestDaysHeld": 950.3
   },
   "bond": {
     "withBond": 50,
-    "noBond": 53,
+    "noBond": 54,
     "medianBond": 87500,
     "maxBond": 2000000,
     "totalBond": 12056700
