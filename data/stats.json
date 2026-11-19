@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T07:19:16",
+  "generatedAt": "2026-11-19T08:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 299,
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 285,
-      "pct": 44.9,
+      "count": 286,
+      "pct": 45,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 182,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -440,8 +440,8 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 57.9,
-    "currentLongestDaysHeld": 951.6
+    "currentMedianDaysHeld": 58,
+    "currentLongestDaysHeld": 951.7
   },
   "bond": {
     "withBond": 47,
