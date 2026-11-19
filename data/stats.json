@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T10:19:18",
+  "generatedAt": "2026-11-19T11:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 299,
-    "bookingsObserved": 185,
-    "releasesObserved": 200,
-    "inCustody": 99,
-    "uniquePeople": 299
+    "bookingsTracked": 301,
+    "bookingsObserved": 187,
+    "releasesObserved": 201,
+    "inCustody": 100,
+    "uniquePeople": 301
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 1,
-      "released": 1
+      "booked": 3,
+      "released": 2
     }
   ],
   "topCharges": [
@@ -173,8 +173,8 @@
     },
     {
       "name": "DWLS THIRD DEGREE",
-      "count": 43,
-      "pct": 6.8
+      "count": 44,
+      "pct": 6.9
     },
     {
       "name": "THEFT 3RD DEG",
@@ -265,14 +265,14 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 286,
+      "count": 287,
       "pct": 45,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 182,
-      "pct": 28.6,
+      "count": 183,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -284,13 +284,13 @@
     {
       "name": "UDC",
       "count": 50,
-      "pct": 7.9,
+      "pct": 7.8,
       "label": "Upper Kittitas District Court"
     },
     {
       "name": "OCC",
       "count": 22,
-      "pct": 3.5,
+      "pct": 3.4,
       "label": "OCC"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 247,
-      "pct": 82.6
+      "count": 249,
+      "pct": 82.7
     },
     {
       "name": "Female",
       "count": 52,
-      "pct": 17.4
+      "pct": 17.3
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 106
+        "count": 108
       },
       {
         "label": "45–54",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 82,
-      "pct": 28
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -380,6 +380,11 @@
       "pct": 1.7
     },
     {
+      "name": "OMAK, WA",
+      "count": 4,
+      "pct": 1.4
+    },
+    {
       "name": "EVERETT, WA",
       "count": 4,
       "pct": 1.4
@@ -398,20 +403,15 @@
       "name": "SUNNYSIDE, WA",
       "count": 3,
       "pct": 1
-    },
-    {
-      "name": "EASTON, WA",
-      "count": 3,
-      "pct": 1
     }
   ],
   "releaseSources": {
-    "official": 199,
+    "official": 200,
     "observed": 1,
     "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 200,
+    "releasedCount": 201,
     "medianDays": 1.9,
     "meanDays": 24,
     "buckets": [
@@ -433,22 +433,22 @@
       },
       {
         "label": "1–3 months",
-        "count": 31
+        "count": 32
       },
       {
         "label": "3+ months",
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 58,
-    "currentLongestDaysHeld": 951.7
+    "currentMedianDaysHeld": 58.1,
+    "currentLongestDaysHeld": 951.8
   },
   "bond": {
     "withBond": 47,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 100000,
     "maxBond": 2000000,
-    "totalBond": 11872800
+    "totalBond": 11862800
   },
   "chargesPerBooking": 2.1
 }
