@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:19:16",
+  "generatedAt": "2026-11-18T18:19:13",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 298,
@@ -164,7 +164,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 61,
-      "pct": 9.7
+      "pct": 9.6
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -179,7 +179,7 @@
     {
       "name": "THEFT 3RD DEG",
       "count": 25,
-      "pct": 4
+      "pct": 3.9
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45.2,
+      "pct": 45.1,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 181,
-      "pct": 28.7,
+      "pct": 28.6,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 47,
-      "pct": 7.4,
+      "count": 48,
+      "pct": 7.6,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -440,8 +440,8 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 57.3,
-    "currentLongestDaysHeld": 951
+    "currentMedianDaysHeld": 57.4,
+    "currentLongestDaysHeld": 951.1
   },
   "bond": {
     "withBond": 46,
