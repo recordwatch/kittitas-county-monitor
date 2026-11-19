@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T04:19:15",
+  "generatedAt": "2026-11-19T05:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 298,
-    "bookingsObserved": 184,
+    "bookingsTracked": 299,
+    "bookingsObserved": 185,
     "releasesObserved": 200,
-    "inCustody": 98,
-    "uniquePeople": 298
+    "inCustody": 99,
+    "uniquePeople": 299
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 0,
+      "booked": 1,
       "released": 1
     }
   ],
   "topCharges": [
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 62,
-      "pct": 9.8
+      "count": 63,
+      "pct": 9.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 285,
-      "pct": 45,
+      "pct": 44.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 181,
-      "pct": 28.5,
+      "count": 182,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 247,
-      "pct": 82.9
+      "pct": 82.6
     },
     {
       "name": "Female",
-      "count": 51,
-      "pct": 17.1
+      "count": 52,
+      "pct": 17.4
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 75
+        "count": 76
       },
       {
         "label": "35–44",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 81,
-      "pct": 27.7
+      "count": 82,
+      "pct": 28
     },
     {
       "name": "SPOKANE, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 18,
-      "pct": 6.2
+      "pct": 6.1
     },
     {
       "name": "KITTITAS, WA",
@@ -372,7 +372,7 @@
     {
       "name": "MOSES LAKE, WA",
       "count": 6,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "NESPELEM, WA",
@@ -440,15 +440,15 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 59.8,
+    "currentMedianDaysHeld": 57.8,
     "currentLongestDaysHeld": 951.5
   },
   "bond": {
-    "withBond": 46,
+    "withBond": 47,
     "noBond": 52,
     "medianBond": 100000,
     "maxBond": 2000000,
-    "totalBond": 11871800
+    "totalBond": 11872800
   },
   "chargesPerBooking": 2.1
 }
