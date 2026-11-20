@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T21:19:13",
+  "generatedAt": "2026-11-19T22:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 304,
-    "bookingsObserved": 190,
+    "bookingsTracked": 305,
+    "bookingsObserved": 191,
     "releasesObserved": 200,
-    "inCustody": 104,
-    "uniquePeople": 304
+    "inCustody": 105,
+    "uniquePeople": 305
   },
   "bookingsByDay": [
     {
@@ -156,15 +156,15 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 6,
+      "booked": 7,
       "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 64,
-      "pct": 9.9
+      "count": 65,
+      "pct": 10.1
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -184,12 +184,12 @@
     {
       "name": "ASSAULT 4TH DEGREE",
       "count": 19,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "HOLD FOR USM, FBI, MP",
       "count": 19,
-      "pct": 3
+      "pct": 2.9
     },
     {
       "name": "POSSESION OF A CONTROLLED SUBS",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 288,
-      "pct": 44.9,
+      "pct": 44.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 184,
-      "pct": 28.7,
+      "count": 185,
+      "pct": 28.8,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 252,
-      "pct": 82.9
+      "count": 253,
+      "pct": 83
     },
     {
       "name": "Female",
       "count": 52,
-      "pct": 17.1
+      "pct": 17
     }
   ],
   "ages": {
@@ -339,7 +339,7 @@
       },
       {
         "label": "55+",
-        "count": 20
+        "count": 21
       }
     ]
   },
@@ -347,12 +347,12 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 83,
-      "pct": 27.9
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
       "count": 27,
-      "pct": 9.1
+      "pct": 9
     },
     {
       "name": "CLE ELUM, WA",
@@ -440,15 +440,15 @@
         "count": 14
       }
     ],
-    "currentMedianDaysHeld": 56.2,
+    "currentMedianDaysHeld": 56.1,
     "currentLongestDaysHeld": 952.2
   },
   "bond": {
-    "withBond": 47,
+    "withBond": 48,
     "noBond": 57,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 11619700
+    "totalBond": 11620700
   },
   "chargesPerBooking": 2.1
 }
