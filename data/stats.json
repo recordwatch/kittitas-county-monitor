@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-19T19:19:14",
+  "generatedAt": "2026-11-19T19:49:38",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 304,
     "bookingsObserved": 190,
-    "releasesObserved": 202,
-    "inCustody": 102,
+    "releasesObserved": 200,
+    "inCustody": 104,
     "uniquePeople": 304
   },
   "bookingsByDay": [
@@ -22,7 +22,7 @@
     {
       "date": "2026-10-23",
       "booked": 7,
-      "released": 8
+      "released": 7
     },
     {
       "date": "2026-10-24",
@@ -137,7 +137,7 @@
     {
       "date": "2026-11-15",
       "booked": 3,
-      "released": 3
+      "released": 2
     },
     {
       "date": "2026-11-16",
@@ -164,7 +164,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 64,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -178,8 +178,8 @@
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 25,
-      "pct": 3.9
+      "count": 24,
+      "pct": 3.7
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -212,6 +212,11 @@
       "pct": 2
     },
     {
+      "name": "MAL MISCH 3RD DEG",
+      "count": 11,
+      "pct": 1.7
+    },
+    {
       "name": "HARASSMENT",
       "count": 11,
       "pct": 1.7
@@ -232,16 +237,6 @@
       "pct": 1.7
     },
     {
-      "name": "MAL MISCH 3RD DEG",
-      "count": 10,
-      "pct": 1.6
-    },
-    {
-      "name": "BURGLARY 2ND DEGREE",
-      "count": 10,
-      "pct": 1.6
-    },
-    {
       "name": "Assault 4th-Domestic Violence",
       "count": 9,
       "pct": 1.4
@@ -260,6 +255,11 @@
       "name": "RESISTING ARREST",
       "count": 9,
       "pct": 1.4
+    },
+    {
+      "name": "BURGLARY 2ND DEGREE",
+      "count": 9,
+      "pct": 1.4
     }
   ],
   "courts": [
@@ -271,8 +271,8 @@
     },
     {
       "name": "LDC",
-      "count": 183,
-      "pct": 28.5,
+      "count": 184,
+      "pct": 28.7,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -406,18 +406,18 @@
     }
   ],
   "releaseSources": {
-    "official": 201,
+    "official": 199,
     "observed": 1,
     "releasedListOnly": 27
   },
   "stay": {
-    "releasedCount": 202,
+    "releasedCount": 200,
     "medianDays": 1.9,
-    "meanDays": 25.1,
+    "meanDays": 24.3,
     "buckets": [
       {
         "label": "< 1 day",
-        "count": 72
+        "count": 71
       },
       {
         "label": "1–3 days",
@@ -437,7 +437,7 @@
       },
       {
         "label": "3+ months",
-        "count": 15
+        "count": 14
       }
     ],
     "currentMedianDaysHeld": 56.1,
@@ -445,7 +445,7 @@
   },
   "bond": {
     "withBond": 47,
-    "noBond": 55,
+    "noBond": 57,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 11619700
