@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T18:19:17",
+  "generatedAt": "2026-11-19T19:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 303,
-    "bookingsObserved": 189,
-    "releasesObserved": 203,
-    "inCustody": 100,
-    "uniquePeople": 303
+    "bookingsTracked": 304,
+    "bookingsObserved": 190,
+    "releasesObserved": 202,
+    "inCustody": 102,
+    "uniquePeople": 304
   },
   "bookingsByDay": [
     {
@@ -17,7 +17,7 @@
     {
       "date": "2026-10-22",
       "booked": 6,
-      "released": 8
+      "released": 7
     },
     {
       "date": "2026-10-23",
@@ -156,25 +156,25 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 5,
+      "booked": 6,
       "released": 4
     }
   ],
   "topCharges": [
     {
       "name": "DRIVING UNDER THE INFLUENCE",
-      "count": 63,
-      "pct": 9.8
+      "count": 64,
+      "pct": 10
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 60,
-      "pct": 9.4
+      "pct": 9.3
     },
     {
       "name": "DWLS THIRD DEGREE",
       "count": 44,
-      "pct": 6.9
+      "pct": 6.8
     },
     {
       "name": "THEFT 3RD DEG",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 288,
-      "pct": 45,
+      "pct": 44.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 183,
-      "pct": 28.6,
+      "pct": 28.5,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
       "name": "UDC",
-      "count": 51,
-      "pct": 8,
+      "count": 52,
+      "pct": 8.1,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -309,13 +309,13 @@
   "sex": [
     {
       "name": "Male",
-      "count": 251,
-      "pct": 82.8
+      "count": 252,
+      "pct": 82.9
     },
     {
       "name": "Female",
       "count": 52,
-      "pct": 17.2
+      "pct": 17.1
     }
   ],
   "ages": {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 109
+        "count": 110
       },
       {
         "label": "45–54",
@@ -362,12 +362,12 @@
     {
       "name": "YAKIMA, WA",
       "count": 18,
-      "pct": 6.1
+      "pct": 6
     },
     {
       "name": "KITTITAS, WA",
       "count": 7,
-      "pct": 2.4
+      "pct": 2.3
     },
     {
       "name": "MOSES LAKE, WA",
@@ -406,12 +406,12 @@
     }
   ],
   "releaseSources": {
-    "official": 202,
+    "official": 201,
     "observed": 1,
-    "releasedListOnly": 28
+    "releasedListOnly": 27
   },
   "stay": {
-    "releasedCount": 203,
+    "releasedCount": 202,
     "medianDays": 1.9,
     "meanDays": 25.1,
     "buckets": [
@@ -429,7 +429,7 @@
       },
       {
         "label": "1–4 weeks",
-        "count": 33
+        "count": 32
       },
       {
         "label": "1–3 months",
@@ -440,12 +440,12 @@
         "count": 15
       }
     ],
-    "currentMedianDaysHeld": 57.3,
+    "currentMedianDaysHeld": 56.1,
     "currentLongestDaysHeld": 952.1
   },
   "bond": {
     "withBond": 47,
-    "noBond": 53,
+    "noBond": 55,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 11619700
