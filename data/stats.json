@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-19T17:19:14",
+  "generatedAt": "2026-11-19T18:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 302,
-    "bookingsObserved": 188,
-    "releasesObserved": 202,
+    "bookingsTracked": 303,
+    "bookingsObserved": 189,
+    "releasesObserved": 203,
     "inCustody": 100,
-    "uniquePeople": 302
+    "uniquePeople": 303
   },
   "bookingsByDay": [
     {
@@ -156,8 +156,8 @@
     },
     {
       "date": "2026-11-19",
-      "booked": 4,
-      "released": 3
+      "booked": 5,
+      "released": 4
     }
   ],
   "topCharges": [
@@ -265,8 +265,8 @@
   "courts": [
     {
       "name": "SUP",
-      "count": 287,
-      "pct": 44.9,
+      "count": 288,
+      "pct": 45,
       "label": "Superior Court"
     },
     {
@@ -278,7 +278,7 @@
     {
       "name": "USM",
       "count": 77,
-      "pct": 12.1,
+      "pct": 12,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 250,
+      "count": 251,
       "pct": 82.8
     },
     {
@@ -323,7 +323,7 @@
     "groups": [
       {
         "label": "18–24",
-        "count": 51
+        "count": 52
       },
       {
         "label": "25–34",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 82,
-      "pct": 27.7
+      "count": 83,
+      "pct": 27.9
     },
     {
       "name": "SPOKANE, WA",
@@ -357,7 +357,7 @@
     {
       "name": "CLE ELUM, WA",
       "count": 20,
-      "pct": 6.8
+      "pct": 6.7
     },
     {
       "name": "YAKIMA, WA",
@@ -382,22 +382,22 @@
     {
       "name": "OMAK, WA",
       "count": 4,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "EVERETT, WA",
       "count": 4,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "SEATTLE, WA",
       "count": 4,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "RENTON, WA",
       "count": 4,
-      "pct": 1.4
+      "pct": 1.3
     },
     {
       "name": "SUNNYSIDE, WA",
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 201,
+    "official": 202,
     "observed": 1,
     "releasedListOnly": 28
   },
   "stay": {
-    "releasedCount": 202,
+    "releasedCount": 203,
     "medianDays": 1.9,
-    "meanDays": 23.9,
+    "meanDays": 25.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -437,18 +437,18 @@
       },
       {
         "label": "3+ months",
-        "count": 14
+        "count": 15
       }
     ],
-    "currentMedianDaysHeld": 58.3,
-    "currentLongestDaysHeld": 952
+    "currentMedianDaysHeld": 57.3,
+    "currentLongestDaysHeld": 952.1
   },
   "bond": {
     "withBond": 47,
     "noBond": 53,
     "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 11669300
+    "totalBond": 11619700
   },
   "chargesPerBooking": 2.1
 }
