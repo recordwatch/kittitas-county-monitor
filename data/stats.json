@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-24T13:26:08",
+  "generatedAt": "2026-11-24T14:19:16",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 319,
-    "bookingsObserved": 205,
+    "bookingsTracked": 320,
+    "bookingsObserved": 206,
     "releasesObserved": 220,
-    "inCustody": 99,
-    "uniquePeople": 319
+    "inCustody": 100,
+    "uniquePeople": 320
   },
   "bookingsByDay": [
     {
@@ -156,20 +156,20 @@
     },
     {
       "date": "2026-11-24",
-      "booked": 2,
+      "booked": 3,
       "released": 3
     }
   ],
   "topCharges": [
     {
-      "name": "DRIVING UNDER THE INFLUENCE",
+      "name": "HOLD FOR OTHER AGNCY",
       "count": 67,
       "pct": 10
     },
     {
-      "name": "HOLD FOR OTHER AGNCY",
-      "count": 66,
-      "pct": 9.9
+      "name": "DRIVING UNDER THE INFLUENCE",
+      "count": 67,
+      "pct": 10
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 295,
-      "pct": 44.4,
+      "pct": 44.3,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
       "count": 194,
-      "pct": 29.2,
+      "pct": 29.1,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
-      "count": 83,
-      "pct": 12.5,
+      "count": 84,
+      "pct": 12.6,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 265,
+      "count": 266,
       "pct": 83.1
     },
     {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 78
+        "count": 79
       },
       {
         "label": "35–44",
@@ -347,7 +347,7 @@
     {
       "name": "ELLENSBURG, WA",
       "count": 86,
-      "pct": 27.5
+      "pct": 27.4
     },
     {
       "name": "SPOKANE, WA",
@@ -362,12 +362,12 @@
     {
       "name": "YAKIMA, WA",
       "count": 18,
-      "pct": 5.8
+      "pct": 5.7
     },
     {
       "name": "MOSES LAKE, WA",
       "count": 8,
-      "pct": 2.6
+      "pct": 2.5
     },
     {
       "name": "KITTITAS, WA",
@@ -445,7 +445,7 @@
   },
   "bond": {
     "withBond": 45,
-    "noBond": 54,
+    "noBond": 55,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 11579200
