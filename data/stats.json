@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T12:19:17",
+  "generatedAt": "2026-11-25T13:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 320,
     "bookingsObserved": 206,
-    "releasesObserved": 222,
-    "inCustody": 98,
+    "releasesObserved": 223,
+    "inCustody": 97,
     "uniquePeople": 320
   },
   "bookingsByDay": [
@@ -157,7 +157,7 @@
     {
       "date": "2026-11-25",
       "booked": 0,
-      "released": 2
+      "released": 3
     }
   ],
   "topCharges": [
@@ -406,14 +406,14 @@
     }
   ],
   "releaseSources": {
-    "official": 221,
+    "official": 222,
     "observed": 1,
     "releasedListOnly": 29
   },
   "stay": {
-    "releasedCount": 222,
-    "medianDays": 2.3,
-    "meanDays": 25.2,
+    "releasedCount": 223,
+    "medianDays": 2.4,
+    "meanDays": 25.1,
     "buckets": [
       {
         "label": "< 1 day",
@@ -425,7 +425,7 @@
       },
       {
         "label": "3–7 days",
-        "count": 11
+        "count": 12
       },
       {
         "label": "1–4 weeks",
@@ -440,12 +440,12 @@
         "count": 15
       }
     ],
-    "currentMedianDaysHeld": 61.4,
-    "currentLongestDaysHeld": 957.8
+    "currentMedianDaysHeld": 61.7,
+    "currentLongestDaysHeld": 957.9
   },
   "bond": {
     "withBond": 45,
-    "noBond": 53,
+    "noBond": 52,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 11599200
