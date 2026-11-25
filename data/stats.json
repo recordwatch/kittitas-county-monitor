@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T15:19:16",
+  "generatedAt": "2026-11-24T16:19:15",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
     "bookingsTracked": 320,
@@ -162,12 +162,12 @@
   ],
   "topCharges": [
     {
-      "name": "HOLD FOR OTHER AGNCY",
-      "count": 67,
-      "pct": 10
+      "name": "DRIVING UNDER THE INFLUENCE",
+      "count": 68,
+      "pct": 10.2
     },
     {
-      "name": "DRIVING UNDER THE INFLUENCE",
+      "name": "HOLD FOR OTHER AGNCY",
       "count": 67,
       "pct": 10
     },
@@ -271,8 +271,8 @@
     },
     {
       "name": "LDC",
-      "count": 195,
-      "pct": 29.2,
+      "count": 196,
+      "pct": 29.3,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -440,8 +440,8 @@
         "count": 15
       }
     ],
-    "currentMedianDaysHeld": 60.1,
-    "currentLongestDaysHeld": 956.9
+    "currentMedianDaysHeld": 60.2,
+    "currentLongestDaysHeld": 957
   },
   "bond": {
     "withBond": 46,
