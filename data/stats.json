@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T17:19:14",
+  "generatedAt": "2026-11-25T18:19:14",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 320,
-    "bookingsObserved": 206,
+    "bookingsTracked": 321,
+    "bookingsObserved": 207,
     "releasesObserved": 224,
-    "inCustody": 96,
-    "uniquePeople": 320
+    "inCustody": 97,
+    "uniquePeople": 321
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 0,
+      "booked": 1,
       "released": 4
     }
   ],
@@ -164,7 +164,7 @@
     {
       "name": "DRIVING UNDER THE INFLUENCE",
       "count": 68,
-      "pct": 10.2
+      "pct": 10.1
     },
     {
       "name": "HOLD FOR OTHER AGNCY",
@@ -174,12 +174,12 @@
     {
       "name": "DWLS THIRD DEGREE",
       "count": 44,
-      "pct": 6.6
+      "pct": 6.5
     },
     {
       "name": "THEFT 3RD DEG",
-      "count": 24,
-      "pct": 3.6
+      "count": 26,
+      "pct": 3.9
     },
     {
       "name": "ASSAULT 4TH DEGREE",
@@ -222,6 +222,11 @@
       "pct": 1.8
     },
     {
+      "name": "CRIM TRESPASS 2ND",
+      "count": 11,
+      "pct": 1.6
+    },
+    {
       "name": "Violation of DV NCO",
       "count": 11,
       "pct": 1.6
@@ -247,11 +252,6 @@
       "pct": 1.3
     },
     {
-      "name": "CRIM TRESPASS 2ND",
-      "count": 9,
-      "pct": 1.3
-    },
-    {
       "name": "CRIM TRESPASS 1ST",
       "count": 9,
       "pct": 1.3
@@ -266,25 +266,25 @@
     {
       "name": "SUP",
       "count": 295,
-      "pct": 44.2,
+      "pct": 43.9,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 196,
-      "pct": 29.3,
+      "count": 200,
+      "pct": 29.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 84,
-      "pct": 12.6,
+      "pct": 12.5,
       "label": "U.S. Marshals hold"
     },
     {
       "name": "UDC",
       "count": 52,
-      "pct": 7.8,
+      "pct": 7.7,
       "label": "Upper Kittitas District Court"
     },
     {
@@ -310,12 +310,12 @@
     {
       "name": "Male",
       "count": 266,
-      "pct": 83.1
+      "pct": 82.9
     },
     {
       "name": "Female",
-      "count": 54,
-      "pct": 16.9
+      "count": 55,
+      "pct": 17.1
     }
   ],
   "ages": {
@@ -327,7 +327,7 @@
       },
       {
         "label": "25–34",
-        "count": 79
+        "count": 80
       },
       {
         "label": "35–44",
@@ -346,18 +346,18 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 86,
-      "pct": 27.4
+      "count": 87,
+      "pct": 27.6
     },
     {
       "name": "SPOKANE, WA",
       "count": 30,
-      "pct": 9.6
+      "pct": 9.5
     },
     {
       "name": "CLE ELUM, WA",
       "count": 20,
-      "pct": 6.4
+      "pct": 6.3
     },
     {
       "name": "YAKIMA, WA",
@@ -441,14 +441,14 @@
       }
     ],
     "currentMedianDaysHeld": 62,
-    "currentLongestDaysHeld": 958
+    "currentLongestDaysHeld": 958.1
   },
   "bond": {
-    "withBond": 44,
+    "withBond": 45,
     "noBond": 52,
-    "medianBond": 87500,
+    "medianBond": 75000,
     "maxBond": 2000000,
-    "totalBond": 11569700
+    "totalBond": 11543700
   },
   "chargesPerBooking": 2.1
 }
