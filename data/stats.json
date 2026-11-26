@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-25T22:19:15",
+  "generatedAt": "2026-11-25T23:19:17",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 321,
-    "bookingsObserved": 207,
+    "bookingsTracked": 322,
+    "bookingsObserved": 208,
     "releasesObserved": 224,
-    "inCustody": 97,
-    "uniquePeople": 321
+    "inCustody": 98,
+    "uniquePeople": 322
   },
   "bookingsByDay": [
     {
@@ -156,7 +156,7 @@
     },
     {
       "date": "2026-11-25",
-      "booked": 1,
+      "booked": 2,
       "released": 4
     }
   ],
@@ -169,7 +169,7 @@
     {
       "name": "HOLD FOR OTHER AGNCY",
       "count": 67,
-      "pct": 10
+      "pct": 9.9
     },
     {
       "name": "DWLS THIRD DEGREE",
@@ -266,13 +266,13 @@
     {
       "name": "SUP",
       "count": 295,
-      "pct": 43.9,
+      "pct": 43.8,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 200,
-      "pct": 29.8,
+      "count": 201,
+      "pct": 29.9,
       "label": "Lower Kittitas District Court"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 266,
+      "count": 267,
       "pct": 82.9
     },
     {
@@ -331,7 +331,7 @@
       },
       {
         "label": "35–44",
-        "count": 115
+        "count": 116
       },
       {
         "label": "45–54",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 87,
-      "pct": 27.6
+      "count": 88,
+      "pct": 27.8
     },
     {
       "name": "SPOKANE, WA",
@@ -402,7 +402,7 @@
     {
       "name": "SUNNYSIDE, WA",
       "count": 3,
-      "pct": 1
+      "pct": 0.9
     }
   ],
   "releaseSources": {
@@ -440,12 +440,12 @@
         "count": 15
       }
     ],
-    "currentMedianDaysHeld": 62.1,
-    "currentLongestDaysHeld": 958.2
+    "currentMedianDaysHeld": 61.8,
+    "currentLongestDaysHeld": 958.3
   },
   "bond": {
     "withBond": 45,
-    "noBond": 52,
+    "noBond": 53,
     "medianBond": 75000,
     "maxBond": 2000000,
     "totalBond": 11543700
