@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-28T00:19:17",
+  "generatedAt": "2026-11-28T01:19:18",
   "monitoringSince": "2026-10-10T22:28:48",
   "totals": {
-    "bookingsTracked": 325,
-    "bookingsObserved": 211,
+    "bookingsTracked": 326,
+    "bookingsObserved": 212,
     "releasesObserved": 231,
-    "inCustody": 94,
-    "uniquePeople": 325
+    "inCustody": 95,
+    "uniquePeople": 326
   },
   "bookingsByDay": [
     {
@@ -151,7 +151,7 @@
     },
     {
       "date": "2026-11-27",
-      "booked": 1,
+      "booked": 2,
       "released": 4
     },
     {
@@ -204,7 +204,7 @@
     {
       "name": "ASSAULT 2ND DEGREE",
       "count": 14,
-      "pct": 2.1
+      "pct": 2
     },
     {
       "name": "HARASSMENT",
@@ -220,6 +220,11 @@
       "name": "MAL MISCH 3RD DEG",
       "count": 12,
       "pct": 1.8
+    },
+    {
+      "name": "Assault 4th-Domestic Violence",
+      "count": 11,
+      "pct": 1.6
     },
     {
       "name": "CRIM TRESPASS 2ND",
@@ -242,11 +247,6 @@
       "pct": 1.6
     },
     {
-      "name": "Assault 4th-Domestic Violence",
-      "count": 10,
-      "pct": 1.5
-    },
-    {
       "name": "THEFT 2ND DEGREE",
       "count": 9,
       "pct": 1.3
@@ -266,19 +266,19 @@
     {
       "name": "SUP",
       "count": 300,
-      "pct": 44.1,
+      "pct": 44,
       "label": "Superior Court"
     },
     {
       "name": "LDC",
-      "count": 201,
-      "pct": 29.6,
+      "count": 203,
+      "pct": 29.8,
       "label": "Lower Kittitas District Court"
     },
     {
       "name": "USM",
       "count": 84,
-      "pct": 12.4,
+      "pct": 12.3,
       "label": "U.S. Marshals hold"
     },
     {
@@ -309,7 +309,7 @@
   "sex": [
     {
       "name": "Male",
-      "count": 270,
+      "count": 271,
       "pct": 83.1
     },
     {
@@ -335,7 +335,7 @@
       },
       {
         "label": "45–54",
-        "count": 48
+        "count": 49
       },
       {
         "label": "55+",
@@ -346,8 +346,8 @@
   "topCities": [
     {
       "name": "ELLENSBURG, WA",
-      "count": 89,
-      "pct": 27.9
+      "count": 90,
+      "pct": 28.1
     },
     {
       "name": "SPOKANE, WA",
@@ -362,7 +362,7 @@
     {
       "name": "YAKIMA, WA",
       "count": 19,
-      "pct": 6
+      "pct": 5.9
     },
     {
       "name": "MOSES LAKE, WA",
@@ -440,12 +440,12 @@
         "count": 17
       }
     ],
-    "currentMedianDaysHeld": 63.9,
-    "currentLongestDaysHeld": 960.3
+    "currentMedianDaysHeld": 63.5,
+    "currentLongestDaysHeld": 960.4
   },
   "bond": {
     "withBond": 43,
-    "noBond": 51,
+    "noBond": 52,
     "medianBond": 100000,
     "maxBond": 2000000,
     "totalBond": 11490950
